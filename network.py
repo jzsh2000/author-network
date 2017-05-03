@@ -10,13 +10,11 @@ if '@' not in parseaddr(email)[1]:
 else:
     Entrez.email = email
 
-def fetch_pubmed_record(pmid):
+def get_article_info(pmid):
     handle = Entrez.efetch(db = 'pubmed', id = pmid, rettype = 'medline', retmode = 'text')
     pm_content = handle.readlines()
     handle.close()
-    return pm_content
 
-def get_article_info(pm_content):
     pm_journal = [x[6:].strip() for x in pm_content if x[:2] == 'JT'][0]
     pm_title = [x[6:].strip() for x in pm_content if x[:2] == 'TI'][0]
     pm_author = [x[6:].strip() for x in pm_content if x[:3] == 'FAU']
@@ -33,7 +31,11 @@ def get_article_info(pm_content):
                 break
         else:
             pass
-    return (pm_journal, pm_title, pm_abstract, pm_author)
+
+    return {'journal': pm_journal,
+            'title': pm_title,
+            'abstract': pm_abstract,
+            'author': pm_author}
 
 def search_coauthor(author1, author_list):
     pmid_list = set()
@@ -50,6 +52,7 @@ def search_coauthor(author1, author_list):
 if __name__ == '__main__':
     import sys
     import re
+    import pprint
 
     if len(sys.argv) > 1 and re.search('[^0-9]', sys.argv[1]) == None:
         pmid = sys.argv[1]
@@ -63,16 +66,41 @@ if __name__ == '__main__':
         sys.stderr.write('Example: %s 27549193 "Li, Bo"\n' % sys.argv[0])
         sys.exit(1)
 
-    journal, title, abstract, author_list = get_article_info(fetch_pubmed_record(pmid))
-    print 'Journal : %s' % journal
-    print 'Title   : %s' % title
-    print 'Abstract: %s' % abstract
+    article_info = get_article_info(pmid)
+    author_list = article_info['author']
+    print 'Journal : %s' % article_info['journal']
+    print 'Title   : %s' % article_info['title']
+    print 'Abstract: %s' % article_info['abstract']
+    # print 'Authors :'
+    # print '\n'.join(author_list)
 
     if author == None:
         author = author_list[0]
     elif author not in author_list:
         sys.stderr.write('Cannot find author: %s\n' % author)
-        sys.stderr.write('\n'.join(author_list) + '\n')
         sys.exit(1)
 
-    print '\n'.join(search_coauthor(author, author_list))
+    coauthor_link = {}
+    coauthor_set = set(author_list)
+    for _ in range(1):
+        article_list = search_coauthor(author, author_list)
+        author_list = []
+        for article_id in article_list:
+            article_info = get_article_info(article_id)
+            title = article_info['title']
+            journal = article_info['journal']
+            if article_id not in coauthor_link:
+                coauthor_link[article_id] = article_info
+
+            for coauthor in coauthor_link[article_id]['author']:
+                if coauthor not in coauthor_set and coauthor not in author_list:
+                    author_list.append(coauthor)
+                    # print "New coauthor '%s' in article '%s' (%s)" % \
+                    #         (coauthor, title, journal)
+
+        if not author_list:
+            break
+        else:
+            coauthor_set |= set(author_list)
+
+    pprint.pprint(coauthor_link)
