@@ -3,6 +3,7 @@
 import os
 from Bio import Entrez
 from email.utils import parseaddr
+from itertools import combinations, permutations
 
 email =  os.environ.get('EMAIL', '')
 if '@' not in parseaddr(email)[1]:
@@ -49,6 +50,27 @@ def search_coauthor(author1, author_list):
 
     return list(pmid_list)
 
+def coauthor_link_to_network(coauthor_link):
+    author_node = {}
+    author_edge = {}
+    for coauthor_dat in coauthor_link:
+        coauthor_dat_author = coauthor_dat['author']
+        for author_ in coauthor_dat_author:
+            if author_ not in author_node:
+                author_node[author_] = ('A' + str(len(author_list)), 1)
+            else:
+                author_node[author_][1] += 1
+
+        for author1, author2 in combinations(coauthor_dat_author):
+            author1_abb = author_node[author1][0]
+            author2_abb = author_node[author2][0]
+            if (author1_abb, author2_abb) not in author_edge:
+                author_edge[(author1_abb, author2_abb)] = 1
+            else:
+                author_edge[(author1_abb, author2_abb)] += 1
+
+    return (author_node, author_edge)
+
 if __name__ == '__main__':
     import sys
     import re
@@ -71,8 +93,6 @@ if __name__ == '__main__':
     print 'Journal : %s' % article_info['journal']
     print 'Title   : %s' % article_info['title']
     print 'Abstract: %s' % article_info['abstract']
-    # print 'Authors :'
-    # print '\n'.join(author_list)
 
     if author == None:
         author = author_list[0]
@@ -84,6 +104,7 @@ if __name__ == '__main__':
     coauthor_set = set(author_list)
     for _ in range(1):
         article_list = search_coauthor(author, author_list)
+        print '\n'.join(article_list)
         author_list = []
         for article_id in article_list:
             article_info = get_article_info(article_id)
@@ -103,4 +124,4 @@ if __name__ == '__main__':
         else:
             coauthor_set |= set(author_list)
 
-    pprint.pprint(coauthor_link)
+    # pprint.pprint(coauthor_link)
