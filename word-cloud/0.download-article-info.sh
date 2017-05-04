@@ -5,7 +5,7 @@ set -ueo pipefail
 fau=${1:-Regev, Aviv}
 author=$(echo $fau | grep -o '^[^,]*' | tr 'A-Z' 'a-z')
 query_string="\"${fau}\"[FAU]"
-echo $query_string
+echo "query string: $query_string"
 
 mkdir -p $author
 esearch -db pubmed -query "$query_string" \

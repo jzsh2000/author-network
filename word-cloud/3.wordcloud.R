@@ -1,10 +1,10 @@
 library(tidyverse)
 library(wordcloud)
 
-plot_wordcloud <- function(author) {
+plot_wordcloud <- function(author, word_num) {
     word <- read_tsv(file.path(author,
                                paste0(author, '.word.clean.txt'))) %>%
-        filter(min_rank(desc(freq)) <= 80)
+        filter(min_rank(desc(freq)) <= word_num)
     pdf(file.path(author, paste0(author, '.pdf')))
     wordcloud(words = word$word, freq = word$freq,
               min.freq = 1,
@@ -16,4 +16,5 @@ plot_wordcloud <- function(author) {
 
 args = commandArgs(trailingOnly = TRUE)
 author = ifelse(length(args) == 0, 'regev', args[1])
-plot_wordcloud(author)
+word_num = ifelse(length(args) < 2, 80, as.integer(args[2]))
+plot_wordcloud(author, word_num)
