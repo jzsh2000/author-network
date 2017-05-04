@@ -53,15 +53,16 @@ def search_coauthor(author1, author_list):
 def coauthor_link_to_network(coauthor_link):
     author_node = {}
     author_edge = {}
-    for coauthor_dat in coauthor_link:
+    for coauthor_dat in coauthor_link.values():
         coauthor_dat_author = coauthor_dat['author']
         for author_ in coauthor_dat_author:
             if author_ not in author_node:
-                author_node[author_] = ('A' + str(len(author_list)), 1)
+                author_node[author_] = ('A' + str(len(author_node)), 1)
             else:
-                author_node[author_][1] += 1
+                aid,size = author_node[author_]
+                author_node[author_] = (aid, size + 1)
 
-        for author1, author2 in combinations(coauthor_dat_author):
+        for author1, author2 in combinations(coauthor_dat_author, 2):
             author1_abb = author_node[author1][0]
             author2_abb = author_node[author2][0]
             if (author1_abb, author2_abb) not in author_edge:
@@ -70,6 +71,21 @@ def coauthor_link_to_network(coauthor_link):
                 author_edge[(author1_abb, author2_abb)] += 1
 
     return (author_node, author_edge)
+
+def write_network(author_node, author_edge):
+    with open('network/network.sif', 'w') as f:
+        for author1, author2 in author_edge.keys():
+            f.write('%s\tco\t%s\n' % (author1, author2))
+
+    with open('network/node.csv', 'w') as f:
+        f.write('id,fau,size\n')
+        for author,info in author_node.iteritems():
+            f.write('%s,"%s",%s\n' % (info[0], author, info[1]))
+
+    with open('network/edge.csv', 'w') as f:
+        f.write('link,size\n')
+        for authors,size in author_edge.iteritems():
+            f.write('%s,%s\n' % (authors[0] + ' (co) ' + authors[1], size))
 
 if __name__ == '__main__':
     import sys
@@ -116,8 +132,8 @@ if __name__ == '__main__':
             for coauthor in coauthor_link[article_id]['author']:
                 if coauthor not in coauthor_set and coauthor not in author_list:
                     author_list.append(coauthor)
-                    # print "New coauthor '%s' in article '%s' (%s)" % \
-                    #         (coauthor, title, journal)
+                    print "New coauthor '%s' in article '%s' (%s)" % \
+                            (coauthor, title, journal)
 
         if not author_list:
             break
@@ -125,3 +141,5 @@ if __name__ == '__main__':
             coauthor_set |= set(author_list)
 
     # pprint.pprint(coauthor_link)
+    author_node, author_edge = coauthor_link_to_network(coauthor_link)
+    write_network(author_node, author_edge)
