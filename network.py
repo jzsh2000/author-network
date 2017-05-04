@@ -73,6 +73,9 @@ def coauthor_link_to_network(coauthor_link):
     return (author_node, author_edge)
 
 def write_network(author_node, author_edge):
+    if not os.path.exists('network'):
+        os.mkdir('network')
+
     with open('network/network.sif', 'w') as f:
         for author1, author2 in author_edge.keys():
             f.write('%s\tco\t%s\n' % (author1, author2))
