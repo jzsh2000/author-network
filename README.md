@@ -15,7 +15,7 @@
     pip install -r requirements.txt
     ```
 
-3. run python script
+3. run python script `network.py`
 
     In bash (here is an example):
     ```bash
@@ -32,3 +32,18 @@
     [cytoscape](http://www.cytoscape.org/) for visualization. See the files in
     directory 'example' for example output and the [rendered
     image](https://github.com/jzsh2000/author-network/blob/master/example/network.pdf).
+
+4. generate interactive network using `networkD3.R`
+
+    In bash:
+    ```bash
+    Rscript networkD3.R
+    ```
+
+    This R script will use related files (i.e. `node.csv` and `edge.csv`) in
+    the 'network' directory, and generate a html file called `network.html` in
+    it. Then this web page could be opened in any modern browser to show the
+    final network. If anything goes wrong, you should first checkout that
+    [tidyverse](https://github.com/tidyverse/tidyverse) and
+    [networkD3](https://github.com/christophergandrud/networkD3) are installed
+    in your R environment.
