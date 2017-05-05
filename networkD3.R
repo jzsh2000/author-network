@@ -19,12 +19,12 @@ forceNetwork(Links = edge,
              NodeID = "fau",
              Nodesize = "size",
              Group = "size",
-             radiusCalculation = JS("Math.sqrt(d.nodesize) * 8"),
-             charge = -150,
+             fontSize = 12,
+             radiusCalculation = JS("Math.sqrt(d.nodesize) * 4"),
+             charge = -50,
              linkColour = '#CCC',
              opacity = 0.9,
              legend = TRUE,
-             bounded = TRUE,
              opacityNoHover = 0.8
              ) %>%
     saveNetwork(file.path(getwd(), 'network/network.html'))
