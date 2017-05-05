@@ -47,3 +47,5 @@
     [tidyverse](https://github.com/tidyverse/tidyverse) and
     [networkD3](https://github.com/christophergandrud/networkD3) are installed
     in your R environment.
+
+    Here is a live example: <https://rawgit.com/jzsh2000/author-network/master/example/network.html>
