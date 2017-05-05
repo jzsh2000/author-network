@@ -30,4 +30,5 @@
     the current directory. There should be three files in that folder,
     `network.sif`, `node.csv` and `edge.csv`, and they can be imported to
     [cytoscape](http://www.cytoscape.org/) for visualization. See the files in
-    directory 'example' for more details.
+    directory 'example' for example output and the [rendered
+    image](https://github.com/jzsh2000/author-network/blob/master/example/network.pdf).
