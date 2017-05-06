@@ -182,6 +182,10 @@ if __name__ == '__main__':
         coauthor_list_lower = [author.lower()]
         article_list = search_author(author)
 
+        if len(article_list) == 0:
+            sys.stderr.write('Cannot find author: %s\n' % author)
+            sys.exit(1)
+
     coauthor_link = get_coauthor_link(article_list)
 
     # pprint.pprint(coauthor_link)
