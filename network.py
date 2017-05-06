@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import os
+import copy
 from Bio import Entrez
 from email.utils import parseaddr
 from itertools import combinations, permutations
@@ -12,6 +13,10 @@ else:
     Entrez.email = email
 
 def get_article_info(pmid):
+    '''
+    collect related information about an article (journal name, title,
+    abstract, author list, etc.) using its pubmed id
+    '''
     handle = Entrez.efetch(db = 'pubmed', id = pmid, rettype = 'medline', retmode = 'text')
     pm_content = handle.readlines()
     handle.close()
@@ -39,23 +44,56 @@ def get_article_info(pmid):
             'author': pm_author}
 
 def search_author(author):
+    '''
+    search pubmed using the full name of an author, return a list of pubmed
+    ids. Author name is in the format of '<family name>, <given name>'
+    '''
     query_string = '"' + author + '"[FAU]"'
-    handle = Entrez.esearch(db = 'pubmed', term = query_string, retmax = 100, idtype = 'acc')
+    handle = Entrez.esearch(db = 'pubmed', term = query_string, retmax = 1000, idtype = 'acc')
     record = Entrez.read(handle)
     handle.close()
     return record['IdList']
 
 def search_coauthor(author1, author_list):
+    '''
+    search pubmed using the full name of an author and his coauthors, return
+    a list of pubmed ids. Author names are in the format of '<family name>,
+    <given name>'
+    '''
     pmid_list = set()
     for author2 in author_list:
         if author1 == author2: continue
         query_string = '"' + author1 + '"[FAU] AND "' + author2 + '"[FAU]'
-        handle = Entrez.esearch(db = 'pubmed', term = query_string, retmax = 100, idtype = 'acc')
+        handle = Entrez.esearch(db = 'pubmed', term = query_string, retmax = 1000, idtype = 'acc')
         record = Entrez.read(handle)
         handle.close()
         pmid_list |= set(record['IdList'])
 
     return list(pmid_list)
+
+def get_coauthor_link(article_list):
+    coauthor_link = {}
+
+    print '\n'.join(article_list)
+    for article_id in article_list:
+        article_info = get_article_info(article_id)
+        title = article_info['title']
+        journal = article_info['journal']
+        coauthor_link[article_id] = copy.deepcopy(article_info)
+
+        for idx, coauthor in enumerate(article_info['author']):
+            if coauthor not in coauthor_list:
+                if coauthor.lower() in coauthor_list_lower:
+                    # 'Yan Xiyun' and 'Yan XiYun' are the same person
+                    coauthor_link[article_id]['author'][idx] = \
+                            coauthor_list[coauthor_list_lower.index(coauthor.lower())]
+                else:
+                    coauthor_list.append(coauthor)
+                    coauthor_list_lower.append(coauthor.lower())
+                    print "New coauthor '%s' in article '%s' (%s)" % \
+                            (coauthor, title, journal)
+
+    return coauthor_link
 
 def coauthor_link_to_network(coauthor_link):
     author_node = {}
@@ -83,6 +121,8 @@ def write_network(author_node, author_edge):
     if not os.path.exists('network'):
         os.mkdir('network')
 
+    # more details about network formats:
+    # http://wiki.cytoscape.org/Cytoscape_User_Manual/Network_Formats
     with open('network/network.sif', 'w') as f:
         for author1, author2 in author_edge.keys():
             f.write('%s\tco\t%s\n' % (author1, author2))
@@ -101,7 +141,6 @@ if __name__ == '__main__':
     import sys
     import re
     import pprint
-    import copy
 
     if len(sys.argv) > 1:
         if re.search('[^0-9]', sys.argv[1]) == None:
@@ -118,6 +157,7 @@ if __name__ == '__main__':
         sys.stderr.write('Usage  : %s <pubmed id> [author name]\n' % sys.argv[0])
         sys.stderr.write('         %s <author name>\n' % sys.argv[0])
         sys.stderr.write('Example: %s 27549193 "Li, Bo"\n' % sys.argv[0])
+        sys.stderr.write('         %s "Yan, Xiyun"\n' % sys.argv[0])
         sys.exit(1)
 
     if not pmid == None:
@@ -142,25 +182,7 @@ if __name__ == '__main__':
         coauthor_list_lower = [author.lower()]
         article_list = search_author(author)
 
-    coauthor_link = {}
-
-    print '\n'.join(article_list)
-    for article_id in article_list:
-        article_info = get_article_info(article_id)
-        title = article_info['title']
-        journal = article_info['journal']
-        coauthor_link[article_id] = copy.deepcopy(article_info)
-
-        for idx, coauthor in enumerate(article_info['author']):
-            if coauthor not in coauthor_list:
-                if coauthor.lower() in coauthor_list_lower:
-                    coauthor_link[article_id]['author'][idx] = \
-                            coauthor_list[coauthor_list_lower.index(coauthor.lower())]
-                else:
-                    coauthor_list.append(coauthor)
-                    coauthor_list_lower.append(coauthor.lower())
-                    print "New coauthor '%s' in article '%s' (%s)" % \
-                            (coauthor, title, journal)
+    coauthor_link = get_coauthor_link(article_list)
 
     # pprint.pprint(coauthor_link)
     author_node, author_edge = coauthor_link_to_network(coauthor_link)
