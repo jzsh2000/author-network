@@ -1,9 +1,9 @@
-library(tidyverse)
+suppressMessages(library(tidyverse))
 library(stringr)
 library(networkD3)
 
-node <- read_csv('network/node.csv')
-edge <- read_csv('network/edge.csv')
+node <- read_csv('network/node.csv', col_types = "cci")
+edge <- read_csv('network/edge.csv', col_types = "ci")
 
 edge.name = str_split_fixed(edge$link, fixed(' (co) '), n = 2)
 edge <- set_names(as_data_frame(cbind(edge.name, edge$size)),
@@ -11,8 +11,8 @@ edge <- set_names(as_data_frame(cbind(edge.name, edge$size)),
     mutate(source = match(source, node$id) - 1,
            target = match(target, node$id) - 1)
 
-forceNetwork(Links = edge,
-             Nodes = node,
+forceNetwork(Links = as.data.frame(edge),
+             Nodes = as.data.frame(node),
              Source = "source",
              Target = "target",
              Value = "size",
