@@ -7,7 +7,8 @@ if [ $# -eq 0 ]; then
     exit 1
 else
     # full author name
-    fau="$1"
+    fau=$(echo "$1" \
+        | perl -lane 'if(/,/){print} else{print $F[$#F], ", ", join(" ", @F[0..($#F-1)])}')
     author=$(echo "$fau" | grep -o '^[^,]*' | tr 'A-Z' 'a-z')
 fi
 
