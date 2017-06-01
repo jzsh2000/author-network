@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -ue
 
-cd $(dirname $0)
+cd $(dirname $0)/..
 
 if [ ! -r J_Medline.txt ]; then
     # see also: https://www.nlm.nih.gov/bsd/serfile_addedinfo.html
