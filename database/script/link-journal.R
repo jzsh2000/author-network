@@ -43,4 +43,4 @@ medline_IF = bind_cols(medline[!is.na(medline2jcr),],
 medline_IF %>%
     select(JournalTitle, MedAbbr, NlmId, IF) %>%
     rename(ImpactFactor = IF) %>%
-    write_csv('medline-Journal-IF.csv')
+    write_csv('journal-IF-medline.csv')
