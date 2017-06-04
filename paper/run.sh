@@ -14,4 +14,4 @@ fi
 
 bash 0.download-article-info.sh "$fau"
 bash 1.count-journal.sh ${author}
-bash 2.plot-author-article.R ${author}
+Rscript 2.plot-author-article.R ${author}
