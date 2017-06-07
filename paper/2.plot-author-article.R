@@ -6,8 +6,11 @@ library(forcats)
 library(plotly)
 library(htmlwidgets)
 
-# TODO: Add information of first author/corresponding author
-# TODO: Show article title and number of citations
+# TODO: Show number of citations
+# TODO: Show publication type (Review/Letter ...)
+#       see: https://www.nlm.nih.gov/bsd/mms/medlineelements.html#pt
+# TODO: Show if the author is a corresponding author (by position in the author
+#       list and email address)
 plot_article <- function(author) {
     journal_info <- read_csv("../database/journal-IF-medline.csv",
                              col_types = 'cccd') %>%
@@ -15,7 +18,8 @@ plot_article <- function(author) {
 
     author_journal <- read_tsv(file.path(author,
                                          paste0(author, '.tsv')),
-                               col_types = 'iccc') %>%
+                               col_types = 'icccccc') %>%
+        rename(date = entrez_date) %>%
         mutate(date = ymd(str_extract(date, '^[^ ]*')))
 
     author_journal_info <- author_journal %>%
@@ -38,14 +42,22 @@ plot_article <- function(author) {
     author_journal_info %>%
         rename(journal = journal_title) %>%
         ggplot(aes(x = year, y = 1, fill = IF_group,
-                   date = date, journal = journal)) +
+                   date = date,
+                   journal = journal,
+                   publication_type = publication_type,
+                   author_type = author_type,
+                   title = title)) +
             geom_bar(stat = 'identity') +
             ylab('publications') +
             scale_x_continuous(breaks = full_seq(range(author_journal_info$year),
                                              period = 1)) +
             theme_bw()
 
-    saveWidget(widget = ggplotly(tooltip = c('date', 'journal')),
+    saveWidget(widget = ggplotly(tooltip = c('date',
+                                             'journal',
+                                             'publication_type',
+                                             'author_type',
+                                             'title')),
                file = file.path(getwd(), author, paste0(author, '.html')))
 
 }
