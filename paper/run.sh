@@ -13,5 +13,5 @@ else
 fi
 
 bash 0.download-article-info.sh "$fau"
-Rscript 1.count-journal.R ${author} ${fau}
+Rscript 1.count-journal.R ${author} "${fau}"
 Rscript 2.plot-author-article.R ${author}

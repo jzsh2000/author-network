@@ -31,7 +31,14 @@ plot_article <- function(author) {
 
     author_journal_info %>%
         ggplot(aes(x = year, y = 1, fill = IF_group)) +
-            geom_bar(stat = 'identity') +
+            geom_col() +
+            geom_point(data = author_journal_info %>%
+                           group_by(year) %>%
+                           arrange(desc(IF_group), date) %>%
+                           mutate(ypos = seq_along(IF_group) - 0.5) %>%
+                           filter(publication_type == 'review'),
+                       aes(x = year, y = ypos),
+                       color = 'white') +
             ylab('publications') +
             scale_x_continuous(breaks = full_seq(range(author_journal_info$year),
                                                  period = 1)) +
@@ -47,7 +54,7 @@ plot_article <- function(author) {
                    publication_type = publication_type,
                    author_type = author_type,
                    title = title)) +
-            geom_bar(stat = 'identity') +
+            geom_col() +
             ylab('publications') +
             scale_x_continuous(breaks = full_seq(range(author_journal_info$year),
                                              period = 1)) +
