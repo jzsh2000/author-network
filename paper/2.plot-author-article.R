@@ -18,9 +18,8 @@ plot_article <- function(author) {
 
     author_journal <- read_tsv(file.path(author,
                                          paste0(author, '.tsv')),
-                               col_types = 'icccccc') %>%
-        rename(date = entrez_date) %>%
-        mutate(date = ymd(str_extract(date, '^[^ ]*')))
+                               col_types = 'iccDccc') %>%
+        rename(date = entrez_date)
 
     author_journal_info <- author_journal %>%
         inner_join(journal_info,

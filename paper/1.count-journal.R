@@ -1,5 +1,6 @@
 library(tidyverse)
 library(stringr)
+library(lubridate)
 
 args = commandArgs(trailingOnly = TRUE)
 author = ifelse(length(args) < 2, 'regev', args[1])
@@ -12,7 +13,11 @@ medline <- data_frame(
     fill(PMID, .direction = 'down') %>%
     filter(text != '') %>%
     group_by(PMID) %>%
-    nest(.key = 'text')
+    nest(.key = 'text') %>%
+    left_join(read_tsv(file.path(author, paste0(author, '.citedin')),
+                       col_names = c('PMID', 'citedin'),
+                       col_types = 'ci'),
+              by = "PMID")
 
 extract_multiple_line <- function(text_column, pattern) {
     map_chr(text_column, function(medline_text) {
@@ -37,6 +42,7 @@ medline %>%
     mutate(journal_title_abbr = extract_single_line(.$text, '^TA ')) %>%
     mutate(journal_title = extract_single_line(.$text, '^JT ')) %>%
     mutate(entrez_date = extract_single_line(.$text, '^EDAT')) %>%
+    mutate(entrez_date = ymd(str_extract(entrez_date, '^[^ ]*'))) %>%
     mutate(publication_type = map_chr(.$text, function(medline_text) {
         if_else(any(str_detect(
             string = medline_text[[1]], pattern = 'PT  - Review'
@@ -54,4 +60,5 @@ medline %>%
     mutate(title = str_replace_all(extract_multiple_line(.$text, '^TI '),
                                    '  *', ' ')) %>%
     select(-text) %>%
+    arrange(PMID) %>%
     write_tsv(file.path(author, paste0(author, '.tsv')))
