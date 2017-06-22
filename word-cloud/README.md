@@ -8,7 +8,7 @@
 
 Run the following command for test:
 ```bash
-./run.sh 'Regev, Aviv'
+bash run.sh 'Regev, Aviv'
 ```
 
 Then a word-cloud image called 'regev.pdf' should appear in the directory

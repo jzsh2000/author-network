@@ -15,7 +15,7 @@ Generate a plot for an author's publications in [pubmed](https://www.ncbi.nlm.ni
 
 Run the following command for test:
 ```bash
-./run.sh 'Regev, Aviv'
+bash run.sh 'Regev, Aviv'
 ```
 
 Then you could see a folder called `regev` (the family name of the specified
