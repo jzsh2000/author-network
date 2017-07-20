@@ -1,14 +1,20 @@
 JournalTitle,MedAbbr,NlmId,ImpactFactor
+CA: a cancer journal for clinicians,CA Cancer J Clin,0370647,187.04
+Nature reviews. Drug discovery,Nat Rev Drug Discov,101124171,57
 Chemical reviews,Chem Rev,2985134R,47.928
 "Lancet (London, England)",Lancet,2985213R,47.831
+Nature reviews. Molecular cell biology,Nat Rev Mol Cell Biol,100962782,46.602
 Nature biotechnology,Nat Biotechnol,9604648,41.667
+Nature reviews. Genetics,Nat Rev Genet,100962779,40.282
 Nature,Nature,0410462,40.137
+Nature reviews. Immunology,Nat Rev Immunol,101124169,39.932
 Nature materials,Nat Mater,101155473,39.737
 Nature nanotechnology,Nat Nanotechnol,101283273,38.986
 Chemical Society reviews,Chem Soc Rev,0335405,38.618
 Nature photonics,Nat Photonics,101283276,37.852
 "Science (New York, N.Y.)",Science,0404511,37.205
 Science,Science (80- ),8000640,37.205
+Nature reviews. Cancer,Nat Rev Cancer,101124168,37.147
 Reviews of modern physics,Rev Mod Phys,0401307,36.917
 Progress in materials science,Prog Mater Sci,101558282,31.14
 Annual review of astronomy and astrophysics,Annu Rev Astron Astrophys,101137067,30.733
@@ -16,10 +22,12 @@ Cell,Cell,0413066,30.41
 Nature medicine,Nat Med,9502015,29.886
 Energy & environmental science,Energy Environ Sci,101513897,29.518
 Living reviews in relativity,Living Rev Relativ,101697608,29.3
+Nature reviews. Neuroscience,Nat Rev Neurosci,100962781,28.88
 Annual review of immunology,Annu Rev Immunol,8309206,28.396
 Nature genetics,Nat Genet,9216904,27.959
 Cancer cell,Cancer Cell,101130617,27.407
 Physiological reviews,Physiol Rev,0231714,27.312
+Nature reviews. Microbiology,Nat Rev Microbiol,101190261,26.819
 World psychiatry : official journal of the World Psychiatric Association (WPA),World Psychiatry,101189643,26.561
 Nature chemistry,Nat Chem,101499734,25.87
 Progress in polymer science,Prog Polym Sci,0361046,25.766
@@ -30,7 +38,9 @@ Annual review of plant biology,Annu Rev Plant Biol,101140127,22.808
 Nature physics,Nat Phys,101235387,22.806
 Advances in physics,Adv Phys,0370440,21.818
 Nature immunology,Nat Immunol,100941354,21.506
+Nature reviews. Clinical oncology,Nat Rev Clin Oncol,101500077,20.693
 Accounts of chemical research,Acc Chem Res,0157313,20.268
+Nature reviews. Neurology,Nat Rev Neurol,101500072,20.257
 Nature cell biology,Nat Cell Biol,100890575,20.06
 Cancer discovery,Cancer Discov,101561693,20.011
 Clinical microbiology reviews,Clin Microbiol Rev,8807282,19.958
@@ -42,6 +52,7 @@ Circulation,Circulation,0147763,19.309
 Nature climate change,Nat Clim Chang,101557419,19.304
 Annual review of condensed matter physics,Annu Rev Condens Matter Phys,101679108,18.588
 Gastroenterology,Gastroenterology,0374630,18.392
+Nature reviews. Endocrinology,Nat Rev Endocrinol,101500078,18.318
 Cell metabolism,Cell Metab,101233170,18.164
 Pharmacological reviews,Pharmacol Rev,0421737,17.893
 Nature neuroscience,Nat Neurosci,9809671,17.839
@@ -70,14 +81,18 @@ Cell host & microbe,Cell Host Microbe,101302316,14.946
 Annual review of cell and developmental biology,Annu Rev Cell Dev Biol,9600627,14.917
 Annual review of physical chemistry,Annu Rev Phys Chem,15040080R,14.741
 Molecular cell,Mol Cell,9802571,14.714
+Nature reviews. Cardiology,Nat Rev Cardiol,101500075,14.299
+"Light, science & applications",Light Sci Appl,101610753,14.098
 Neuron,Neuron,8809320,14.024
 Annual review of fluid mechanics,Annu Rev Fluid Mech,101165244,14.02
+Wiley interdisciplinary reviews. Computational molecular science,Wiley Interdiscip Rev Comput Mol Sci,101564639,14.016
 Studies in mycology,Stud Mycol,8411984,14
 Circulation research,Circ Res,0047103,13.965
 ACS nano,ACS Nano,101313589,13.942
 Nature geoscience,Nat Geosci,101482213,13.941
 Journal of the American Chemical Society,J Am Chem Soc,7503056,13.858
 Physics of life reviews,Phys Life Rev,101229718,13.84
+Nature reviews. Gastroenterology & hepatology,Nat Rev Gastroenterol Hepatol,101500079,13.678
 Applied physics reviews,Appl Phys Rev,101634369,13.667
 Annual review of medicine,Annu Rev Med,2985151R,13.609
 Fungal diversity,Fungal Divers,100955518,13.465
@@ -95,6 +110,7 @@ Annual review of pharmacology and toxicology,Annu Rev Pharmacol Toxicol,7607088,
 Annual review of entomology,Annu Rev Entomol,0372367,12.867
 Annals of the rheumatic diseases,Ann Rheum Dis,0372355,12.811
 Trends in pharmacological sciences,Trends Pharmacol Sci,7906158,12.797
+Physical review. X,Phys Rev X,101636260,12.789
 Nano letters,Nano Lett,101088070,12.712
 Nature structural & molecular biology,Nat Struct Mol Biol,101186374,12.595
 Journal of hepatology,J Hepatol,8503886,12.486
@@ -102,6 +118,8 @@ Living reviews in solar physics,Living Rev Sol Phys,101681537,12.455
 Annual review of marine science,Ann Rev Mar Sci,101536246,12.333
 Acta neuropathologica,Acta Neuropathol,0412041,12.213
 FEMS microbiology reviews,FEMS Microbiol Rev,8902526,12.198
+Nature reviews. Rheumatology,Nat Rev Rheumatol,101500080,12.188
+Nature reviews. Nephrology,Nat Rev Nephrol,101500081,12.146
 Annual review of clinical psychology,Annu Rev Clin Psychol,101235325,12.136
 Advanced functional materials,Adv Funct Mater,101190390,12.124
 Nature communications,Nat Commun,101528555,12.124
@@ -116,6 +134,7 @@ Human reproduction update,Hum Reprod Update,9507614,11.748
 Leukemia,Leukemia,8704895,11.702
 The lancet. Psychiatry,Lancet Psychiatry,101638123,11.588
 Progress in retinal and eye research,Prog Retin Eye Res,9431859,11.587
+MMWR. Morbidity and mortality weekly report,MMWR Morb Mortal Wkly Rep,7802429,11.483
 Biological psychiatry,Biol Psychiatry,0213264,11.412
 Progress in particle and nuclear physics,Prog Part Nucl Phys,101668805,11.229
 Pharmacology & therapeutics,Pharmacol Ther,7905840,11.127
@@ -137,6 +156,8 @@ Nature plants,Nat Plants,101651677,10.3
 Brain : a journal of neurology,Brain,0372537,10.292
 JAMA pediatrics,JAMA Pediatr,101589544,10.251
 Annual review of public health,Annu Rev Public Health,8006431,10.228
+JACC. Cardiovascular imaging,JACC Cardiovasc Imaging,101467978,10.189
+"Annual review of ecology, evolution, and systematics",Annu Rev Ecol Evol Syst,101171971,10.182
 Nucleic acids research,Nucleic Acids Res,0411011,10.162
 Nature protocols,Nat Protoc,101284307,10.032
 JAMA neurology,JAMA Neurol,101589536,10.029
@@ -147,11 +168,13 @@ PLoS biology,PLoS Biol,101183755,9.797
 Annual review of earth and planetary sciences,Annu Rev Earth Planet Sci,100971465,9.78
 Environmental health perspectives,Environ Health Perspect,0330411,9.776
 Molecular systems biology,Mol Syst Biol,101235389,9.75
+"Journal of cachexia, sarcopenia and muscle",J Cachexia Sarcopenia Muscle,101552883,9.697
 Proceedings of the National Academy of Sciences of the United States of America,Proc Natl Acad Sci U S A,7505876,9.661
 IEEE signal processing magazine,IEEE Signal Process Mag,101212681,9.654
 Immunological reviews,Immunol Rev,7702118,9.614
 Seminars in immunology,Semin Immunol,9009458,9.611
 Ecology letters,Ecol Lett,101121949,9.449
+"Applied catalysis. B, Environmental",Appl Catal B,101471230,9.446
 Journal of statistical software,J Stat Softw,101307056,9.436
 Frontiers in neuroendocrinology,Front Neuroendocrinol,7513292,9.425
 Annual review of microbiology,Annu Rev Microbiol,0372370,9.415
@@ -173,6 +196,7 @@ Sleep medicine reviews,Sleep Med Rev,9804678,8.958
 Systematic biology,Syst Biol,9302532,8.917
 Clinical psychology review,Clin Psychol Rev,8111117,8.897
 National science review,Natl Sci Rev,101633095,8.843
+JACC. Cardiovascular interventions,JACC Cardiovasc Interv,101467004,8.841
 Molecular plant,Mol Plant,101465514,8.827
 Cold Spring Harbor perspectives in biology,Cold Spring Harb Perspect Biol,101513680,8.769
 Medicinal research reviews,Med Res Rev,8103150,8.763
@@ -191,6 +215,7 @@ Particle and fibre toxicology,Part Fibre Toxicol,101236354,8.577
 EMBO reports,EMBO Rep,100963049,8.568
 Global change biology,Glob Chang Biol,9888746,8.502
 Microbiome,Microbiome,101615147,8.496
+JACC. Heart failure,JACC Heart Fail,101598241,8.493
 Physical review letters,Phys Rev Lett,0401141,8.462
 Laser & photonics reviews,Laser Photon Rev,101513682,8.434
 Cell systems,Cell Syst,101656080,8.406
@@ -219,6 +244,7 @@ Liver cancer,Liver Cancer,101597993,7.854
 Neuro-oncology,Neuro Oncol,100887420,7.786
 Biosensors & bioelectronics,Biosens Bioelectron,9001289,7.78
 International journal of epidemiology,Int J Epidemiol,7802871,7.738
+Nature reviews. Urology,Nat Rev Urol,101500082,7.735
 Journal of management,J Manage,9880068,7.733
 Optica,Optica,101643595,7.727
 eLife,Elife,101579614,7.725
@@ -245,6 +271,7 @@ Nanoscale,Nanoscale,101525249,7.367
 Allergy,Allergy,7804028,7.361
 Current opinion in plant biology,Curr Opin Plant Biol,100883395,7.357
 Nano research,Nano Res,101518856,7.354
+"Journal of neurology, neurosurgery, and psychiatry",J Neurol Neurosurg Psychiatry,2985191R,7.349
 Stem cell reports,Stem Cell Reports,101611300,7.338
 Molecular ecology resources,Mol Ecol Resour,101465604,7.332
 Annual review of food science and technology,Annu Rev Food Sci Technol,101561951,7.31
@@ -258,6 +285,7 @@ IEEE network,IEEE Netw,100971621,7.23
 European journal of epidemiology,Eur J Epidemiol,8508062,7.226
 ChemSusChem,ChemSusChem,101319536,7.226
 Advances in colloid and interface science,Adv Colloid Interface Sci,8706645,7.223
+Circulation. Cardiovascular interventions,Circ Cardiovasc Interv,101499602,7.198
 Applied energy,Appl Energy,101121743,7.182
 Epidemiologic reviews,Epidemiol Rev,7910703,7.16
 Environment international,Environ Int,7807270,7.088
@@ -279,6 +307,7 @@ GigaScience,Gigascience,101596872,6.871
 "Hypertension (Dallas, Tex. : 1979)",Hypertension,7906255,6.857
 Journal of catalysis,J Catal,0374756,6.844
 Critical reviews in plant sciences,CRC Crit Rev Plant Sci,9889759,6.825
+Circulation. Cardiovascular imaging,Circ Cardiovasc Imaging,101479935,6.803
 Molecular metabolism,Mol Metab,101605730,6.799
 Cytokine & growth factor reviews,Cytokine Growth Factor Rev,9612306,6.794
 Acta psychiatrica Scandinavica,Acta Psychiatr Scand,0370364,6.79
@@ -290,6 +319,7 @@ ACS photonics,ACS Photonics,101634366,6.756
 ACM computing surveys,ACM Comput Surv,9875115,6.748
 Chemistry & biology,Chem Biol,9500160,6.743
 Progress in photovoltaics,Prog Photovolt,101661815,6.726
+"Diabetes, obesity & metabolism",Diabetes Obes Metab,100883645,6.715
 Aging cell,Aging Cell,101130839,6.714
 Mayo Clinic proceedings,Mayo Clin Proc,0405543,6.686
 Critical reviews in therapeutic drug carrier systems,Crit Rev Ther Drug Carrier Syst,8511159,6.667
@@ -298,6 +328,7 @@ Critical reviews in biochemistry and molecular biology,Crit Rev Biochem Mol Biol
 Current opinion in microbiology,Curr Opin Microbiol,9815056,6.635
 Seminars in cell & developmental biology,Semin Cell Dev Biol,9607332,6.614
 PLoS pathogens,PLoS Pathog,101238921,6.608
+"Arteriosclerosis, thrombosis, and vascular biology",Arterioscler Thromb Vasc Biol,9505803,6.607
 Organic letters,Org Lett,100890393,6.579
 British journal of sports medicine,Br J Sports Med,0432520,6.557
 Critical reviews in biotechnology,Crit Rev Biotechnol,8505177,6.542
@@ -311,7 +342,10 @@ Nanotoxicology,Nanotoxicology,101233132,6.428
 Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology,Neuropsychopharmacology,8904907,6.403
 Drug delivery,Drug Deliv,9417471,6.402
 Journal of power sources,J Power Sources,101524266,6.395
+Molecular therapy. Nucleic acids,Mol Ther Nucleic Acids,101581621,6.392
+Nature reviews. Disease primers,Nat Rev Dis Primers,101672103,6.389
 Cancer letters,Cancer Lett,7600053,6.375
+Circulation. Heart failure,Circ Heart Fail,101479941,6.372
 Drug discovery today,Drug Discov Today,9604391,6.369
 Neuropsychology review,Neuropsychol Rev,9009029,6.352
 Journal of hematology & oncology,J Hematol Oncol,101468937,6.35
@@ -322,6 +356,7 @@ Carbon,Carbon N Y,101204394,6.337
 Redox biology,Redox Biol,101605639,6.337
 International journal of neural systems,Int J Neural Syst,9100527,6.333
 Trends in parasitology,Trends Parasitol,100966034,6.333
+Global environmental change : human and policy dimensions,Glob Environ Change,9884942,6.327
 Analytical chemistry,Anal Chem,0370536,6.32
 Acta biomaterialia,Acta Biomater,101233144,6.319
 Journal of the International AIDS Society,J Int AIDS Soc,101478566,6.296
@@ -344,6 +379,7 @@ BMJ quality & safety,BMJ Qual Saf,101546984,6.186
 ACS macro letters,ACS Macro Lett,101574672,6.185
 British journal of cancer,Br J Cancer,0370635,6.176
 Neuro-Signals,Neurosignals,101134359,6.143
+"Catalysis reviews, science and engineering",Catal Rev Sci Eng,8010600,6.143
 Current opinion in colloid & interface science,Curr Opin Colloid Interface Sci,9614964,6.136
 Current opinion in neurobiology,Curr Opin Neurobiol,9111376,6.133
 Blood cancer journal,Blood Cancer J,101568469,6.126
@@ -355,17 +391,20 @@ Brain stimulation,Brain Stimul,101465726,6.078
 Critical reviews in food science and nutrition,Crit Rev Food Sci Nutr,8914818,6.077
 Journal of hazardous materials,J Hazard Mater,9422688,6.065
 Heart (British Cardiac Society),Heart,9602087,6.059
+Environmental science. Nano,Environ Sci Nano,101624843,6.047
 Lab on a chip,Lab Chip,101128948,6.045
 Chest,Chest,0231335,6.044
 Journal of membrane science,J Memb Sci,7606202,6.035
 Stroke,Stroke,0235266,6.032
 European journal of cancer,Eur J Cancer,0074126,6.029
 Cancer,Cancer,0374236,5.997
+European heart journal cardiovascular Imaging,Eur Heart J Cardiovasc Imaging,101573788,5.99
 Journal of molecular cell biology,J Mol Cell Biol,101503669,5.988
 "Epidemiology (Cambridge, Mass.)",Epidemiology,9009644,5.986
 Comprehensive reviews in food science and food safety,Compr Rev Food Sci Food Saf,101305205,5.974
 Progress in nuclear magnetic resonance spectroscopy,Prog Nucl Magn Reson Spectrosc,9886009,5.971
 Cell death & disease,Cell Death Dis,101524092,5.965
+"Brain, behavior, and immunity",Brain Behav Immun,8800478,5.964
 ACS sustainable chemistry & engineering,ACS Sustain Chem Eng,101608852,5.951
 Archives of toxicology,Arch Toxicol,0417615,5.901
 Cellular & molecular immunology,Cell Mol Immunol,101242872,5.897
@@ -378,15 +417,18 @@ NeuroImage,Neuroimage,9215515,5.835
 Journal of experimental botany,J Exp Bot,9882906,5.83
 Current opinion in genetics & development,Curr Opin Genet Dev,9111375,5.825
 JAMA dermatology,JAMA Dermatol,101589530,5.817
+"Journal of toxicology and environmental health. Part B, Critical reviews",J Toxicol Environ Health B Crit Rev,9802627,5.815
 Journal of clinical lipidology,J Clin Lipidol,101300157,5.812
 IUCrJ,IUCrJ,101623101,5.793
 Critical reviews in environmental science and technology,Crit Rev Environ Sci Technol,9317948,5.79
 "Addiction (Abingdon, England)",Addiction,9304118,5.789
+Metabolism: clinical and experimental,Metabolism,0375267,5.777
 Progress in human geography,Prog Hum Geogr,101084355,5.776
 Journal of the American Medical Directors Association,J Am Med Dir Assoc,100893243,5.775
 Catalysis science & technology,Catal Sci Technol,101636664,5.773
 Molecular cancer therapeutics,Mol Cancer Ther,101132535,5.764
 Transfusion medicine reviews,Transfus Med Rev,8709027,5.745
+"Nanomedicine : nanotechnology, biology, and medicine",Nanomedicine,101233142,5.72
 Journal of cleaner production,J Clean Prod,101538287,5.715
 Social issues and policy review,Soc Issues Policy Rev,101518060,5.714
 Methods in ecology and evolution,Methods Ecol Evol,101539246,5.708
@@ -406,6 +448,8 @@ Thrombosis and haemostasis,Thromb Haemost,7608063,5.627
 Epilepsy currents,Epilepsy Curr,101135954,5.625
 JAMA ophthalmology,JAMA Ophthalmol,101589539,5.625
 Emerging microbes & infections,Emerg Microbes Infect,101594885,5.605
+"Artificial cells, nanomedicine, and biotechnology",Artif Cells Nanomed Biotechnol,101594777,5.605
+"American journal of medical genetics. Part C, Seminars in medical genetics",Am J Med Genet C Semin Med Genet,101235745,5.6
 "Stem cells (Dayton, Ohio)",Stem Cells,9304532,5.599
 Stem cells,Stem Cells,8110002,5.599
 Kidney international supplements,Kidney Int Suppl (2011),101562008,5.593
@@ -415,6 +459,7 @@ American journal of obstetrics and gynecology,Am J Obstet Gynecol,0370476,5.574
 Annual review of chemical and biomolecular engineering,Annu Rev Chem Biomol Eng,101574034,5.571
 Thyroid : official journal of the American Thyroid Association,Thyroid,9104317,5.515
 Seminars in liver disease,Semin Liver Dis,8110297,5.5
+Mutation research. Reviews in mutation research,Mutat Res Rev Mutat Res,101632211,5.5
 British journal of pharmacology,Br J Pharmacol,7502536,5.491
 International journal of obesity,Int J Obes,7703240,5.487
 Tobacco control,Tob Control,9209612,5.469
@@ -425,7 +470,9 @@ Endoscopy,Endoscopy,0215166,5.444
 Reviews in medical virology,Rev Med Virol,9112448,5.439
 Advances in genetics,Adv Genet,0370421,5.431
 Obstetrics and gynecology,Obstet Gynecol,0401101,5.426
+Circulation. Arrhythmia and electrophysiology,Circ Arrhythm Electrophysiol,101474365,5.41
 Annual review of sociology,Annu Rev Sociol,7511865,5.404
+"Sensors and actuators. B, Chemical",Sens Actuators B Chem,101149755,5.401
 Environmental microbiology,Environ Microbiol,100883692,5.395
 ACS synthetic biology,ACS Synth Biol,101575075,5.382
 Bioscience,Bioscience,0231737,5.378
@@ -477,6 +524,7 @@ Oncotarget,Oncotarget,101532965,5.168
 Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics,Neurotherapeutics,101290381,5.166
 EuroIntervention : journal of EuroPCR in collaboration with the Working Group on Interventional Cardiology of the European Society of Cardiology,EuroIntervention,101251040,5.165
 Briefings in bioinformatics,Brief Bioinform,100912837,5.134
+"International journal of radiation oncology, biology, physics",Int J Radiat Oncol Biol Phys,7603616,5.133
 Neurobiology of aging,Neurobiol Aging,8100437,5.117
 Advanced healthcare materials,Adv Healthc Mater,101581613,5.11
 Carcinogenesis,Carcinogenesis,8008055,5.105
@@ -484,6 +532,7 @@ Journal of neuroinflammation,J Neuroinflammation,101222974,5.102
 Frontiers in molecular neuroscience,Front Mol Neurosci,101477914,5.076
 Current opinion in virology,Curr Opin Virol,101560941,5.067
 American journal of ophthalmology,Am J Ophthalmol,0370500,5.052
+BJOG : an international journal of obstetrics and gynaecology,BJOG,100935741,5.051
 American journal of political science,Am J Pol Sci,100966955,5.044
 Neurobiology of disease,Neurobiol Dis,9500169,5.02
 Criminology : an interdisciplinary journal,Criminology,0263125,5.019
@@ -496,6 +545,7 @@ ACS chemical biology,ACS Chem Biol,101282906,4.995
 Clinical epigenetics,Clin Epigenetics,101516977,4.987
 Health affairs,Health Aff,0351302,4.98
 Journal of clinical epidemiology,J Clin Epidemiol,8801383,4.978
+Critical reviews in oncology/hematology,Crit Rev Oncol Hematol,8916049,4.971
 Depression and anxiety,Depress Anxiety,9708816,4.971
 Trends in cardiovascular medicine,Trends Cardiovasc Med,9108337,4.964
 The oncologist,Oncologist,9607837,4.962
@@ -520,6 +570,7 @@ Journal of the American Heart Association,J Am Heart Assoc,101580524,4.863
 Soil biology & biochemistry,Soil Biol Biochem,0244736,4.857
 Inorganic chemistry,Inorg Chem,0366543,4.857
 Nutrition research reviews,Nutr Res Rev,9113797,4.844
+Wiley interdisciplinary reviews. RNA,Wiley Interdiscip Rev RNA,101536955,4.838
 Infectious disease clinics of North America,Infect Dis Clin North Am,8804508,4.837
 Scientific data,Sci Data,101640192,4.836
 Molecular autism,Mol Autism,101534222,4.833
@@ -531,6 +582,7 @@ Reviews in endocrine & metabolic disorders,Rev Endocr Metab Disord,100940588,4.8
 Carbohydrate polymers,Carbohydr Polym,8307156,4.811
 Journal of lipid research,J Lipid Res,0376606,4.81
 Ecology,Ecology,0043541,4.809
+International journal for parasitology. Drugs and drug resistance,Int J Parasitol Drugs Drug Resist,101576715,4.809
 Physical review applied,Phys Rev Appl,101633995,4.808
 ChemCatChem,ChemCatChem,101520610,4.803
 Electrochimica acta,Electrochim Acta,9875994,4.798
@@ -543,14 +595,16 @@ International journal of coal geology,Int J Coal Geol,101667207,4.783
 Neuropsychiatry,Neuropsychiatry,19020190R,4.778
 Neuropsychiatry,Neuropsychiatry (London),101558757,4.778
 Materials research letters,Mater Res Lett,101681493,4.773
+"Reviews of physiology, biochemistry and pharmacology",Rev Physiol Biochem Pharmacol,0434624,4.769
+Wiley interdisciplinary reviews. Nanomedicine and nanobiotechnology,Wiley Interdiscip Rev Nanomed Nanobiotechnol,101508311,4.761
 Journal of dental research,J Dent Res,0354343,4.755
 Cardiovascular diabetology,Cardiovasc Diabetol,101147637,4.752
 Food hydrocolloids,Food Hydrocoll,8701770,4.747
+Circulation. Cardiovascular genetics,Circ Cardiovasc Genet,101489144,4.743
 Osteoarthritis and cartilage,Osteoarthritis Cartilage,9305697,4.742
 Anaesthesia,Anaesthesia,0370524,4.741
 Translational psychiatry,Transl Psychiatry,101562664,4.73
 Annals of emergency medicine,Ann Emerg Med,8002646,4.728
-"Nanomedicine : nanotechnology, biology, and medicine",Nanomedicine,101233142,4.727
 Advances in clinical chemistry,Adv Clin Chem,2985173R,4.722
 Annual review of animal biosciences,Annu Rev Anim Biosci,101614024,4.708
 Tourism management,Tour Manag,101670512,4.707
@@ -565,6 +619,7 @@ Psychological methods,Psychol Methods,9606928,4.667
 Virulence,Virulence,101531386,4.665
 Journal of virology,J Virol,0113724,4.663
 Global biogeochemical cycles,Global Biogeochem Cycles,100971590,4.655
+Global change biology. Bioenergy,Glob Change Biol Bioenergy,101517159,4.655
 Aging and disease,Aging Dis,101540533,4.648
 International journal of hygiene and environmental health,Int J Hyg Environ Health,100898843,4.643
 Human genetics,Hum Genet,7613873,4.637
@@ -573,6 +628,7 @@ JMIR mHealth and uHealth,JMIR Mhealth Uhealth,101624439,4.636
 Geology,Geology,100971468,4.635
 Journal of molecular biology,J Mol Biol,2985088R,4.632
 Complexity,Complexity,9888589,4.621
+"Journal of the Royal Statistical Society. Series B, Statistical methodology",J R Stat Soc Series B Stat Methodol,100890344,4.61
 Geochimica et cosmochimica acta,Geochim Cosmochim Acta,9876074,4.609
 "RNA (New York, N.Y.)",RNA,9509184,4.605
 Developmental science,Dev Sci,9814574,4.604
@@ -582,6 +638,7 @@ Journal of consulting and clinical psychology,J Consult Clin Psychol,0136553,4.5
 Oxidative medicine and cellular longevity,Oxid Med Cell Longev,101479826,4.593
 Pattern recognition,Pattern Recognit,0250655,4.582
 Biochemical pharmacology,Biochem Pharmacol,0101032,4.581
+Wiley interdisciplinary reviews. Climate change,Wiley Interdiscip Rev Clim Change,101543806,4.571
 Landscape and urban planning,Landsc Urban Plan,101087690,4.563
 Immunology and cell biology,Immunol Cell Biol,8706300,4.557
 Genetics,Genetics,0374636,4.556
@@ -595,6 +652,7 @@ Human brain mapping,Hum Brain Mapp,9419065,4.53
 Food chemistry,Food Chem,7702639,4.529
 Knowledge-based systems,Knowl Based Syst,101634338,4.529
 Inflammatory bowel diseases,Inflamm Bowel Dis,9508162,4.525
+Circulation. Cardiovascular quality and outcomes,Circ Cardiovasc Qual Outcomes,101489148,4.524
 Journal of biomedical nanotechnology,J Biomed Nanotechnol,101230869,4.521
 European journal of medicinal chemistry,Eur J Med Chem,0420510,4.519
 Clinical colorectal cancer,Clin Colorectal Cancer,101120693,4.507
@@ -609,12 +667,14 @@ Biotechnology and bioengineering,Biotechnol Bioeng,7502021,4.481
 Pharmacological research,Pharmacol Res,8907422,4.48
 Current opinion in rheumatology,Curr Opin Rheumatol,9000851,4.475
 Systematic entomology,Syst Entomol,9890601,4.474
+Best practice & research. Clinical endocrinology & metabolism,Best Pract Res Clin Endocrinol Metab,101120682,4.466
 "BioEssays : news and reviews in molecular, cellular and developmental biology",Bioessays,8510851,4.441
 Molecular pharmaceutics,Mol Pharm,101197791,4.44
 International reviews in physical chemistry,Int Rev Phys Chem,101597470,4.438
 American heart journal,Am Heart J,0370465,4.436
 Exercise and sport sciences reviews,Exerc Sport Sci Rev,0375434,4.431
 Journal of cell science,J Cell Sci,0052457,4.431
+Journal of experimental psychology. General,J Exp Psychol Gen,7502587,4.42
 Molecular phylogenetics and evolution,Mol Phylogenet Evol,9304400,4.419
 Stanford law review,Stanford Law Rev,7703790,4.415
 Chromosoma,Chromosoma,2985138R,4.414
@@ -635,6 +695,8 @@ European journal of nutrition,Eur J Nutr,100888704,4.37
 Environmental and experimental botany,Environ Exp Bot,7610775,4.369
 Materials & design,Mater Des,101149758,4.364
 Personnel psychology,Pers Psychol,0253023,4.362
+NeuroImage. Clinical,Neuroimage Clin,101597070,4.348
+"Applied catalysis. A, General",Appl Catal A Gen,9886711,4.339
 BJU international,BJU Int,100886721,4.338
 Contact dermatitis,Contact Dermatitis,7604950,4.335
 APL materials,APL Mater,101645742,4.335
@@ -656,6 +718,7 @@ Frontiers in plant science,Front Plant Sci,101568200,4.298
 Journal of enzyme inhibition and medicinal chemistry,J Enzyme Inhib Med Chem,101150203,4.293
 Endocrinology,Endocrinology,0375040,4.286
 Age and ageing,Age Ageing,0375655,4.282
+American journal of physiology. Lung cellular and molecular physiology,Am J Physiol Lung Cell Mol Physiol,100901229,4.281
 Cortex; a journal devoted to the study of the nervous system and behavior,Cortex,0100725,4.279
 Advanced materials interfaces,Adv Mater Interfaces,101633108,4.279
 Antiviral research,Antiviral Res,8109699,4.271
@@ -686,6 +749,7 @@ Journal of cheminformatics,J Cheminform,101516718,4.22
 Ultrasonics sonochemistry,Ultrason Sonochem,9433356,4.218
 Geological Society of America bulletin,Geol Soc Am Bull,100971357,4.212
 Stem cell research & therapy,Stem Cell Res Ther,101527581,4.211
+"Journal of molecular catalysis. A, Chemical",J Mol Catal A Chem,9503958,4.211
 Biomaterials science,Biomater Sci,101593571,4.21
 Chemosphere,Chemosphere,0320657,4.208
 Journal of physical and chemical reference data,J Phys Chem Ref Data,7603097,4.204
@@ -701,14 +765,18 @@ Physics today,Phys Today,19630090R,4.188
 Human gene therapy,Hum Gene Ther,9008950,4.187
 Progress in neuro-psychopharmacology & biological psychiatry,Prog Neuropsychopharmacol Biol Psychiatry,8211617,4.187
 Molecular carcinogenesis,Mol Carcinog,8811105,4.185
+Wiley interdisciplinary reviews. Developmental biology,Wiley Interdiscip Rev Dev Biol,101576624,4.185
 Journal of psychiatric research,J Psychiatr Res,0376331,4.183
+Nitric oxide : biology and chemistry,Nitric Oxide,9709307,4.181
 IEEE journal of solid-state circuits,IEEE J Solid-State Circuits,101212687,4.181
 Clinical child and family psychology review,Clin Child Fam Psychol Rev,9807947,4.171
+"Materials science & engineering. C, Materials for biological applications",Mater Sci Eng C Mater Biol Appl,101484109,4.164
 Talanta,Talanta,2984816R,4.162
 Journal of climate,J Clim,100971607,4.161
 Climate dynamics,Clim Dyn,101625237,4.146
 Oncogenesis,Oncogenesis,101580004,4.143
 Annual review of virology,Annu Rev Virol,101625721,4.143
+American journal of physiology. Endocrinology and metabolism,Am J Physiol Endocrinol Metab,100901226,4.142
 Medicine and science in sports and exercise,Med Sci Sports Exerc,8005433,4.141
 Bone,Bone,8504048,4.14
 Energy policy,Energy Policy,9876005,4.14
@@ -717,6 +785,7 @@ Frontiers in physiology,Front Physiol,101549006,4.134
 Journal of behavioral addictions,J Behav Addict,101602037,4.134
 Journal of abnormal psychology,J Abnorm Psychol,0034461,4.133
 "Traffic (Copenhagen, Denmark)",Traffic,100939340,4.133
+Science China. Chemistry,Sci China Chem,101532738,4.132
 Journal of industrial ecology,J Ind Ecol,101604289,4.123
 Journal of viral hepatitis,J Viral Hepat,9435672,4.122
 Arthritis research & therapy,Arthritis Res Ther,101154438,4.121
@@ -728,6 +797,8 @@ European journal of endocrinology,Eur J Endocrinol,9423848,4.101
 Diabetes & metabolism,Diabetes Metab,9607599,4.101
 American journal of respiratory cell and molecular biology,Am J Respir Cell Mol Biol,8917225,4.1
 American journal of science,Am J Sci,14830070R,4.099
+"Agriculture, ecosystems & environment",Agric Ecosyst Environ,101121613,4.099
+"Acta crystallographica. Section C, Structural chemistry",Acta Crystallogr C Struct Chem,101620313,4.099
 Briefings in functional genomics,Brief Funct Genomics,101528229,4.098
 Drug metabolism reviews,Drug Metab Rev,0322067,4.097
 Current opinion in lipidology,Curr Opin Lipidol,9010000,4.096
@@ -735,12 +806,15 @@ Government information quarterly,Gov Inf Q,8502519,4.09
 ACM transactions on graphics,ACM Trans Graph,101152234,4.088
 Journal of hypertension,J Hypertens,8306882,4.085
 Journal of neurochemistry,J Neurochem,2985190R,4.083
+"Chemistry, an Asian journal",Chem Asian J,101294643,4.083
 Journal of physiotherapy,J Physiother,101528691,4.083
 Journal of ginseng research,J Ginseng Res,100890690,4.082
 Journal of cellular physiology,J Cell Physiol,0050222,4.08
 Frontiers in microbiology,Front Microbiol,101548977,4.076
+"Composites. Part A, Applied science and manufacturing",Compos Part A Appl Sci Manuf,101492223,4.075
 Periodontology 2000,Periodontol 2000,9313276,4.072
 Ecosystem services,Ecosyst Serv,101701813,4.072
+"Scandinavian journal of work, environment & health",Scand J Work Environ Health,7511540,4.071
 Energy and buildings,Energy Build,101654533,4.067
 Behaviour research and therapy,Behav Res Ther,0372477,4.064
 Journal of neurosurgery,J Neurosurg,0253357,4.059
@@ -769,6 +843,7 @@ Anesthesia and analgesia,Anesth Analg,1310650,4.014
 Journal of environmental management,J Environ Manage,0401664,4.01
 Medical education,Med Educ,7605655,4.005
 Current topics in developmental biology,Curr Top Dev Biol,0163114,4
+"Journal of environmental science and health. Part C, Environmental carcinogenesis & ecotoxicology reviews",J Environ Sci Health C Environ Carcinog Ecotoxicol Rev,9317093,4
 Stem cells translational medicine,Stem Cells Transl Med,101578022,4
 Critical reviews in analytical chemistry,Crit Rev Anal Chem,9004784,4
 Science bulletin,Sci Bull (Beijing),101655530,4
@@ -778,6 +853,7 @@ European journal of neurology,Eur J Neurol,9506311,3.988
 Schizophrenia research,Schizophr Res,8804207,3.986
 Brain imaging and behavior,Brain Imaging Behav,101300405,3.985
 Learning and instruction,Learn Instr,9885888,3.983
+Journal of chromatography. A,J Chromatogr A,9318488,3.981
 Genome biology and evolution,Genome Biol Evol,101509707,3.979
 Dialogues in clinical neuroscience,Dialogues Clin Neurosci,101238198,3.976
 Metallomics : integrated biometal science,Metallomics,101478346,3.975
@@ -803,6 +879,7 @@ Computer physics communications,Comput Phys Commun,100971327,3.936
 Journal of human evolution,J Hum Evol,0337330,3.932
 Systematic and applied microbiology,Syst Appl Microbiol,8306133,3.931
 Reviews of environmental contamination and toxicology,Rev Environ Contam Toxicol,8703602,3.93
+CBE life sciences education,CBE Life Sci Educ,101269039,3.93
 International journal of oral science,Int J Oral Sci,101504351,3.93
 Expert systems with applications,Expert Syst Appl,9884333,3.928
 Journal of neurosurgical anesthesiology,J Neurosurg Anesthesiol,8910749,3.925
@@ -814,6 +891,7 @@ CNS neuroscience & therapeutics,CNS Neurosci Ther,101473265,3.919
 Global and planetary change,Glob Planet Change,100971578,3.915
 Journal of proteomics,J Proteomics,101475056,3.914
 Occupational and environmental medicine,Occup Environ Med,9422759,3.912
+Forensic science international. Genetics,Forensic Sci Int Genet,101317016,3.911
 Child development perspectives,Child Dev Perspect,101469707,3.911
 Cell division,Cell Div,101251560,3.909
 Surgery,Surgery,0417347,3.904
@@ -825,6 +903,7 @@ Clinical orthopaedics and related research,Clin Orthop Relat Res,0075674,3.897
 Expert opinion on pharmacotherapy,Expert Opin Pharmacother,100897346,3.894
 Swarm and evolutionary computation,Swarm Evol Comput,101637472,3.893
 Soft matter,Soft Matter,101295070,3.889
+"Colloids and surfaces. B, Biointerfaces",Colloids Surf B Biointerfaces,9315133,3.887
 Agricultural and forest meteorology,Agric For Meteorol,101622394,3.887
 The Analyst,Analyst,0372652,3.885
 ACS chemical neuroscience,ACS Chem Neurosci,101525337,3.883
@@ -849,6 +928,7 @@ Biogeosciences (Online),Biogeosciences,101233311,3.851
 Expert review of proteomics,Expert Rev Proteomics,101223548,3.849
 Precambrian research,Precambrian Res,100971296,3.843
 Respiratory research,Respir Res,101090633,3.841
+Physical review. B,Phys Rev B,101677937,3.836
 Environmental research,Environ Res,0147621,3.835
 PLoS neglected tropical diseases,PLoS Negl Trop Dis,101291488,3.834
 Apoptosis : an international journal on programmed cell death,Apoptosis,9712129,3.833
@@ -858,13 +938,16 @@ IEEE transactions on emerging topics in computing,IEEE Trans Emerg Top Comput,10
 The Prostate,Prostate,8101368,3.82
 Computers & education,Comput Educ,101511025,3.819
 Cancer cytopathology,Cancer Cytopathol,101499453,3.818
+Proteomics. Clinical applications,Proteomics Clin Appl,101298608,3.814
 New biotechnology,N Biotechnol,101465345,3.813
 Applied and environmental microbiology,Appl Environ Microbiol,7605801,3.807
+"Transportation research. Part C, Emerging technologies",Transp Res Part C Emerg Technol,101593943,3.805
 "Methods (San Diego, Calif.)",Methods,9426302,3.802
 Science and technology of advanced materials,Sci Technol Adv Mater,101614420,3.798
 Communications on pure and applied mathematics,Commun Pure Appl Math,9890126,3.793
 Toxicology and applied pharmacology,Toxicol Appl Pharmacol,0416575,3.791
 Frontiers in genetics,Front Genet,101560621,3.789
+Archives of disease in childhood. Fetal and neonatal edition,Arch Dis Child Fetal Neonatal Ed,9501297,3.786
 Journal of translational medicine,J Transl Med,101190741,3.786
 New journal of physics,New J Phys,101314392,3.786
 Plastic and reconstructive surgery,Plast Reconstr Surg,1306050,3.784
@@ -887,6 +970,7 @@ Current psychiatry reports,Curr Psychiatry Rep,100888960,3.746
 ACS medicinal chemistry letters,ACS Med Chem Lett,101521073,3.746
 Forensic toxicology,Forensic Toxicol,101315563,3.744
 Ecotoxicology and environmental safety,Ecotoxicol Environ Saf,7805381,3.743
+"Genes, brain, and behavior",Genes Brain Behav,101129617,3.743
 Skeletal muscle,Skelet Muscle,101561193,3.738
 Clinics in chest medicine,Clin Chest Med,7907612,3.737
 Current allergy and asthma reports,Curr Allergy Asthma Rep,101096440,3.735
@@ -898,6 +982,7 @@ Journal of pest science,J Pest Sci (2004),101312656,3.728
 Prostate cancer and prostatic diseases,Prostate Cancer Prostatic Dis,9815755,3.723
 Journal of oral microbiology,J Oral Microbiol,101551049,3.723
 Current osteoporosis reports,Curr Osteoporos Rep,101176492,3.721
+Journal of geophysical research. Planets,J Geophys Res Planets,101661797,3.721
 FEMS microbiology ecology,FEMS Microbiol Ecol,8901229,3.72
 Cognitive psychology,Cogn Psychol,0241111,3.719
 Current topics in microbiology and immunology,Curr Top Microbiol Immunol,0110513,3.719
@@ -911,7 +996,9 @@ European journal of personality,Eur J Pers,8710403,3.707
 Mitochondrion,Mitochondrion,100968751,3.704
 Immunology,Immunology,0374672,3.701
 Journal of general internal medicine,J Gen Intern Med,8605834,3.701
+"Genes, chromosomes & cancer",Genes Chromosomes Cancer,9007329,3.696
 Metabolomics : Official journal of the Metabolomic Society,Metabolomics,101274889,3.692
+"Current opinion in endocrinology, diabetes, and obesity",Curr Opin Endocrinol Diabetes Obes,101308636,3.69
 Ambio,Ambio,0364220,3.687
 Molecular biology of the cell,Mol Biol Cell,9201390,3.685
 Autism : the international journal of research and practice,Autism,9713494,3.684
@@ -920,6 +1007,7 @@ Polymer,Polymer (Guildf),0357015,3.684
 Biology and fertility of soils,Biol Fertil Soils,101159382,3.683
 Microbial cell factories,Microb Cell Fact,101139812,3.681
 Transplantation,Transplantation,0132144,3.678
+Nuclear physics. B,Nucl Phys B,101668780,3.678
 Clinical toxicology,Clin Toxicol,0205535,3.677
 Lithos,Lithos,101668750,3.677
 Frontiers in endocrinology,Front Endocrinol (Lausanne),101555782,3.675
@@ -955,6 +1043,7 @@ FEBS letters,FEBS Lett,0155157,3.623
 Behavior research methods,Behav Res Methods,101244316,3.623
 Journal of abnormal child psychology,J Abnorm Child Psychol,0364547,3.615
 Landscape ecology,Landsc Ecol,101534628,3.615
+American journal of physiology. Renal physiology,Am J Physiol Renal Physiol,100901990,3.611
 Immunology and allergy clinics of North America,Immunol Allergy Clin North Am,8805635,3.61
 DNA repair,DNA Repair (Amst),101139138,3.61
 Cephalalgia : an international journal of headache,Cephalalgia,8200710,3.609
@@ -964,6 +1053,7 @@ Neuroendocrinology,Neuroendocrinology,0035665,3.608
 Journal of organizational behavior,J Organ Behav,8807099,3.607
 European journal of preventive cardiology,Eur J Prev Cardiol,101564430,3.606
 Sociological methods & research,Sociol Methods Res,9881379,3.604
+American journal of physiology. Cell physiology,Am J Physiol Cell Physiol,100901225,3.602
 Genes,Genes (Basel),101551097,3.6
 ACS infectious diseases,ACS Infect Dis,101654580,3.6
 Horticulture research,Hortic Res,101655540,3.6
@@ -978,6 +1068,7 @@ Transboundary and emerging diseases,Transbound Emerg Dis,101319538,3.585
 Toxicology,Toxicology,0361055,3.582
 International journal of hydrogen energy,Int J Hydrogen Energy,100971333,3.582
 Journal of neurodevelopmental disorders,J Neurodev Disord,101483832,3.582
+"Journal of the Royal Society, Interface",J R Soc Interface,101217269,3.579
 Journal of molecular endocrinology,J Mol Endocrinol,8902617,3.577
 Environmental and molecular mutagenesis,Environ Mol Mutagen,8800109,3.575
 Marine geology,Mar Geol,100971404,3.572
@@ -1001,6 +1092,7 @@ Nutrients,Nutrients,101521595,3.55
 Long range planning,Long Range Plann,9878044,3.547
 Experimental cell research,Exp Cell Res,0373226,3.546
 Neurobiology of learning and memory,Neurobiol Learn Mem,9508166,3.543
+"Trauma, violence & abuse",Trauma Violence Abuse,100890578,3.542
 American journal of hypertension,Am J Hypertens,8803676,3.541
 Applied soft computing,Appl Soft Comput,101536968,3.541
 Stem cells international,Stem Cells Int,101535822,3.54
@@ -1025,6 +1117,7 @@ Journal of cancer research and clinical oncology,J Cancer Res Clin Oncol,7902060
 Journal of neuropathology and experimental neurology,J Neuropathol Exp Neurol,2985192R,3.503
 Marine drugs,Mar Drugs,101213729,3.503
 Journal of biological rhythms,J Biol Rhythms,8700115,3.5
+"Journal of astronomical telescopes, instruments, and systems",J Astron Telesc Instrum Syst,101672908,3.5
 Functional & integrative genomics,Funct Integr Genomics,100939343,3.496
 Climatic change,Clim Change,101087507,3.496
 Food control,Food Control,9010387,3.496
@@ -1047,6 +1140,7 @@ Journal of analytical and applied pyrolysis,J Anal Appl Pyrolysis,7910736,3.471
 Journal of neuroendocrinology,J Neuroendocrinol,8913461,3.47
 Drug testing and analysis,Drug Test Anal,101483449,3.469
 International journal of computer-supported collaborative learning,Int J Comput Support Collab Learn,101670409,3.469
+American journal of physiology. Gastrointestinal and liver physiology,Am J Physiol Gastrointest Liver Physiol,100901227,3.468
 Journal of neural engineering,J Neural Eng,101217933,3.465
 Nonlinear dynamics,Nonlinear Dyn,101492213,3.464
 Current opinion in allergy and clinical immunology,Curr Opin Allergy Clin Immunol,100936359,3.463
@@ -1055,7 +1149,9 @@ Journal of educational psychology,J Educ Psychol,0135751,3.459
 International journal of heat and mass transfer,Int J Heat Mass Transf,101492571,3.458
 Journal of dentistry,J Dent,0354422,3.456
 Journal of quantitative criminology,J Quant Criminol,101512033,3.456
+Nephron. Physiology,Nephron Physiol,101159772,3.455
 Journal of gastroenterology and hepatology,J Gastroenterol Hepatol,8607909,3.452
+"Birth defects research. Part C, Embryo today : reviews",Birth Defects Res C Embryo Today,101167665,3.451
 IEEE journal of biomedical and health informatics,IEEE J Biomed Health Inform,101604520,3.451
 Acta orthopaedica,Acta Orthop,101231512,3.446
 Cognitive computation,Cognit Comput,101499358,3.441
@@ -1080,12 +1176,14 @@ Biogeochemistry,Biogeochemistry,9880568,3.428
 Organogenesis,Organogenesis,101253266,3.426
 Applied microbiology and biotechnology,Appl Microbiol Biotechnol,8406612,3.42
 "Nutrition (Burbank, Los Angeles County, Calif.)",Nutrition,8802712,3.42
+Canadian journal of psychiatry. Revue canadienne de psychiatrie,Can J Psychiatry,7904187,3.42
 European psychologist,Eur Psychol,9610306,3.419
 "Cellulose (London, England)",Cellulose (Lond),101215688,3.417
 Diabetes & vascular disease research,Diab Vasc Dis Res,101234011,3.417
 Optics letters,Opt Lett,7708433,3.416
 Current opinion in oncology,Curr Opin Oncol,9007265,3.414
 Cognition,Cognition,0367541,3.414
+Journal of geophysical research. Earth surface,J Geophys Res Earth Surf,101661774,3.412
 Applied physics letters,Appl Phys Lett,9881183,3.411
 Journal of the European Ceramic Society,J Eur Ceram Soc,101575290,3.411
 Metrologia,Metrologia,101241528,3.411
@@ -1100,6 +1198,7 @@ Work and stress,Work Stress,8707605,3.4
 Pediatric obesity,Pediatr Obes,101572033,3.4
 Journal of the Academy of Nutrition and Dietetics,J Acad Nutr Diet,101573920,3.399
 Organic electronics,Org Electron,101588591,3.399
+Journal of geophysical research. Biogeosciences,J Geophys Res Biogeosci,101617390,3.395
 Brain topography,Brain Topogr,8903034,3.394
 ISA transactions,ISA Trans,0374750,3.394
 Sleep medicine,Sleep Med,100898759,3.391
@@ -1128,6 +1227,7 @@ Environmental microbiology reports,Environ Microbiol Rep,101499207,3.363
 Cancer medicine,Cancer Med,101595310,3.362
 Planta,Planta,1250576,3.361
 Chemistry and physics of lipids,Chem Phys Lipids,0067206,3.361
+American economic journal. Applied economics,Am Econ J Appl Econ,101507743,3.36
 Separation and purification technology,Sep Purif Technol,101526757,3.359
 Plant molecular biology,Plant Mol Biol,9106343,3.356
 Applied thermal engineering,Appl Therm Eng,101635090,3.356
@@ -1135,7 +1235,9 @@ Journal of business research,J Bus Res,101087747,3.354
 Virology,Virology,0110674,3.353
 Journal of applied physiology,J Appl Physiol,0376576,3.351
 Mitochondrial DNA,Mitochondrial DNA,101487102,3.35
+Journal of geophysical research. Solid earth,J Geophys Res Solid Earth,101661809,3.35
 Journal of inorganic biochemistry,J Inorg Biochem,7905788,3.348
+American journal of physiology. Heart and circulatory physiology,Am J Physiol Heart Circ Physiol,100901228,3.348
 Chemical geology,Chem Geol,100971315,3.347
 "Bioelectrochemistry (Amsterdam, Netherlands)",Bioelectrochemistry,100953583,3.346
 Current neurology and neuroscience reports,Curr Neurol Neurosci Rep,100931790,3.345
@@ -1164,6 +1266,7 @@ Arthritis care & research,Arthritis Care Res (Hoboken),101518086,3.319
 Neurocomputing,Neurocomputing,9884927,3.317
 Current opinion in critical care,Curr Opin Crit Care,9504454,3.316
 British journal of political science,Br J Polit Sci,100966626,3.316
+"Resources, conservation, and recycling",Resour Conserv Recycl,9891750,3.313
 Psychopharmacology,Psychopharmacology (Berl),7608025,3.308
 Psychological assessment,Psychol Assess,8915253,3.307
 Optics express,Opt Express,101137103,3.307
@@ -1175,6 +1278,7 @@ European journal of operational research,Eur J Oper Res,100973201,3.297
 European child & adolescent psychiatry,Eur Child Adolesc Psychiatry,9212296,3.295
 BMC medical research methodology,BMC Med Res Methodol,100968545,3.295
 Cancer biology & therapy,Cancer Biol Ther,101137842,3.294
+Database : the journal of biological databases and curation,Database (Oxford),101517697,3.29
 Archives of physical medicine and rehabilitation,Arch Phys Med Rehabil,2985158R,3.289
 BMC cancer,BMC Cancer,100967800,3.288
 Neuromolecular medicine,Neuromolecular Med,101135365,3.287
@@ -1197,6 +1301,8 @@ Neurogenetics,Neurogenetics,9709714,3.269
 Frontiers in neuroanatomy,Front Neuroanat,101477943,3.267
 Archives of disease in childhood,Arch Dis Child,0372434,3.265
 American journal of cancer research,Am J Cancer Res,101549944,3.264
+Diabetes/metabolism research and reviews,Diabetes Metab Res Rev,100883450,3.263
+"Cognitive, affective & behavioral neuroscience",Cogn Affect Behav Neurosci,101083946,3.263
 Neurochemistry international,Neurochem Int,8006959,3.262
 Journal of sleep research,J Sleep Res,9214441,3.259
 Journal of the Electrochemical Society,J Electrochem Soc,7505603,3.259
@@ -1220,6 +1326,7 @@ Remote sensing,Remote Sens (Basel),101624426,3.244
 "IEEE access : practical innovations, open solutions",IEEE Access,101639462,3.244
 Journal of mammary gland biology and neoplasia,J Mammary Gland Biol Neoplasia,9601804,3.243
 Journal of clinical hypertension,J Clin Hypertens,8510461,3.242
+"Spectrochimica acta. Part B, Atomic spectroscopy",Spectrochim Acta Part B At Spectrosc,0101102,3.241
 Clinical and translational allergy,Clin Transl Allergy,101576043,3.239
 Macromolecular bioscience,Macromol Biosci,101135941,3.238
 "BioFactors (Oxford, England)",Biofactors,8807441,3.236
@@ -1239,6 +1346,7 @@ Ticks and tick-borne diseases,Ticks Tick Borne Dis,101522599,3.23
 Journal of computational chemistry,J Comput Chem,9878362,3.229
 Developmental psychology,Dev Psychol,0260564,3.228
 Harvard business review,Harv Bus Rev,9875796,3.227
+Hematology/oncology clinics of North America,Hematol Oncol Clin North Am,8709473,3.226
 International journal of molecular sciences,Int J Mol Sci,101092791,3.226
 ChemMedChem,ChemMedChem,101259013,3.225
 Acta pharmacologica Sinica,Acta Pharmacol Sin,100956087,3.223
@@ -1266,11 +1374,13 @@ Anatomical sciences education,Anat Sci Educ,101392205,3.198
 Neuropsychologia,Neuropsychologia,0020713,3.197
 ACM transactions on intelligent systems and technology,ACM Trans Intell Syst Technol,101592728,3.196
 AIDS reviews,AIDS Rev,101134876,3.195
+"Journal of biomedical materials research. Part B, Applied biomaterials",J Biomed Mater Res B Appl Biomater,101234238,3.189
 Free radical research,Free Radic Res,9423872,3.188
 Seminars in perinatology,Semin Perinatol,7801132,3.185
 Journal of cardiovascular computed tomography,J Cardiovasc Comput Tomogr,101308347,3.185
 Industrial crops and products,Ind Crops Prod,101514040,3.181
 Infectious diseases of poverty,Infect Dis Poverty,101606645,3.181
+Zeitschrift fur Kristallographie. Crystalline materials,Z Kristallogr Cryst Mater,101653866,3.179
 Journal of research in science teaching,J Res Sci Teach,101665844,3.179
 International journal of methods in psychiatric research,Int J Methods Psychiatr Res,9111433,3.176
 Basic & clinical pharmacology & toxicology,Basic Clin Pharmacol Toxicol,101208422,3.176
@@ -1287,6 +1397,7 @@ Acta ophthalmologica,Acta Ophthalmol (Copenh),0370347,3.157
 International journal of chronic obstructive pulmonary disease,Int J Chron Obstruct Pulmon Dis,101273481,3.157
 Acta ophthalmologica,Acta Ophthalmol,101468102,3.157
 Acta oncologica,Acta Oncol (Madr),0370346,3.156
+Pflugers Archiv : European journal of physiology,Pflugers Arch,0154720,3.156
 Journal of agricultural and food chemistry,J Agric Food Chem,0374755,3.154
 Reactive & functional polymers,React Funct Polym,101512453,3.151
 Expert review of neurotherapeutics,Expert Rev Neurother,101129944,3.149
@@ -1305,11 +1416,13 @@ Expert review of anti-infective therapy,Expert Rev Anti Infect Ther,101181284,3.
 Journal of occupational and organizational psychology,J Occup Organ Psychol,9209845,3.139
 Journal of rheology,J Rheol (N Y N Y),9884286,3.136
 Journal of alloys and compounds,J Alloys Compd,101512115,3.133
+American economic journal. Economic policy,Am Econ J Econ Policy,101602535,3.133
 Palaeontology,Palaeontology,101087145,3.132
 Endocrine,Endocrine,9434444,3.131
 Icarus,Icarus,9890634,3.131
 Oecologia,Oecologia,0150372,3.13
 Journal of physical oceanography,J Phys Oceanogr,101526036,3.13
+Aquatic conservation : marine and freshwater ecosystems,Aquat Conserv,101564630,3.13
 Beilstein journal of nanotechnology,Beilstein J Nanotechnol,101551563,3.127
 Meat science,Meat Sci,101160862,3.126
 Media psychology,Media Psychol,101481492,3.125
@@ -1339,11 +1452,13 @@ Neurotoxicology,Neurotoxicology,7905589,3.1
 "Reproduction (Cambridge, England)",Reproduction,100966036,3.1
 Expert review of molecular diagnostics,Expert Rev Mol Diagn,101120777,3.1
 Journal of food engineering,J Food Eng,9883952,3.099
+Structural equation modeling : a multidisciplinary journal,Struct Equ Modeling,100963000,3.097
 Psycho-oncology,Psychooncology,9214524,3.095
 Ore geology reviews,Ore Geol Rev,101668802,3.095
 Environmental impact assessment review,Environ Impact Assess Rev,8100354,3.094
 Drug delivery and translational research,Drug Deliv Transl Res,101540061,3.094
 Medical microbiology and immunology,Med Microbiol Immunol,0314524,3.093
+Energy & fuels : an American Chemical Society journal,Energy Fuels,100971627,3.091
 Health services research,Health Serv Res,0053006,3.089
 Land use policy,Land use policy,101085960,3.089
 Biology letters,Biol Lett,101247722,3.089
@@ -1362,6 +1477,7 @@ Organic geochemistry,Org Geochem,100971475,3.081
 Biofouling,Biofouling,9200331,3.08
 Parasites & vectors,Parasit Vectors,101462774,3.08
 International journal of oncology,Int J Oncol,9306042,3.079
+Journal of biomedical materials research. Part A,J Biomed Mater Res A,101234237,3.076
 Chemphyschem : a European journal of chemical physics and physical chemistry,Chemphyschem,100954211,3.075
 Current opinion in organ transplantation,Curr Opin Organ Transplant,9717388,3.073
 Biological psychology,Biol Psychol,0375566,3.07
@@ -1436,6 +1552,7 @@ Ceramics international,Ceram Int,101653487,2.986
 Progress in molecular biology and translational science,Prog Mol Biol Transl Sci,101498165,2.984
 Journal of teacher education,J Teach Educ,101538627,2.984
 EXPRESS polymer letters,Express Polym Lett,101622131,2.983
+"American journal of physiology. Regulatory, integrative and comparative physiology",Am J Physiol Regul Integr Comp Physiol,100901230,2.982
 Intelligence,Intelligence,7707496,2.982
 Journal of European public policy,J Eur Public Policy,101669871,2.982
 Journal of ethnopharmacology,J Ethnopharmacol,7903310,2.981
@@ -1451,12 +1568,16 @@ International biodeterioration & biodegradation,Int Biodeterior Biodegradation,9
 European journal of internal medicine,Eur J Intern Med,9003220,2.96
 Public administration,Public Adm,19920220R,2.959
 IEEE transactions on antennas and propagation,IEEE Trans Antennas Propag,9879624,2.957
+"Allergy, asthma & immunology research",Allergy Asthma Immunol Res,101518382,2.957
 International immunopharmacology,Int Immunopharmacol,100965259,2.956
 Recent patents on anti-cancer drug discovery,Recent Pat Anticancer Drug Discov,101266081,2.956
 Current problems in surgery,Curr Probl Surg,0372617,2.955
 Inflammation,Inflammation,7600105,2.955
+"Journal of polymer science. Part A-1, Polymer chemistry",J Polym Sci A1,0050636,2.952
 Current Alzheimer research,Curr Alzheimer Res,101208441,2.952
+"Journal of polymer science. Part A, Polymer chemistry",J Polym Sci A Polym Chem,9004358,2.952
 Environmental toxicology and chemistry,Environ Toxicol Chem,8308958,2.951
+JAMA otolaryngology-- head & neck surgery,JAMA Otolaryngol Head Neck Surg,101589542,2.951
 Journal of geodesy,J Geod,101668722,2.949
 Clinical therapeutics,Clin Ther,7706726,2.947
 Inventiones mathematicae,Invent Math,101690572,2.946
@@ -1469,6 +1590,7 @@ IEEE transactions on terahertz science and technology,IEEE Trans Terahertz Sci T
 Cellular and molecular neurobiology,Cell Mol Neurobiol,8200709,2.939
 Clinical implant dentistry and related research,Clin Implant Dent Relat Res,100888977,2.939
 Bioinspiration & biomimetics,Bioinspir Biomim,101292902,2.939
+Journal of geophysical research. Oceans,J Geophys Res Oceans,101661779,2.939
 Biochemistry,Biochemistry,0370623,2.938
 International journal of impact engineering,Int J Impact Eng,100971379,2.938
 Environmental toxicology,Environ Toxicol,100885357,2.937
@@ -1483,8 +1605,10 @@ Pharmacotherapy,Pharmacotherapy,8111305,2.932
 Expert review of clinical pharmacology,Expert Rev Clin Pharmacol,101278296,2.932
 American educational research journal,Am Educ Res J,9879361,2.931
 Bioorganic & medicinal chemistry,Bioorg Med Chem,9413298,2.93
+Sexual abuse : a journal of research and treatment,Sex Abuse,9506704,2.926
 Body image,Body Image,101222431,2.926
 IEEE transactions on dependable and secure computing,IEEE Trans Dependable Secure Comput,101231284,2.926
+Physical review. A,Phys Rev A (Coll Park),101679765,2.925
 Beneficial microbes,Benef Microbes,101507616,2.923
 Social psychiatry and psychiatric epidemiology,Soc Psychiatry Psychiatr Epidemiol,8804358,2.922
 Psychonomic bulletin & review,Psychon Bull Rev,9502924,2.921
@@ -1504,6 +1628,7 @@ Experimental physiology,Exp Physiol,9002940,2.912
 Population health metrics,Popul Health Metr,101178411,2.91
 Microbes and environments,Microbes Environ,9710937,2.909
 Molecular oral microbiology,Mol Oral Microbiol,101524770,2.908
+"Science, technology & human values",Sci Technol Human Values,9440757,2.907
 Bioscience reports,Biosci Rep,8102797,2.906
 Hearing research,Hear Res,7900445,2.906
 Coral reefs (Online),Coral Reefs,101186431,2.906
@@ -1523,6 +1648,7 @@ Journal of advertising,J Advert,101481595,2.896
 Chemical engineering science,Chem Eng Sci,9883937,2.895
 Engineering applications of artificial intelligence,Eng Appl Artif Intell,101469722,2.894
 Operative dentistry,Oper Dent,7605679,2.893
+CIRP annals ... manufacturing technology,CIRP Ann Manuf Technol,101697904,2.893
 Biochemical engineering journal,Biochem Eng J,9891831,2.892
 Journal of clinical psychopharmacology,J Clin Psychopharmacol,8109496,2.891
 European journal of political research,Eur J Polit Res,101092768,2.891
@@ -1550,6 +1676,8 @@ Computational mechanics,Comput Mech,9883520,2.861
 Immunology letters,Immunol Lett,7910006,2.86
 Organic process research & development,Org Process Res Dev,9890443,2.857
 Biology direct,Biol Direct,101258412,2.856
+"Tellus. Series B, Chemical and physical meteorology",Tellus B Chem Phys Meteorol,100971291,2.854
+Atherosclerosis. Supplements,Atheroscler Suppl,100973461,2.852
 Journal of geriatric oncology,J Geriatr Oncol,101534770,2.852
 "Ecohydrology : ecosystems, land and water process interactions, ecohydrogeomorphology",Ecohydrology,101543071,2.852
 Electroanalysis,Electroanalysis,8908702,2.851
@@ -1561,12 +1689,14 @@ Agricultural water management,Agric Water Manag,101688207,2.848
 Chembiochem : a European journal of chemical biology,Chembiochem,100937360,2.847
 Computers & structures,Comput Struct,101314430,2.847
 Robotics and computer-integrated manufacturing,Robot Comput Integr Manuf,101538497,2.846
+"European journal of mechanics. A, Solids",Eur J Mech A Solids,101630260,2.846
 Insect molecular biology,Insect Mol Biol,9303579,2.844
 Ultramicroscopy,Ultramicroscopy,7513702,2.843
 Industrial & engineering chemistry research,Ind Eng Chem Res,9882836,2.843
 Ear and hearing,Ear Hear,8005585,2.842
 IEEE transactions on visualization and computer graphics,IEEE Trans Vis Comput Graph,9891704,2.84
 Pain physician,Pain Physician,100954394,2.84
+"Journal of polymer science. Part B, Polymer physics",J Polym Sci B Polym Phys,8805341,2.838
 Zoologica scripta,Zool Scr,0316266,2.837
 "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",BioDrugs,9705305,2.835
 European journal of organic chemistry,European J Org Chem,9805750,2.834
@@ -1578,12 +1708,14 @@ Clinical rehabilitation,Clin Rehabil,8802181,2.823
 Law and human behavior,Law Hum Behav,7801255,2.822
 Management science,Manage Sci,9879580,2.822
 Drug and alcohol review,Drug Alcohol Rev,9015440,2.822
+"Drug design, development and therapy",Drug Des Devel Ther,101475745,2.822
 Journal of fluid mechanics,J Fluid Mech,100971395,2.821
 Aquatic sciences,Aquat Sci,101477008,2.821
 Cardiovascular drugs and therapy,Cardiovasc Drugs Ther,8712220,2.82
 Experimental hematology,Exp Hematol,0402313,2.82
 Current treatment options in oncology,Curr Treat Options Oncol,100900946,2.82
 EvoDevo,Evodevo,101525836,2.818
+Environmental science : water research & technology,Environ Sci (Camb),101676376,2.817
 Headache,Headache,2985091R,2.816
 Clinical breast cancer,Clin Breast Cancer,100898731,2.816
 Psychology and aging,Psychol Aging,8904079,2.812
@@ -1617,6 +1749,7 @@ Journal of the American Society for Mass Spectrometry,J Am Soc Mass Spectrom,901
 Thinking & reasoning,Think Reason,101121516,2.783
 Frontiers in zoology,Front Zool,101231669,2.781
 Molecular bioSystems,Mol Biosyst,101251620,2.781
+Science China. Life sciences,Sci China Life Sci,101529880,2.781
 Regional studies,Reg Stud,101084743,2.78
 Current gene therapy,Curr Gene Ther,101125446,2.78
 "Alcohol (Fayetteville, N.Y.)",Alcohol,8502311,2.778
@@ -1645,9 +1778,11 @@ Advances in chronic kidney disease,Adv Chronic Kidney Dis,101209214,2.757
 Skin pharmacology and physiology,Skin Pharmacol Physiol,101188418,2.756
 Gut pathogens,Gut Pathog,101474263,2.756
 Leukemia & lymphoma,Leuk Lymphoma,9007422,2.755
+Best practice & research. Clinical obstetrics & gynaecology,Best Pract Res Clin Obstet Gynaecol,101121582,2.755
 American journal of clinical dermatology,Am J Clin Dermatol,100895290,2.755
 Journal of biomedical informatics,J Biomed Inform,100970413,2.753
 Neurocritical care,Neurocrit Care,101156086,2.752
+"Pharmacology, biochemistry, and behavior",Pharmacol Biochem Behav,0367050,2.748
 Aggressive behavior,Aggress Behav,7502265,2.747
 MicrobiologyOpen,Microbiologyopen,101588314,2.747
 Brain research,Brain Res,0045503,2.746
@@ -1655,6 +1790,7 @@ Therapeutic advances in respiratory disease,Ther Adv Respir Dis,101316317,2.745
 Electrophoresis,Electrophoresis,8204476,2.744
 Journal of computational physics,J Comput Phys,9883524,2.744
 World journal of urology,World J Urol,8307716,2.743
+"IEEE transactions on ultrasonics, ferroelectrics, and frequency control",IEEE Trans Ultrason Ferroelectr Freq Control,9882735,2.743
 Expert review of gastroenterology & hepatology,Expert Rev Gastroenterol Hepatol,101278199,2.743
 Physics in medicine and biology,Phys Med Biol,0401220,2.742
 Cancer cell international,Cancer Cell Int,101139795,2.74
@@ -1662,6 +1798,7 @@ Neurophotonics,Neurophotonics,101632875,2.74
 Cancer chemotherapy and pharmacology,Cancer Chemother Pharmacol,7806519,2.737
 The plant genome,Plant Genome,101273919,2.736
 Journal of diabetes and its complications,J Diabetes Complications,9204583,2.734
+Journal of geophysical research. Space physics,J Geophys Res Space Phys,101661799,2.733
 Journal of cardiology,J Cardiol,8804703,2.732
 Current atherosclerosis reports,Curr Atheroscler Rep,100897685,2.731
 Journal of shoulder and elbow surgery,J Shoulder Elbow Surg,9206499,2.73
@@ -1669,6 +1806,8 @@ Journal of substance abuse treatment,J Subst Abuse Treat,8500909,2.728
 Endoscopic ultrasound,Endosc Ultrasound,101622292,2.728
 Paediatric and perinatal epidemiology,Paediatr Perinat Epidemiol,8709766,2.724
 Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.],Pancreatology,100966936,2.724
+Omics : a journal of integrative biology,OMICS,101131135,2.723
+Applied psychology. Health and well-being,Appl Psychol Health Well Being,101502957,2.722
 Archives of sexual behavior,Arch Sex Behav,1273516,2.72
 International archives of allergy and immunology,Int Arch Allergy Immunol,9211652,2.72
 Immunobiology,Immunobiology,8002742,2.72
@@ -1677,10 +1816,12 @@ Academic pediatrics,Acad Pediatr,101499145,2.72
 Archives of medical research,Arch Med Res,9312706,2.718
 Journal of natural gas science and engineering,J Nat Gas Sci Eng,101663014,2.718
 Journal of diabetes research,J Diabetes Res,101605237,2.717
+"Alcoholism, clinical and experimental research",Alcohol Clin Exp Res,7707242,2.716
 Immunotherapy,Immunotherapy,101485158,2.716
 Malaria journal,Malar J,101139802,2.715
 European journal of clinical investigation,Eur J Clin Invest,0245331,2.714
 Journal of fluency disorders,J Fluency Disord,7601744,2.714
+"Colloids and surfaces. A, Physicochemical and engineering aspects",Colloids Surf A Physicochem Eng Asp,9891752,2.714
 Materials characterization,Mater Charact,101668757,2.714
 Journal of pharmaceutical sciences,J Pharm Sci,2985195R,2.713
 Parasitology,Parasitology,0401121,2.713
@@ -1693,6 +1834,7 @@ Journal of global health,J Glob Health,101578780,2.707
 Autonomous robots,Auton Robots,101148936,2.706
 Mycotoxin research,Mycotoxin Res,8807334,2.706
 Journal of cell communication and signaling,J Cell Commun Signal,101308338,2.705
+"Journal of physiology, Paris",J Physiol Paris,9309351,2.704
 JAMA facial plastic surgery,JAMA Facial Plast Surg,101589532,2.703
 Journal of process control,J Process Control,101473195,2.7
 Fetal diagnosis and therapy,Fetal Diagn Ther,9107463,2.699
@@ -1700,6 +1842,7 @@ Fitoterapia,Fitoterapia,16930290R,2.698
 Diabetes technology & therapeutics,Diabetes Technol Ther,100889084,2.698
 Sociology of education,Sociol Educ,0210120,2.697
 Aesthetic surgery journal,Aesthet Surg J,9707469,2.697
+Journal of neurosurgery. Spine,J Neurosurg Spine,101223545,2.696
 Journal of business and psychology,J Bus Psychol,8711101,2.694
 Information and software technology,Inf Softw Technol,9886168,2.694
 Interface focus,Interface Focus,101531990,2.693
@@ -1710,6 +1853,7 @@ Cognition & emotion,Cogn Emot,8710375,2.688
 Journal of clinical pathology,J Clin Pathol,0376601,2.687
 Journal of cataract and refractive surgery,J Cataract Refract Surg,8604171,2.687
 Journal of luminescence,J Lumin,101492426,2.686
+Accident; analysis and prevention,Accid Anal Prev,1254476,2.685
 Current stem cell research & therapy,Curr Stem Cell Res Ther,101272517,2.684
 Solar physics,Sol Phys,101659554,2.682
 Progress in brain research,Prog Brain Res,0376441,2.68
@@ -1720,27 +1864,34 @@ Influenza and other respiratory viruses,Influenza Other Respir Viruses,101304007
 Journal of transport geography,J Transp Geogr,101634510,2.675
 Neuroimmunomodulation,Neuroimmunomodulation,9422763,2.674
 Harvard educational review,Harv Educ Rev,9876095,2.674
+"Journal of photochemistry and photobiology. B, Biology",J Photochem Photobiol B,8804966,2.673
 World journal of surgery,World J Surg,7704052,2.673
 Bioanalysis,Bioanalysis,101512484,2.673
 Journal of vision,J Vis,101147197,2.671
 Image and vision computing,Image Vis Comput,101151810,2.671
 Molecular and cellular biochemistry,Mol Cell Biochem,0364456,2.669
 Psychophysiology,Psychophysiology,0142657,2.668
+"Journal of experimental psychology. Learning, memory, and cognition",J Exp Psychol Learn Mem Cogn,8207540,2.667
 Scandinavian journal of rheumatology,Scand J Rheumatol,0321213,2.667
 Sociological methodology,Sociol Methodol,1305072,2.667
 Journal of biomechanics,J Biomech,0157375,2.664
 Gut and liver,Gut Liver,101316452,2.663
+"Photodermatology, photoimmunology & photomedicine",Photodermatol Photoimmunol Photomed,9013641,2.662
 Journal of periodontal research,J Periodontal Res,0055107,2.662
 Oncology reports,Oncol Rep,9422756,2.662
+Mini reviews in medicinal chemistry,Mini Rev Med Chem,101094212,2.661
 Liquid crystals,Liq Cryst,101516677,2.661
 Socio-economic review,Socioecon Rev,101608646,2.661
 Current drug metabolism,Curr Drug Metab,100960533,2.659
+"Computers, environment and urban systems",Comput Environ Urban Syst,101092368,2.659
 Aging & mental health,Aging Ment Health,9705773,2.658
+"Reproduction, fertility, and development",Reprod Fertil Dev,8907465,2.656
 Methods and applications in fluorescence,Methods Appl Fluoresc,101608648,2.656
 Substance abuse,Subst Abus,8808537,2.655
 The Condor,Condor,0206433,2.654
 International journal of sports physiology and performance,Int J Sports Physiol Perform,101276430,2.654
 European journal of haematology,Eur J Haematol,8703985,2.653
+"Prostaglandins, leukotrienes, and essential fatty acids",Prostaglandins Leukot Essent Fatty Acids,8802730,2.653
 Tetrahedron,Tetrahedron,2984170R,2.651
 Thrombosis research,Thromb Res,0326377,2.65
 Biology of the cell,Biol Cell,8108529,2.649
@@ -1766,6 +1917,7 @@ Veterinary microbiology,Vet Microbiol,7705469,2.628
 Annual reviews in control,Annu Rev Control,9891910,2.627
 Artificial intelligence review,Artif Intell Rev,9883087,2.627
 Technological forecasting and social change,Technol Forecast Soc Change,101085131,2.625
+"Journal of photochemistry and photobiology. A, Chemistry",J Photochem Photobiol A Chem,9883240,2.625
 Neuroscience bulletin,Neurosci Bull,101256850,2.624
 International journal of rheumatic diseases,Int J Rheum Dis,101474930,2.624
 Minerva anestesiologica,Minerva Anestesiol,0375272,2.623
@@ -1781,6 +1933,8 @@ BMC psychiatry,BMC Psychiatry,100968559,2.613
 American journal of surgery,Am J Surg,0370473,2.612
 Current pharmaceutical design,Curr Pharm Des,9602487,2.611
 BMC geriatrics,BMC Geriatr,100968548,2.611
+Molecular therapy. Methods & clinical development,Mol Ther Methods Clin Dev,101624857,2.61
+"Transportation research. Part A, Policy and practice",Transp Res Part A Policy Pract,101603981,2.609
 Journal of phycology,J Phycol,9882935,2.608
 Current oncology reports,Curr Oncol Rep,100888967,2.608
 MedChemComm,Medchemcomm,101531525,2.608
@@ -1791,6 +1945,7 @@ Aerosol and air quality research,Aerosol Air Qual Res,101585748,2.606
 Memorias do Instituto Oswaldo Cruz,Mem Inst Oswaldo Cruz,7502619,2.605
 Muscle & nerve,Muscle Nerve,7803146,2.605
 IEEE transactions on electron devices,IEEE Trans Electron Devices,0422675,2.605
+"Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",J Chromatogr B Analyt Technol Biomed Life Sci,101139554,2.603
 Astrobiology,Astrobiology,101088083,2.603
 Biointerphases,Biointerphases,101275679,2.603
 Journal of experimental child psychology,J Exp Child Psychol,2985128R,2.602
@@ -1809,12 +1964,14 @@ Journal of sound and vibration,J Sound Vib,18010010R,2.593
 Multivariate behavioral research,Multivariate Behav Res,0046052,2.593
 European addiction research,Eur Addict Res,9502920,2.592
 World neurosurgery,World Neurosurg,101528275,2.592
+Environmental science. Processes & impacts,Environ Sci Process Impacts,101601576,2.592
 Dermatologic clinics,Dermatol Clin,8300886,2.591
 Optical materials express,Opt Mater Express,101588923,2.591
 Pesticide biochemistry and physiology,Pestic Biochem Physiol,1301573,2.59
 Inflammopharmacology,Inflammopharmacology,9112626,2.59
 Virginia law review,Va Law Rev,100970442,2.589
 Surface & coatings technology,Surf Coat Technol,101550294,2.589
+Journal of physics D: Applied physics,J Phys D Appl Phys,1256300,2.588
 General and comparative endocrinology,Gen Comp Endocrinol,0370735,2.585
 Annals of epidemiology,Ann Epidemiol,9100013,2.582
 Neurochemical research,Neurochem Res,7613461,2.581
@@ -1823,6 +1980,7 @@ Clinical interventions in aging,Clin Interv Aging,101273480,2.581
 Journal of pain research,J Pain Res,101540514,2.581
 Bulletin of volcanology,Bull Volcanol,101659484,2.58
 Frontiers of physics,Front Phys,101600789,2.579
+"Palaeogeography, palaeoclimatology, palaeoecology",Palaeogeogr Palaeoclimatol Palaeoecol,100971411,2.578
 African affairs,Afr Aff (Lond),100967218,2.577
 Mechanism and machine theory,Mech Mach Theory,101634516,2.577
 Journal of bioenergetics and biomembranes,J Bioenerg Biomembr,7701859,2.576
@@ -1831,6 +1989,7 @@ Food and bioprocess technology,Food Bioproc Tech,101565425,2.576
 Boundary-layer meteorology,Boundary Layer Meteorol,101622294,2.573
 Materials letters,Mater Lett,101520326,2.572
 Agricultural systems,Agric Syst,100971319,2.571
+"Cyberpsychology, behavior and social networking",Cyberpsychol Behav Soc Netw,101528721,2.571
 "Aquaculture (Amsterdam, Netherlands)",Aquaculture,9875921,2.57
 Advances in anatomic pathology,Adv Anat Pathol,9435676,2.57
 Engineering geology,Eng Geol,101670322,2.569
@@ -1857,12 +2016,14 @@ Reviews in the neurosciences,Rev Neurosci,8711016,2.546
 American journal of nephrology,Am J Nephrol,8109361,2.542
 Health & place,Health Place,9510067,2.541
 Endocrine connections,Endocr Connect,101598413,2.541
+"Journal of infrared, millimeter and terahertz waves",J Infrared Millim Terahertz Waves,101581142,2.54
 Journal of sports sciences,J Sports Sci,8405364,2.539
 Radiation research,Radiat Res,0401245,2.539
 Journal of family nursing,J Fam Nurs,9503761,2.537
 Cognitive and behavioral practice,Cogn Behav Pract,9440144,2.537
 Laser physics letters,Laser Phys Lett,101584822,2.537
 Molecular and biochemical parasitology,Mol Biochem Parasitol,8006324,2.536
+"Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",Spectrochim Acta A Mol Biomol Spectrosc,9602533,2.536
 Globalization and health,Global Health,101245734,2.536
 Journal of non-Newtonian fluid mechanics,J Nonnewton Fluid Mech,101513985,2.536
 Clinical genitourinary cancer,Clin Genitourin Cancer,101260955,2.535
@@ -1895,9 +2056,11 @@ Current drug delivery,Curr Drug Deliv,101208455,2.516
 Pediatric blood & cancer,Pediatr Blood Cancer,101186624,2.513
 West European politics,West Eur Polit,100970146,2.512
 IEEE sensors journal,IEEE Sens J,101212357,2.512
+Cancer causes & control : CCC,Cancer Causes Control,9100846,2.51
 International journal of endocrinology,Int J Endocrinol,101516376,2.51
 Mutagenesis,Mutagenesis,8707812,2.507
 Science education,Sci Educ,0325627,2.506
+CNS & neurological disorders drug targets,CNS Neurol Disord Drug Targets,101269155,2.506
 Neural computing & applications,Neural Comput Appl,9313239,2.505
 Computer methods and programs in biomedicine,Comput Methods Programs Biomed,8506513,2.503
 Enzyme and microbial technology,Enzyme Microb Technol,8003761,2.502
@@ -1908,12 +2071,16 @@ Journal of behavioral medicine,J Behav Med,7807105,2.5
 Journal of studies on alcohol and drugs,J Stud Alcohol Drugs,101295847,2.5
 Macromolecular chemistry and physics,Macromol Chem Phys,9888237,2.5
 Spine,Spine (Phila Pa 1976),7610646,2.499
+"Sensors and actuators. A, Physical",Sens Actuators A Phys,101137102,2.499
 Journal of applied crystallography,J Appl Crystallogr,9876190,2.495
+"Clinical lymphoma, myeloma & leukemia",Clin Lymphoma Myeloma Leuk,101525386,2.494
 Parasite immunology,Parasite Immunol,7910948,2.493
 Photogrammetric engineering and remote sensing,Photogramm Eng Remote Sensing,101514197,2.493
 IEEE transactions on human-machine systems,IEEE Trans Hum Mach Syst,101628372,2.493
 Journal of nutrition education and behavior,J Nutr Educ Behav,101132622,2.491
+"IEEE/ACM transactions on audio, speech, and language processing",IEEE/ACM Trans Audio Speech Lang Process,101646714,2.491
 "Ecosphere (Washington, D.C)",Ecosphere,101596096,2.49
+Human gene therapy. Clinical development,Hum Gene Ther Clin Dev,101607433,2.49
 International journal of general systems,Int J Gen Syst,101641052,2.49
 Neuropeptides,Neuropeptides,8103156,2.486
 Frontiers in neurorobotics,Front Neurorobot,101477958,2.486
@@ -1926,6 +2093,7 @@ Pituitary,Pituitary,9814578,2.481
 Comparative political studies,Comp Polit Stud,101085909,2.481
 Acta obstetricia et gynecologica Scandinavica,Acta Obstet Gynecol Scand,0370343,2.48
 Cancer control : journal of the Moffitt Cancer Center,Cancer Control,9438457,2.48
+"Deep-sea research. Part I, Oceanographic research papers",Deep Sea Res Part 1 Oceanogr Res Pap,101199688,2.48
 Health reports,Health Rep,9012854,2.479
 Child and adolescent psychiatric clinics of North America,Child Adolesc Psychiatr Clin N Am,9313451,2.479
 Clinical radiology,Clin Radiol,1306016,2.478
@@ -1933,6 +2101,7 @@ Cardiovascular therapeutics,Cardiovasc Ther,101319630,2.478
 Journal of patient safety,J Patient Saf,101233393,2.476
 BioMed research international,Biomed Res Int,101600173,2.476
 Journal of dairy science,J Dairy Sci,2985126R,2.474
+"Cytometry. Part B, Clinical cytometry",Cytometry B Clin Cytom,101235690,2.474
 Applied vegetation science,Appl Veg Sci,101700492,2.474
 Biological invasions,Biol Invasions,100955490,2.473
 Fluid phase equilibria,Fluid Phase Equilib,101322266,2.473
@@ -1976,6 +2145,7 @@ European journal of soil biology,Eur J Soil Biol,9887519,2.445
 Journal of pediatric psychology,J Pediatr Psychol,7801773,2.444
 Journal of physiology and biochemistry,J Physiol Biochem,9812509,2.444
 Journal of biomolecular screening,J Biomol Screen,9612112,2.444
+Computer aided design,Comput Aided Des,9879524,2.444
 European journal of inorganic chemistry,Eur J Inorg Chem,9892036,2.444
 Journal of atherosclerosis and thrombosis,J Atheroscler Thromb,9506298,2.442
 Chemistry Central journal,Chem Cent J,101314213,2.442
@@ -1993,6 +2163,7 @@ Psychology of women quarterly,Psychol Women Q,7613934,2.432
 Expert review of respiratory medicine,Expert Rev Respir Med,101278196,2.432
 European journal of public health,Eur J Public Health,9204966,2.431
 Patient education and counseling,Patient Educ Couns,8406280,2.429
+"Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology",J Comp Physiol A Neuroethol Sens Neural Behav Physiol,101141792,2.429
 Andrology,Andrology,101585129,2.427
 Nuclear medicine and biology,Nucl Med Biol,9304420,2.426
 International journal of colorectal disease,Int J Colorectal Dis,8607899,2.426
@@ -2053,9 +2224,11 @@ Cartography and geographic information science,Cartogr Geogr Inf Sci,101512747,2
 Experimental economics,Exp Econ,101697134,2.391
 Upsala journal of medical sciences,Ups J Med Sci,0332203,2.389
 Journal of bionic engineering,J Bionic Eng,101284893,2.388
+"Journal of experimental zoology. Part B, Molecular and developmental evolution",J Exp Zool B Mol Dev Evol,101168228,2.387
 "Nucleus (Austin, Tex.)",Nucleus,101518322,2.387
 Behavior genetics,Behav Genet,0251711,2.385
 Journal of chemical ecology,J Chem Ecol,7505563,2.385
+Wiley interdisciplinary reviews. Systems biology and medicine,Wiley Interdiscip Rev Syst Biol Med,101516550,2.385
 Current treatment options in neurology,Curr Treat Options Neurol,9815940,2.383
 International journal of legal medicine,Int J Legal Med,9101456,2.382
 Equine veterinary journal,Equine Vet J,0173320,2.382
@@ -2063,6 +2236,7 @@ Integrative and comparative biology,Integr Comp Biol,101152341,2.382
 Cytopathology : official journal of the British Society for Clinical Cytology,Cytopathology,9010345,2.38
 Journal of rural studies,J Rural Stud,101085068,2.38
 Journal of invertebrate pathology,J Invertebr Pathol,0014067,2.379
+Alcohol research : current reviews,Alcohol Res,101594475,2.378
 Medical mycology,Med Mycol,9815835,2.377
 Annals of clinical microbiology and antimicrobials,Ann Clin Microbiol Antimicrob,101152152,2.376
 IEEE intelligent systems,IEEE Intell Syst,101213160,2.374
@@ -2073,6 +2247,7 @@ BMJ open,BMJ Open,101552874,2.369
 Health policy and planning,Health Policy Plan,8610614,2.368
 Epilepsy research,Epilepsy Res,8703089,2.367
 Seminars in diagnostic pathology,Semin Diagn Pathol,8502262,2.366
+Physical review. E,Phys Rev E,101676019,2.366
 Clinical rheumatology,Clin Rheumatol,8211469,2.365
 Journal of thoracic disease,J Thorac Dis,101533916,2.365
 European cytokine network,Eur Cytokine Netw,9100879,2.364
@@ -2110,6 +2285,7 @@ Transgenic research,Transgenic Res,9209120,2.341
 Physiology & behavior,Physiol Behav,0151504,2.341
 International journal of molecular medicine,Int J Mol Med,9810955,2.341
 Journal of athletic training,J Athl Train,9301647,2.341
+"Transportation research. Part D, Transport and environment",Transp Res D Transp Environ,101643741,2.341
 Internal and emergency medicine,Intern Emerg Med,101263418,2.34
 Journal of criminal justice,J Crim Justice,9876192,2.339
 Nucleic acid therapeutics,Nucleic Acid Ther,101562758,2.338
@@ -2131,7 +2307,9 @@ Journal of happiness studies,J Happiness Stud,100909039,2.327
 International journal of public health,Int J Public Health,101304551,2.327
 Public health nutrition,Public Health Nutr,9808463,2.326
 Advances in data analysis and classification,Adv Data Anal Classif,101562922,2.326
+Journal of materials science. Materials in medicine,J Mater Sci Mater Med,9013087,2.325
 International journal of production research,Int J Prod Res,101677338,2.325
+"Proceedings of the Japan Academy. Series B, Physical and biological sciences",Proc Jpn Acad Ser B Phys Biol Sci,9318162,2.324
 Archives of pharmacal research,Arch Pharm Res,8000036,2.324
 Polymer composites,Polym Compos,101632920,2.324
 The Holocene,Holocene,101676567,2.324
@@ -2151,6 +2329,7 @@ Applied organometallic chemistry,Appl Organomet Chem,101508588,2.319
 Advanced engineering materials,Adv Eng Mater,101537646,2.319
 Molecular reproduction and development,Mol Reprod Dev,8903333,2.316
 Environmental toxicology and pharmacology,Environ Toxicol Pharmacol,9612020,2.313
+"Organisms, diversity & evolution",Org Divers Evol,100971802,2.313
 Cognitive therapy and research,Cognit Ther Res,7707273,2.313
 Computers & fluids,Comput Fluids,9876977,2.313
 Lasers in surgery and medicine,Lasers Surg Med,8007168,2.312
@@ -2188,6 +2367,7 @@ Epidemics,Epidemics,101484711,2.29
 BMC nephrology,BMC Nephrol,100967793,2.289
 BMC complementary and alternative medicine,BMC Complement Altern Med,101088661,2.288
 BMC pharmacology & toxicology,BMC Pharmacol Toxicol,101590449,2.288
+Journal of experimental psychology. Human perception and performance,J Exp Psychol Hum Percept Perform,7502589,2.287
 Advances in marine biology,Adv Mar Biol,0370431,2.286
 Multibody system dynamics,Multibody Syst Dyn,101149757,2.286
 International journal of systems science,Int J Syst Sci,1257761,2.285
@@ -2213,6 +2393,7 @@ Climacteric : the journal of the International Menopause Society,Climacteric,981
 Health research policy and systems,Health Res Policy Syst,101170481,2.271
 Food security,Food Secur,101660498,2.271
 Journal of endourology,J Endourol,8807503,2.27
+"Journal of molecular catalysis. B, Enzymatic",J Mol Catal B Enzym,9602616,2.269
 Transport policy,Transp Policy (Oxf),101670168,2.269
 Journal of comparative psychology,J Comp Psychol,0414613,2.268
 BMC genetics,BMC Genet,100966978,2.266
@@ -2222,7 +2403,9 @@ Cognitive behaviour therapy,Cogn Behav Ther,101143317,2.264
 Journal of glaucoma,J Glaucoma,9300903,2.263
 BMC pregnancy and childbirth,BMC Pregnancy Childbirth,100967799,2.263
 Oncology,Oncology,0135054,2.262
+"Health, risk & society",Health Risk Soc,100883415,2.262
 International geology review,Int Geol Rev,101532074,2.262
+American journal of medical genetics. Part A,Am J Med Genet A,101235741,2.259
 Dendrochronologia,Dendrochronologia (Verona),101236207,2.259
 Eating behaviors,Eat Behav,101090048,2.258
 Engineering structures,Eng Struct,101697529,2.258
@@ -2241,6 +2424,7 @@ Obesity facts,Obes Facts,101469429,2.25
 Journal of cardiovascular pharmacology,J Cardiovasc Pharmacol,7902492,2.247
 Safety science,Saf Sci,9114980,2.246
 Expert review of hematology,Expert Rev Hematol,101485942,2.246
+Signal processing. Image communication,Signal Process Image Commun,101668816,2.244
 Evolution & development,Evol Dev,100883432,2.243
 Royal Society open science,R Soc Open Sci,101647528,2.243
 Zebrafish,Zebrafish,101225070,2.242
@@ -2248,6 +2432,7 @@ Pediatric clinics of North America,Pediatr Clin North Am,0401126,2.241
 Journal of bioscience and bioengineering,J Biosci Bioeng,100888800,2.24
 Journal of pharmacological and toxicological methods,J Pharmacol Toxicol Methods,9206091,2.238
 Current eye research,Curr Eye Res,8104312,2.238
+Nephron. Experimental nephrology,Nephron Exp Nephrol,101159770,2.238
 AoB PLANTS,AoB Plants,101539425,2.238
 Optical Materials,Opt Mater (Amst),9885806,2.238
 DNA and cell biology,DNA Cell Biol,9004522,2.236
@@ -2267,13 +2452,17 @@ Essays in biochemistry,Essays Biochem,0043306,2.227
 Journal of insect physiology,J Insect Physiol,2985080R,2.227
 Revista de psiquiatria y salud mental,Rev Psiquiatr Salud Ment,101528851,2.227
 Magnetic resonance imaging,Magn Reson Imaging,8214883,2.225
+Autonomic neuroscience : basic & clinical,Auton Neurosci,100909359,2.225
 Psychology & health,Psychol Health,8807983,2.225
 Journal of cereal science,J Cereal Sci,9880250,2.223
+Advances in biochemical engineering/biotechnology,Adv Biochem Eng Biotechnol,8307733,2.222
 Die Naturwissenschaften,Naturwissenschaften,0400767,2.221
+"Physica. E, Low-dimensional systems & nanostructures",Physica E Low Dimens Syst Nanostruct,101236215,2.221
 Translational vision science & technology,Transl Vis Sci Technol,101595919,2.221
 Photodiagnosis and photodynamic therapy,Photodiagnosis Photodyn Ther,101226123,2.219
 Acta tropica,Acta Trop,0370374,2.218
 Behavioural pharmacology,Behav Pharmacol,9013016,2.218
+Wiley interdisciplinary reviews. Cognitive science,Wiley Interdiscip Rev Cogn Sci,101524169,2.218
 Current problems in cardiology,Curr Probl Cardiol,7701802,2.217
 Journal of reconstructive microsurgery,J Reconstr Microsurg,8502670,2.216
 Paediatric respiratory reviews,Paediatr Respir Rev,100898941,2.214
@@ -2314,6 +2503,7 @@ Psychology of violence,Psychol Violence,101550224,2.192
 Quantum information processing,Quantum Inf Process,101671509,2.192
 Cardiovascular and interventional radiology,Cardiovasc Intervent Radiol,8003538,2.191
 IEEE software,IEEE Softw,9881866,2.19
+"Parenting, science and practice",Parent Sci Pract,101093743,2.188
 Glycoconjugate journal,Glycoconj J,8603310,2.186
 Cell biochemistry and function,Cell Biochem Funct,8305874,2.186
 Journal of zoology,J Zool,0142477,2.186
@@ -2337,12 +2527,14 @@ Journal of clinical monitoring and computing,J Clin Monit Comput,9806357,2.178
 Pulmonary circulation,Pulm Circ,101557243,2.178
 International archives of occupational and environmental health,Int Arch Occup Environ Health,7512134,2.177
 PeerJ,PeerJ,101603425,2.177
+"Estuarine, coastal and shelf science",Estuar Coast Shelf Sci,9882983,2.176
 Annals of laboratory medicine,Ann Lab Med,101571172,2.174
 Journal of maps,J Maps,101595920,2.174
 Journal of planning literature,J Plan Lit,101631838,2.174
 Journal of gambling studies,J Gambl Stud,9425991,2.173
 Frontiers in pediatrics,Front Pediatr,101615492,2.172
 Energy science & engineering,Energy Sci Eng,101697890,2.172
+Journal of neurosurgery. Pediatrics,J Neurosurg Pediatr,101463759,2.17
 Journal of experimental criminology,J Exp Criminol,101518164,2.17
 Early human development,Early Hum Dev,7708381,2.169
 Journal of aging and health,J Aging Health,8912686,2.168
@@ -2365,6 +2557,7 @@ Brain and behavior,Brain Behav,101570837,2.157
 Human vaccines & immunotherapeutics,Hum Vaccin Immunother,101572652,2.157
 Journal of intensive care medicine,J Intensive Care Med,8610344,2.156
 Microsurgery,Microsurgery,8309230,2.156
+Journal of experimental psychology. Applied,J Exp Psychol Appl,9507618,2.156
 Korean journal of radiology,Korean J Radiol,100956096,2.156
 International journal of refractory metals & hard materials,Int J Refract Metals Hard Mater,101524498,2.155
 Journal of nephrology,J Nephrol,9012268,2.153
@@ -2378,6 +2571,7 @@ Scientometrics,Scientometrics,7901197,2.147
 Polar research,Polar Res,100971390,2.146
 Journal of applied developmental psychology,J Appl Dev Psychol,8001905,2.146
 Drug metabolism and pharmacokinetics,Drug Metab Pharmacokinet,101164773,2.146
+"Development, growth & differentiation",Dev Growth Differ,0356504,2.145
 Consciousness and cognition,Conscious Cogn,9303140,2.144
 "Genesis (New York, N.Y. : 2000)",Genesis,100931242,2.143
 Health and quality of life outcomes,Health Qual Life Outcomes,101153626,2.143
@@ -2387,6 +2581,7 @@ International journal of clinical practice,Int J Clin Pract,9712381,2.14
 Virology journal,Virol J,101231645,2.139
 "Plasmonics (Norwell, Mass.)",Plasmonics,101271522,2.139
 Journal of fish diseases,J Fish Dis,9881188,2.138
+Nephron. Clinical practice,Nephron Clin Pract,101159763,2.138
 Political behavior,Polit Behav,101670480,2.138
 Vitamins and hormones,Vitam Horm,0413601,2.137
 European journal of medical genetics,Eur J Med Genet,101247089,2.137
@@ -2394,12 +2589,15 @@ Marine biology,Mar Biol,1247225,2.136
 International forum of allergy & rhinology,Int Forum Allergy Rhinol,101550261,2.135
 Cognitive linguistics,Cogn Linguist,9426180,2.135
 International journal of systematic and evolutionary microbiology,Int J Syst Evol Microbiol,100899600,2.134
+Mutation research. Genetic toxicology and environmental mutagenesis,Mutat Res Genet Toxicol Environ Mutagen,101632149,2.133
 "Synapse (New York, N.Y.)",Synapse,8806914,2.132
+Journal of experimental psychology. Animal learning and cognition,J Exp Psychol Anim Learn Cogn,101632727,2.132
 Michigan law review,Mich Law Rev,7703728,2.131
 European journal of applied physiology,Eur J Appl Physiol,100954790,2.13
 Journal of addiction medicine,J Addict Med,101306759,2.129
 Academic radiology,Acad Radiol,9440159,2.128
 Systematics and biodiversity,Syst Biodivers,101232377,2.127
+"Tetrahedron, asymmetry",Tetrahedron Asymmetry,9010953,2.126
 Journal of public health,J Public Health (Bangkok),7705878,2.125
 Current urology reports,Curr Urol Rep,100900943,2.124
 Heart failure clinics,Heart Fail Clin,101231934,2.124
@@ -2415,9 +2613,11 @@ Health policy,Health Policy (New York),8102120,2.119
 "Memory (Hove, England)",Memory,9306862,2.118
 Soil use and management,Soil Use Manag,101690601,2.117
 Physics of plasmas,Phys Plasmas,101183464,2.115
+"Acta crystallographica. Section D, Structural biology",Acta Crystallogr D Struct Biol,101676043,2.114
 Journal of vertebrate paleontology,J Vertebr Paleontol,101698450,2.114
 Journal of theoretical biology,J Theor Biol,0376342,2.113
 Psychometrika,Psychometrika,0376503,2.111
+Wiley interdisciplinary reviews. Data mining and knowledge discovery,Wiley Interdiscip Rev Data Min Knowl Discov,101567990,2.111
 Journal of monetary economics,J Monet Econ,101516033,2.11
 Journal of geriatric psychiatry and neurology,J Geriatr Psychiatry Neurol,8805645,2.109
 Hydrogeology journal,Hydrogeol J,101601569,2.109
@@ -2451,6 +2651,7 @@ Biopharmaceutics & drug disposition,Biopharm Drug Dispos,7911226,2.091
 Experimental mechanics,Exp Mech,101469718,2.091
 Archives of gynecology and obstetrics,Arch Gynecol Obstet,8710213,2.09
 Digestion,Digestion,0150472,2.088
+Dose-response : a publication of International Hormesis Society,Dose Response,101308899,2.088
 Diagnostic pathology,Diagn Pathol,101251558,2.087
 Journal of clinical biochemistry and nutrition,J Clin Biochem Nutr,8700907,2.087
 Archives of gerontology and geriatrics,Arch Gerontol Geriatr,8214379,2.086
@@ -2515,6 +2716,7 @@ Statistics and computing,Stat Comput,101473218,2.051
 Chemical engineering & technology,Chem Eng Technol,101607055,2.051
 Journal of systematics and evolution,J Syst Evol,101480490,2.05
 BMC international health and human rights,BMC Int Health Hum Rights,101088678,2.048
+Comptes rendus. Physique,C R Phys,101253437,2.048
 Health & social care in the community,Health Soc Care Community,9306359,2.047
 Current opinion in supportive and palliative care,Curr Opin Support Palliat Care,101297402,2.045
 Solid state nuclear magnetic resonance,Solid State Nucl Magn Reson,9306181,2.044
@@ -2527,14 +2729,18 @@ Journal of spinal disorders & techniques,J Spinal Disord Tech,101140323,2.042
 Channels,Channels,0247061,2.042
 Journal of international economics,J Int Econ,101085391,2.042
 Biological procedures online,Biol Proced Online,100963717,2.042
+"Anxiety, stress, and coping",Anxiety Stress Coping,9212242,2.042
 Archivum immunologiae et therapiae experimentalis,Arch Immunol Ther Exp (Warsz),0114365,2.04
 Cultural diversity & ethnic minority psychology,Cultur Divers Ethnic Minor Psychol,100956435,2.04
 Food & nutrition research,Food Nutr Res,101488795,2.039
 Qualitative health research,Qual Health Res,9202144,2.036
 Global environmental politics,Glob Environ Polit,101604398,2.036
+"Learning, media and technology",Learn Media Technol,101572494,2.035
 Journal of advertising research,J Advert Res,101087821,2.034
 EJNMMI research,EJNMMI Res,101560946,2.033
+"Acta crystallographica Section B, Structural science, crystal engineering and materials",Acta Crystallogr B Struct Sci Cryst Eng Mater,101609037,2.032
 Acta psychologica,Acta Psychol (Amst),0370366,2.031
+"Environment and planning. D, Society & space",Environ Plan D,101094318,2.031
 BioTechniques,Biotechniques,8306785,2.03
 International journal of laboratory hematology,Int J Lab Hematol,101300213,2.03
 Current hematologic malignancy reports,Curr Hematol Malig Rep,101262565,2.029
@@ -2556,6 +2762,7 @@ International heart journal,Int Heart J,101244240,2.017
 European journal of forest research,Eur J For Res,101486294,2.017
 Journal of veterinary internal medicine,J Vet Intern Med,8708660,2.016
 Seminars in pediatric surgery,Semin Pediatr Surg,9216162,2.016
+Hematology. American Society of Hematology. Education Program,Hematology Am Soc Hematol Educ Program,100890099,2.016
 Journal of the American Statistical Association,J Am Stat Assoc,01510020R,2.016
 Cretaceous research,Cretac Res,101670248,2.015
 Complementary therapies in medicine,Complement Ther Med,9308777,2.013
@@ -2577,8 +2784,10 @@ Personality and individual differences,Pers Individ Dif,8006972,2.005
 Machine vision and applications,Mach Vis Appl,101562623,2.005
 Knowledge and information systems,Knowl Inf Syst,101511283,2.004
 Communications in computational physics,Commun Comput Phys,101513676,2.004
+"Plant cell, tissue and organ culture",Plant Cell Tissue Organ Cult,9879654,2.002
 Inorganica chimica acta,Inorganica Chim Acta,9875013,2.002
 Seminars in pediatric neurology,Semin Pediatr Neurol,9441351,2
+Best practice & research. Clinical haematology,Best Pract Res Clin Haematol,101120659,2
 Journal of emotional and behavioral disorders,J Emot Behav Disord,9306047,2
 IEEE transactions on haptics,IEEE Trans Haptics,101491191,2
 Topics in cognitive science,Top Cogn Sci,101506764,2
@@ -2593,6 +2802,7 @@ Archiv der Pharmazie,Arch Pharm (Weinheim),0330167,1.994
 Archiv der Pharmazie,Arch Pharm,15130020R,1.994
 Journal of mathematical imaging and vision,J Math Imaging Vis,101512096,1.994
 International journal of radiation biology,Int J Radiat Biol,8809243,1.992
+"Limnology and oceanography, methods",Limnol Oceanogr Methods,101487266,1.992
 Human factors,Hum Factors,0374660,1.99
 "Yeast (Chichester, England)",Yeast,8607637,1.99
 Forensic science international,Forensic Sci Int,7902034,1.989
@@ -2621,6 +2831,7 @@ Journal of liposome research,J Liposome Res,9001952,1.971
 Applied psycholinguistics,Appl Psycholinguist,8006212,1.97
 Urban ecosystems,Urban Ecosyst,101632487,1.97
 Trials,Trials,101263253,1.969
+"European journal of mechanics. B, Fluids",Eur J Mech B Fluids,101533682,1.969
 Toxicology research,Toxicol Res (Camb),101587950,1.969
 European journal of gastroenterology & hepatology,Eur J Gastroenterol Hepatol,9000874,1.968
 Geological magazine,Geol Mag,100971354,1.965
@@ -2628,12 +2839,14 @@ Food bioscience,Food Biosci,101623512,1.964
 Multisensory research,Multisens Res,101604290,1.962
 EURASIP journal on advances in signal processing,EURASIP J Adv Signal Process,101480232,1.961
 Archives of osteoporosis,Arch Osteoporos,101318988,1.96
+Journal of urban health : bulletin of the New York Academy of Medicine,J Urban Health,9809909,1.959
 Asia-Pacific journal of clinical oncology,Asia Pac J Clin Oncol,101241430,1.959
 Journal of Great Lakes research,J Great Lakes Res,9882896,1.958
 Psychology of men & masculinity,Psychol Men Masc,100890582,1.957
 Chirality,Chirality,8914261,1.956
 American ethnologist,Am Ethnol,9875858,1.956
 Journal of medicinal food,J Med Food,9812512,1.955
+IEEE/ACM transactions on computational biology and bioinformatics,IEEE/ACM Trans Comput Biol Bioinform,101196755,1.955
 American journal of rhinology & allergy,Am J Rhinol Allergy,101490775,1.955
 Molecular informatics,Mol Inform,101529315,1.955
 Sex roles,Sex Roles,7511805,1.954
@@ -2642,11 +2855,13 @@ Electronic commerce research and applications,Electron Commer Res Appl,101578285
 Simulation modelling practice and theory,Simul Model Pract Theory,101299771,1.954
 Journal of thermal analysis and calorimetry,J Therm Anal Calorim,101308970,1.953
 "Ecotoxicology (London, England)",Ecotoxicology,9885956,1.951
+"Culture, health & sexuality",Cult Health Sex,100883416,1.951
 Body & society,Body Soc,101255942,1.951
 Robotics and autonomous systems,Rob Auton Syst,100971588,1.95
 Review of finance,Rev Financ,101590567,1.95
 Polar biology,Polar Biol,9879958,1.949
 Midwifery,Midwifery,8510930,1.948
+"Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology",J Comp Physiol B,8413200,1.947
 Pediatric dentistry,Pediatr Dent,7909102,1.947
 Journal of physical activity & health,J Phys Act Health,101189457,1.946
 Archives of orthopaedic and trauma surgery,Arch Orthop Trauma Surg,9011043,1.942
@@ -2675,6 +2890,7 @@ Metabolic syndrome and related disorders,Metab Syndr Relat Disord,101150318,1.93
 Human cell,Hum Cell,8912329,1.93
 Journal of parallel and distributed computing,J Parallel Distrib Comput,101204404,1.93
 Cancer genetics,Cancer Genet,101539150,1.93
+"Sport, exercise, and performance psychology",Sport Exerc Perform Psychol,101609129,1.93
 Nursing research,Nurs Res,0376404,1.929
 Journal of positive behavior interventions,J Posit Behav Interv,9815762,1.929
 Aggression and violent behavior,Aggress Violent Behav,9606442,1.928
@@ -2698,7 +2914,9 @@ IEEE journal of quantum electronics,IEEE J Quantum Electron,101204403,1.917
 Current organic synthesis,Curr Org Synth,101208457,1.917
 Reviews in analytical chemistry,Rev Anal Chem,101665910,1.917
 Medical & biological engineering & computing,Med Biol Eng Comput,7704869,1.916
+Nuclear physics. A,Nucl Phys A,101083919,1.916
 Pharmaceutical biology,Pharm Biol,9812552,1.916
+"Brain, behavior and evolution",Brain Behav Evol,0151620,1.915
 Lung,Lung,7701875,1.915
 Current infectious disease reports,Curr Infect Dis Rep,100888983,1.915
 Odontology,Odontology,101134822,1.91
@@ -2719,13 +2937,16 @@ Geographical analysis,Geogr Anal,100967562,1.905
 Journal of psychopathology and behavioral assessment,J Psychopathol Behav Assess,8608482,1.905
 Ethnicity & health,Ethn Health,9608374,1.904
 Journal of urban economics,J Urban Econ,101084734,1.904
+"Theory, culture & society",Theory Cult Soc,101625831,1.904
 Journal of nonlinear science,J Nonlinear Sci,101702669,1.904
 Journal of ethnobiology and ethnomedicine,J Ethnobiol Ethnomed,101245794,1.903
 Internal medicine journal,Intern Med J,101092952,1.902
+Journal of biomaterials science. Polymer edition,J Biomater Sci Polym Ed,9007393,1.9
 Cell structure and function,Cell Struct Funct,7608465,1.9
 Journal of plant research,J Plant Res,9887853,1.899
 Journal of scientific computing,J Sci Comput,9882378,1.899
 Social psychology quarterly,Soc Psychol Q,7910380,1.897
+"Endocrine, metabolic & immune disorders drug targets",Endocr Metab Immune Disord Drug Targets,101269157,1.897
 Research on language and social interaction,Res Lang Soc Interact,101628536,1.896
 Land economics,Land Econ,9876244,1.895
 ACM transactions on knowledge discovery from data,ACM Trans Knowl Discov Data,101473241,1.895
@@ -2755,6 +2976,7 @@ Minerva medica,Minerva Med,0400732,1.878
 Environmental management,Environ Manage,7703893,1.878
 Canadian journal of diabetes,Can J Diabetes,101148810,1.878
 British journal of biomedical science,Br J Biomed Sci,9309208,1.877
+"Comparative immunology, microbiology and infectious diseases",Comp Immunol Microbiol Infect Dis,7808924,1.875
 Postgraduate medical journal,Postgrad Med J,0234135,1.874
 Vanderbilt law review,Vanderbilt Law Rev,100972023,1.873
 IEEE spectrum,IEEE Spectr,9875800,1.873
@@ -2773,20 +2995,24 @@ Journal of medical screening,J Med Screen,9433359,1.864
 Journal of animal science,J Anim Sci,8003002,1.863
 Obstetrics and gynecology clinics of North America,Obstet Gynecol Clin North Am,8709551,1.863
 Gastroenterology research and practice,Gastroenterol Res Pract,101475557,1.863
+"Attention, perception & psychophysics",Atten Percept Psychophys,101495384,1.863
 International journal of computer assisted radiology and surgery,Int J Comput Assist Radiol Surg,101499225,1.863
 Statistics in medicine,Stat Med,8215016,1.861
 Journal of occupational and environmental medicine,J Occup Environ Med,9504688,1.861
 Ocean & coastal management,Ocean Coast Manag,101518802,1.861
 Pharmaceutical development and technology,Pharm Dev Technol,9610932,1.86
 Journal of applied polymer science,J Appl Polym Sci,9891577,1.86
+"Psychology of aesthetics, creativity, and the arts",Psychol Aesthet Creat Arts,101475179,1.86
 Disability and health journal,Disabil Health J,101306633,1.858
 Cytotechnology,Cytotechnology,8807027,1.857
 Interactive cardiovascular and thoracic surgery,Interact Cardiovasc Thorac Surg,101158399,1.857
+"Journal of physics. A, Mathematical and theoretical",J Phys A Math Theor,101596451,1.857
 Clinical drug investigation,Clin Drug Investig,9504817,1.853
 Public health genomics,Public Health Genomics,101474167,1.853
 Journal of international money and finance,J Int Money Finance,101668728,1.853
 Science communication,Sci Commun,9889281,1.852
 Environment,Environment,0204031,1.852
+"Language, cognition and neuroscience",Lang Cogn Neurosci,101628382,1.852
 Nonprofit and voluntary sector quarterly,Nonprofit Volunt Sect Q,9886050,1.852
 Acta mechanica,Acta Mech,101540520,1.851
 International journal of behavioral development,Int J Behav Dev,7804126,1.85
@@ -2798,7 +3024,9 @@ Party politics,Party Politics,101697589,1.846
 Journal of biomedical semantics,J Biomed Semantics,101531992,1.845
 Hormone research in paediatrics,Horm Res Paediatr,101525157,1.844
 Cardiorenal medicine,Cardiorenal Med,101554863,1.844
+"Journal of the Optical Society of America. B, Optical physics",J Opt Soc Am B,9880875,1.843
 Abdominal imaging,Abdom Imaging,9303672,1.842
+"Forensic science, medicine, and pathology",Forensic Sci Med Pathol,101236111,1.842
 Human movement science,Hum Mov Sci,8300127,1.841
 Seed science research,Seed Sci Res,101135366,1.841
 Journal of safety research,J Safety Res,1264241,1.841
@@ -2819,6 +3047,7 @@ Water,Water (Basel),101613952,1.832
 Cell biology international,Cell Biol Int,9307129,1.831
 Medical anthropology quarterly,Med Anthropol Q,8405037,1.831
 Human gene therapy methods,Hum Gene Ther Methods,101573202,1.831
+"Transportation research. Part F, Traffic psychology and behaviour",Transp Res Part F Traffic Psychol Behav,101518139,1.83
 Experimental psychology,Exp Psychol,101138477,1.829
 American journal of agricultural economics,Am J Agric Econ,101084948,1.829
 Molecular biology reports,Mol Biol Rep,0403234,1.828
@@ -2862,6 +3091,7 @@ Developmental neuropsychology,Dev Neuropsychol,8702038,1.813
 Social cognition,Soc Cogn,8219860,1.813
 Geospatial health,Geospat Health,101302943,1.812
 Caries research,Caries Res,0103374,1.811
+"Substance abuse treatment, prevention, and policy",Subst Abuse Treat Prev Policy,101258060,1.811
 Medical and veterinary entomology,Med Vet Entomol,8708682,1.809
 Plant ecology & diversity,Plant Ecol Divers,101510994,1.809
 MEDICC review,MEDICC Rev,100964771,1.807
@@ -2872,6 +3102,7 @@ Family practice,Fam Pract,8500875,1.804
 Medicine,Medicine (Baltimore),2985248R,1.803
 Journal of travel medicine,J Travel Med,9434456,1.803
 Human & experimental toxicology,Hum Exp Toxicol,9004560,1.802
+Pathologie-biologie,Pathol Biol (Paris),0265365,1.802
 Futures,Futures,100972611,1.802
 Preventing chronic disease,Prev Chronic Dis,101205018,1.802
 Journal de mathematiques pures et appliquees,J Math Pures Appl,101555101,1.802
@@ -2895,6 +3126,7 @@ Journal of radiation research,J Radiat Res,0376611,1.788
 Maternal and child health journal,Matern Child Health J,9715672,1.788
 Therapeutic hypothermia and temperature management,Ther Hypothermia Temp Manag,101543518,1.787
 Communications in applied mathematics and computational science,Comm App Math Comp Sci,101617003,1.786
+"PM & R : the journal of injury, function, and rehabilitation",PM R,101491319,1.785
 Neuropathology : official journal of the Japanese Society of Neuropathology,Neuropathology,9606526,1.784
 International health,Int Health,101517095,1.784
 Journal of deaf studies and deaf education,J Deaf Stud Deaf Educ,9889915,1.783
@@ -2911,6 +3143,7 @@ Journal of public policy,J Public Policy,101086012,1.778
 Journal of banking & finance,J Bank Financ,101607287,1.776
 International economic review,Int Econ Rev (Philadelphia),101515596,1.773
 Methods of information in medicine,Methods Inf Med,0210453,1.772
+Physics letters. A,Phys Lett A,0406646,1.772
 Applied animal behaviour science,Appl Anim Behav Sci,8504276,1.771
 BMC structural biology,BMC Struct Biol,101088689,1.771
 Ecological entomology,Ecol Entomol,7607130,1.771
@@ -2932,6 +3165,7 @@ Clinical and experimental nephrology,Clin Exp Nephrol,9709923,1.764
 Organic preparations and procedures international,Org Prep Proced Int,9881293,1.764
 Journal of cosmetic dermatology,J Cosmet Dermatol,101130964,1.764
 Oncology nursing forum,Oncol Nurs Forum,7809033,1.763
+"Birth defects research. Part A, Clinical and molecular teratology",Birth Defects Res A Clin Mol Teratol,101155107,1.762
 Dairy science & technology,Dairy Sci Technol,101472163,1.762
 Granular matter,Granul Matter,101670342,1.762
 SIAM journal on applied dynamical systems,SIAM J Appl Dyn Syst,101297692,1.761
@@ -2997,6 +3231,7 @@ Experimental parasitology,Exp Parasitol,0370713,1.724
 International journal of remote sensing,Int J Remote Sens,9878707,1.724
 Macromolecular theory and simulations,Macromol Theory Simul,9888234,1.724
 Colloid and polymer science,Colloid Polym Sci,7507068,1.723
+"Food additives & contaminants. Part B, Surveillance",Food Addit Contam Part B Surveill,101317183,1.723
 New ideas in psychology,New Ideas Psychol,8306930,1.723
 Acta neurologica Belgica,Acta Neurol Belg,0247035,1.722
 Health promotion international,Health Promot Int,9008939,1.722
@@ -3007,8 +3242,10 @@ Rural sociology,Rural Sociol,0045170,1.718
 Journal of transport & health,J Transp Health,101633121,1.718
 Journal of the American Water Resources Association,J Am Water Resour Assoc,9891525,1.717
 Biological cybernetics,Biol Cybern,7502533,1.716
+"Journal of the Royal Statistical Society. Series C, Applied statistics",J R Stat Soc Ser C Appl Stat,101086541,1.716
 Enfermedades infecciosas y microbiologia clinica,Enferm Infecc Microbiol Clin,9104081,1.714
 Language,Language (Baltim),0216416,1.714
+"Deep-sea research. Part II, Topical studies in oceanography",Deep Sea Res Part 2 Top Stud Oceanogr,100955507,1.713
 Journal of occupational rehabilitation,J Occup Rehabil,9202814,1.713
 Infrared physics & technology,Infrared Phys Technol,101610606,1.713
 Journal of ophthalmology,J Ophthalmol,101524199,1.712
@@ -3021,10 +3258,13 @@ International journal of adaptive control and signal processing,Int J Adapt Cont
 Microbiology and immunology,Microbiol Immunol,7703966,1.706
 International journal of clinical and experimental pathology,Int J Clin Exp Pathol,101480565,1.706
 High altitude medicine & biology,High Alt Med Biol,100901183,1.705
+Photonics and nanostructures : fundamentals and applications,Photonics Nanostruct,101225439,1.705
 Pediatric exercise science,Pediatr Exerc Sci,8909729,1.704
 Food biophysics,Food Biophys,101290394,1.704
 "Pathobiology : journal of immunopathology, molecular and cellular biology",Pathobiology,9007504,1.703
+"Water, air, and soil pollution",Water Air Soil Pollut,0312676,1.702
 International journal of mass spectrometry,Int J Mass Spectrom,101137096,1.702
+"Ophthalmic surgery, lasers & imaging retina",Ophthalmic Surg Lasers Imaging Retina,101599215,1.701
 Insectes sociaux,Insectes Soc,0263470,1.7
 Law & society review,Law Soc Rev,100968936,1.7
 Journal of cardiothoracic and vascular anesthesia,J Cardiothorac Vasc Anesth,9110208,1.699
@@ -3035,6 +3275,7 @@ Biopreservation and biobanking,Biopreserv Biobank,101507284,1.698
 European neurology,Eur Neurol,0150760,1.697
 Behavioural and cognitive psychotherapy,Behav Cogn Psychother,9418292,1.697
 Veterinary research communications,Vet Res Commun,8100520,1.696
+"Applied physics. B, Lasers and optics",Appl Phys B,100910685,1.696
 Journal of family issues,J Fam Issues,8005417,1.696
 Anaesthesia and intensive care,Anaesth Intensive Care,0342017,1.695
 Pathogens and global health,Pathog Glob Health,101583421,1.695
@@ -3055,10 +3296,12 @@ Instructional science,Instr Sci,9884054,1.69
 School mental health,School Ment Health,101483964,1.689
 Pediatric cardiology,Pediatr Cardiol,8003849,1.688
 Environmental monitoring and assessment,Environ Monit Assess,8508350,1.687
+"International journal of control, automation, and systems",Int J Control Autom Syst,101512861,1.687
 International perspectives on sexual and reproductive health,Int Perspect Sex Reprod Health,101504990,1.686
 Social problems,Soc Probl,20810170R,1.684
 Biological & pharmaceutical bulletin,Biol Pharm Bull,9311984,1.683
 Biomedical engineering online,Biomed Eng Online,101147518,1.683
+"Population, space and place",Popul Space Place,101588931,1.683
 Postepy dermatologii i alergologii,Postepy Dermatol Alergol,101168357,1.683
 Sexual medicine,Sex Med,101631053,1.683
 Gerodontology,Gerodontology,8215850,1.681
@@ -3075,7 +3318,9 @@ Annals of hepatology,Ann Hepatol,101155885,1.678
 Journal of computer and system sciences,J Comput Syst Sci,9881153,1.678
 Journal of clinical anesthesia,J Clin Anesth,8812166,1.677
 Hepatitis monthly,Hepat Mon,101277874,1.677
+Journal of Zhejiang University. Science. B,J Zhejiang Univ Sci B,101236535,1.676
 Engineering failure analysis,Eng Fail Anal,101480087,1.676
+"Health economics, policy, and law",Health Econ Policy Law,101247224,1.675
 Distributed computing,Distrib Comput,101670256,1.674
 Journal of pharmacokinetics and pharmacodynamics,J Pharmacokinet Pharmacodyn,101096520,1.673
 Journal of materials research,J Mater Res,100971400,1.673
@@ -3089,6 +3334,7 @@ Acta naturae,Acta Naturae,101525823,1.667
 Chinese journal of natural medicines,Chin J Nat Med,101504416,1.667
 Oncology research and treatment,Oncol Res Treat,101627692,1.667
 Journal of anthropological archaeology,J Anthropol Archaeol,101634454,1.667
+"European journal of obstetrics, gynecology, and reproductive biology",Eur J Obstet Gynecol Reprod Biol,0375672,1.666
 Cancer nursing,Cancer Nurs,7805358,1.665
 Aquaculture nutrition,Aquac Nutr,101630630,1.665
 Digestive surgery,Dig Surg,8501808,1.664
@@ -3101,8 +3347,10 @@ International journal of mental health systems,Int J Ment Health Syst,101294224,
 Annals of human genetics,Ann Hum Genet,0416661,1.659
 Politics & society,Polit Soc,100969870,1.659
 Natural resources forum,Nat Resour Forum,101085820,1.659
+Nonlinear analysis. Real world applications,Nonlinear Anal Real World Appl,101512567,1.659
 Clinics in plastic surgery,Clin Plast Surg,0424767,1.658
 World journal of microbiology & biotechnology,World J Microbiol Biotechnol,9012472,1.658
+Heart & lung : the journal of critical care,Heart Lung,0330057,1.657
 Journal of cross-cultural psychology,J Cross Cult Psychol,0355667,1.657
 Journal for nature conservation,J Nat Conserv,101229721,1.657
 Journal of morphology,J Morphol,0406125,1.655
@@ -3154,6 +3402,7 @@ Scientia horticulturae,Sci Hortic (Amsterdam),9882883,1.624
 European journal of orthodontics,Eur J Orthod,7909010,1.622
 Veterinary dermatology,Vet Dermatol,9426187,1.622
 Astrophysics and space science,Astrophys Space Sci,100971306,1.622
+"Journal of the Optical Society of America. A, Optics, image science, and vision",J Opt Soc Am A Opt Image Sci Vis,9800943,1.621
 Chronic diseases and injuries in Canada,Chronic Dis Inj Can,101556266,1.621
 Inverse problems,Inverse Probl,101189510,1.62
 Croatian medical journal,Croat Med J,9424324,1.619
@@ -3165,8 +3414,10 @@ Mycological progress,Mycol Prog,101136371,1.616
 Infant behavior & development,Infant Behav Dev,7806016,1.616
 Australian occupational therapy journal,Aust Occup Ther J,15420200R,1.616
 Rehabilitation psychology,Rehabil Psychol,0365337,1.615
+Simulation in healthcare : journal of the Society for Simulation in Healthcare,Simul Healthc,101264408,1.615
 Plant ecology,Plant Ecol,101587173,1.615
 Earth interactions,Earth Interact,101672703,1.615
+"Computer languages, systems & structures",Comput Lang Syst Struct,101670243,1.615
 Journal of health communication,J Health Commun,9604100,1.614
 Agronomy journal,Agron J,9882885,1.614
 Global public health,Glob Public Health,101256323,1.614
@@ -3176,7 +3427,9 @@ Current HIV research,Curr HIV Res,101156990,1.612
 Urologia internationalis,Urol Int,0417373,1.611
 Journal of pediatric urology,J Pediatr Urol,101233150,1.611
 International journal of hematology,Int J Hematol,9111627,1.61
+Mathematical medicine and biology : a journal of the IMA,Math Med Biol,101182345,1.61
 Annals of dyslexia,Ann Dyslexia,8406611,1.609
+Software: practice & experience,Softw Pract Exp,9877055,1.609
 Critical care nurse,Crit Care Nurse,8207799,1.608
 Youth & society,Youth Soc,0337752,1.608
 Autonomous agents and multi-agent systems,Auton Agent Multi Agent Syst,101137288,1.606
@@ -3193,6 +3446,7 @@ Archives of microbiology,Arch Microbiol,0410427,1.6
 World journal of surgical oncology,World J Surg Oncol,101170544,1.6
 Journal of mixed methods research,J Mix Methods Res,101304377,1.6
 Probiotics and antimicrobial proteins,Probiotics Antimicrob Proteins,101484100,1.6
+CALPHAD ; computer coupling of phase diagrams and thermochemistry,CALPHAD,101634445,1.6
 Crystallography reviews,Crystallogr Rev,101637353,1.6
 "Dermatology (Basel, Switzerland)",Dermatology,9203244,1.598
 Cardiovascular ultrasound,Cardiovasc Ultrasound,101159952,1.598
@@ -3204,6 +3458,7 @@ Reading research quarterly,Read Res Q,9881215,1.596
 Journal of electronic packaging,J Electron Packag,101629427,1.596
 Toxicology mechanisms and methods,Toxicol Mech Methods,101134521,1.595
 Physical medicine and rehabilitation clinics of North America,Phys Med Rehabil Clin N Am,9102787,1.594
+Neurophysiologie clinique = Clinical neurophysiology,Neurophysiol Clin,8804532,1.593
 Brookings papers on economic activity,Brookings Pap Econ Act,101085698,1.593
 Journal of European social policy,J Eur Soc Policy,101087768,1.593
 Journal of manipulative and physiological therapeutics,J Manipulative Physiol Ther,7807107,1.592
@@ -3219,12 +3474,15 @@ Journal of experimental education,J Exp Educ,0014051,1.588
 Journal of ambient intelligence and humanized computing,J Ambient Intell Humaniz Comput,101538212,1.588
 BMC ophthalmology,BMC Ophthalmol,100967802,1.586
 Research on social work practice,Res Soc Work Pract,9425959,1.586
+"Psychological trauma : theory, research, practice and policy",Psychol Trauma,101495376,1.584
 Annual review of resource economics,Annu Rev Resour Economics,101631757,1.583
 Economic botany,Econ Bot,0007275,1.582
 Structural chemistry,Struct Chem,101582397,1.582
 Environmental & resource economics,Environ Resour Econ (Dordr),101620056,1.582
+"Ethology, ecology & evolution",Ethol Ecol Evol,9105262,1.582
 International journal of cosmetic science,Int J Cosmet Sci,8007161,1.581
 Applied developmental science,Appl Dev Sci,9890994,1.581
+"IEEE transactions on components, packaging, and manufacturing technology",IEEE Trans Compon Packaging Manuf Technol,101568904,1.581
 Radio science,Radio Sci,9879367,1.581
 American anthropologist,Am Anthropol,1275273,1.58
 Solid-state electronics,Solid State Electron,101508534,1.58
@@ -3270,6 +3528,7 @@ Journal of public health policy,J Public Health Policy,8006508,1.556
 Historical biology,Hist Biol,9426321,1.556
 International journal of clinical pharmacy,Int J Clin Pharm,101554912,1.555
 Robotica,Robotica,101204399,1.554
+Pediatric endocrinology reviews : PER,Pediatr Endocrinol Rev,101202124,1.554
 Solid state communications,Solid State Commun,9876644,1.554
 Welding journal,Weld J,101672513,1.553
 Journal of wildlife diseases,J Wildl Dis,0244160,1.552
@@ -3278,15 +3537,19 @@ Diseases of aquatic organisms,Dis Aquat Organ,8807037,1.549
 Biological research for nursing,Biol Res Nurs,9815758,1.549
 Human communication research,Hum Commun Res,7600097,1.549
 Educational and psychological measurement,Educ Psychol Meas,0372767,1.548
+"Gender, work, and organization",Gend Work Organ,101544781,1.548
 Arthropod structure & development,Arthropod Struct Dev,100972232,1.546
 Plasmid,Plasmid,7802221,1.545
 Journal of orthopaedic surgery and research,J Orthop Surg Res,101265112,1.545
 Bioscience trends,Biosci Trends,101502754,1.545
 Psychological services,Psychol Serv,101214316,1.544
 Biochemical genetics,Biochem Genet,0126611,1.543
+Canadian journal of ophthalmology. Journal canadien d'ophtalmologie,Can J Ophthalmol,0045312,1.543
 Journal of microencapsulation,J Microencapsul,8500513,1.543
+"Pathology, research and practice",Pathol Res Pract,7806109,1.543
 "Technometrics : a journal of statistics for the physical, chemical, and engineering sciences",Technometrics,0404554,1.543
 Telecommunication systems,Telecommun Syst,101619670,1.542
+"Anaesthesia, critical care & pain medicine",Anaesth Crit Care Pain Med,101652401,1.542
 European journal of oral sciences,Eur J Oral Sci,9504563,1.54
 Journal of sensory studies,J Sens Stud,9881704,1.54
 Social & cultural geography,Soc Cult Geogr,101588623,1.539
@@ -3318,6 +3581,7 @@ Microscopy : the journal of the Quekett Microscopical Club,Microscopy,100968773,
 Journal of empirical legal studies,J Empir Leg Stud,101519921,1.528
 Asian American journal of psychology,Asian Am J Psychol,101518079,1.528
 Journal of social and clinical psychology,J Soc Clin Psychol,8309652,1.527
+"Environment and planning. B, Planning & design",Environ Plann B Plann Des,101087566,1.527
 Telecommunications policy,Telecomm Policy,9879423,1.526
 Displays,Displays,101165251,1.526
 Journal of computational electronics,J Comput Electron,101263242,1.526
@@ -3337,6 +3601,7 @@ International nursing review,Int Nurs Rev,7808754,1.517
 Financial management,Financ Manage,9877773,1.517
 Journal of electrocardiology,J Electrocardiol,0153605,1.514
 New Zealand veterinary journal,N Z Vet J,0021406,1.514
+Physica D. Nonlinear phenomena,Physica D,9890573,1.514
 Genetic programming and evolvable machines,Genet Program Evolvable Mach,101677188,1.514
 ANZ journal of surgery,ANZ J Surg,101086634,1.513
 Current opinion in otolaryngology & head and neck surgery,Curr Opin Otolaryngol Head Neck Surg,9417024,1.513
@@ -3346,12 +3611,14 @@ Housing studies,Hous Stud,101613454,1.513
 Health and human rights,Health Hum Rights,9502498,1.51
 International journal of consumer studies,Int J Consum Stud,101289797,1.51
 Luminescence : the journal of biological and chemical luminescence,Luminescence,100889025,1.509
+"Journal of money, credit, and banking",J Money Credit Bank,101531081,1.509
 Chinese medicine,Chin Med,101265109,1.508
 Wetlands ecology and management,Wetl Ecol Manag,101670527,1.508
 Photosynthetica,Photosynthetica,0260622,1.507
 Transactions of the American Fisheries Society,Trans Am Fish Soc,7506101,1.502
 Aquatic ecology,Aquat Ecol,100955497,1.5
 Ethics and information technology,Ethics Inf Technol,101248311,1.5
+"Psychology, health & medicine",Psychol Health Med,9604099,1.5
 Research in autism spectrum disorders,Res Autism Spectr Disord,101300021,1.5
 Journal of field ornithology,J Field Ornithol,101471463,1.5
 International journal on Semantic Web and information systems,Int J Semant Web Inf Syst,101480212,1.5
@@ -3392,6 +3659,7 @@ Chinese sociological review,Chin Sociol Rev,101596693,1.476
 Clinics in sports medicine,Clin Sports Med,8112473,1.475
 Immunopharmacology and immunotoxicology,Immunopharmacol Immunotoxicol,8800150,1.475
 Chemosensory perception,Chemosens Percept,101467007,1.474
+"Clean : soil, air, water",Clean (Weinh),101637006,1.473
 Acta veterinaria Scandinavica,Acta Vet Scand,0370400,1.472
 Nuclear medicine communications,Nucl Med Commun,8201017,1.472
 Annals of dermatology,Ann Dermatol,8916577,1.472
@@ -3424,7 +3692,10 @@ Police quarterly,Police Q,101686341,1.457
 Economics of education review,Econ Educ Rev,101087557,1.456
 Behavior modification,Behav Modif,7803043,1.455
 American journal of perinatology,Am J Perinatol,8405212,1.455
+"Chaos, solitons, and fractals",Chaos Solitons Fractals,100971564,1.455
 Molecular cytogenetics,Mol Cytogenet,101317942,1.455
+"Applied physics. A, Materials science & processing",Appl Phys A Mater Sci Process,100910681,1.455
+"Birth defects research. Part B, Developmental and reproductive toxicology",Birth Defects Res B Dev Reprod Toxicol,101155115,1.453
 Botanical studies,Bot Stud,101321928,1.452
 Clinical neuropharmacology,Clin Neuropharmacol,7607910,1.451
 Journal of surfactants and detergents,J Surfactants Deterg,101527053,1.45
@@ -3432,6 +3703,8 @@ Biometrika,Biometrika,0413661,1.448
 Journal of wound care,J Wound Care,9417080,1.446
 Magnetic resonance imaging clinics of North America,Magn Reson Imaging Clin N Am,9422762,1.446
 Journal of dual diagnosis,J Dual Diagn,101197457,1.446
+American economic journal. Microeconomics,Am Econ J Microecon,101633417,1.446
+"Child: care, health and development",Child Care Health Dev,7602632,1.445
 International journal of food sciences and nutrition,Int J Food Sci Nutr,9432922,1.444
 Cognitive development,Cogn Dev,8611882,1.444
 Society and mental health,Soc Ment Health,101564764,1.444
@@ -3460,12 +3733,14 @@ Journal of applied biomedicine,J Appl Biomed,101221755,1.433
 Viral immunology,Viral Immunol,8801552,1.432
 Virus genes,Virus Genes,8803967,1.431
 Journal of adolescent and young adult oncology,J Adolesc Young Adult Oncol,101543508,1.431
+Canadian psychology = Psychologie canadienne,Can Psychol,8108970,1.429
 Limnologica (Online),Limnologica,101263335,1.427
 Family relations,Fam Relat,8002717,1.426
 Environmental engineering science,Environ Eng Sci,9891639,1.426
 Transactions of the American mathematical society,Trans Am Math Soc,101599173,1.426
 Geochronometria,Geochronometria,101666004,1.426
 Journal of molecular modeling,J Mol Model,9806569,1.425
+"Journal of environmental science and health. Part A, Toxic/hazardous substances & environmental engineering",J Environ Sci Health A Tox Hazard Subst Environ Eng,9812551,1.425
 Journal of social and personal relationships,J Soc Pers Relat,8409448,1.425
 Communications in mathematical sciences,Commun Math Sci,101540871,1.425
 Iranian journal of basic medical sciences,Iran J Basic Med Sci,101517966,1.424
@@ -3476,6 +3751,7 @@ Development genes and evolution,Dev Genes Evol,9613264,1.422
 BMC surgery,BMC Surg,100968567,1.422
 Infectious agents and cancer,Infect Agent Cancer,101276559,1.422
 Plant biotechnology reports,Plant Biotechnol Rep,101501730,1.422
+Journal of the American Oil Chemists' Society,J Am Oil Chem Soc,7505574,1.421
 Asian journal of control,Asian J Control,101262633,1.421
 Journal of helminthology,J Helminthol,2985115R,1.42
 Journal of chemical education,J Chem Educ,2985122R,1.419
@@ -3537,6 +3813,7 @@ Behaviour & information technology,Behav Inf Technol,9879927,1.388
 Public opinion quarterly,Public Opin Q,19930130R,1.386
 Isotopes in environmental and health studies,Isotopes Environ Health Stud,9602611,1.386
 Journal of child and family studies,J Child Fam Stud,9214438,1.386
+"Physica. B, Condensed matter",Physica B Condens Matter,101578793,1.386
 International journal of chemical kinetics,Int J Chem Kinet,0322311,1.386
 Japanese journal of applied physics,Jpn J Appl Phys,9876177,1.384
 Minerva endocrinologica,Minerva Endocrinol,8406505,1.383
@@ -3581,8 +3858,11 @@ Physiological entomology,Physiol Entomol,7610589,1.364
 Acta physiologiae plantarum,Acta Physiol Plant,101148937,1.364
 Advances in medical sciences,Adv Med Sci,101276222,1.364
 Computer aided geometric design,Comput Aided Geom Des,101511481,1.364
+"Insurance, mathematics & economics",Insur Math Econ,101087650,1.363
 Evaluation,Evaluation,0415527,1.362
 International dental journal,Int Dent J,0374714,1.362
+"Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes",J Environ Sci Health B,7607167,1.362
+"Nuclear instruments & methods in physics research. Section A, Accelerators, spectrometers, detectors and associated equipment",Nucl Instrum Methods Phys Res A,9881767,1.362
 Journal of ethnic and migration studies,J Ethn Migr Stud,101085207,1.362
 Parallel computing,Parallel Comput,101469721,1.362
 International journal of forensic mental health,Int J Forensic Ment Health,101155398,1.362
@@ -3623,6 +3903,7 @@ Scanning,Scanning,7903371,1.345
 Experimental aging research,Exp Aging Res,7603335,1.345
 Hereditas,Hereditas,0374654,1.345
 Psicothema,Psicothema,101189384,1.344
+Canadian journal of public health = Revue canadienne de sante publique,Can J Public Health,0372714,1.343
 Journal of solution chemistry,J Solution Chem,0342051,1.342
 Endokrynologia Polska,Endokrynol Pol,0370674,1.341
 Kardiologia polska,Kardiol Pol,0376352,1.341
@@ -3631,6 +3912,7 @@ Journal of research of the National Institute of Standards and Technology,J Res 
 Journal of risk research,J Risk Res,101481554,1.34
 Actas espanolas de psiquiatria,Actas Esp Psiquiatr,100886502,1.339
 Scandinavian journal of public health,Scand J Public Health,100883503,1.339
+"Sport, education and society",Sport Educ Soc,101656541,1.339
 Journal of applied clinical medical physics,J Appl Clin Med Phys,101089176,1.338
 Cambridge journal of economics,Cambridge J Econ,9878838,1.338
 Cognitive neuropsychiatry,Cogn Neuropsychiatry,9713497,1.338
@@ -3693,6 +3975,7 @@ Journal of broadcasting & electronic media,J Broadcast Electron Media,101594232,
 Journal of bioactive and compatible polymers,J Bioact Compat Polym,8710961,1.31
 Journal of research on educational effectiveness,J Res Educ Eff,101526285,1.31
 Educational psychology,Educ Psychol (Lond),8219561,1.31
+"Journal of health politics, policy and law",J Health Polit Policy Law,7609331,1.309
 Australian journal of psychology,Aust J Psychol,2984699R,1.309
 Journal of mathematical chemistry,J Math Chem,100971281,1.308
 Men and masculinities,Men Masc,100910415,1.308
@@ -3722,6 +4005,7 @@ International emergency nursing,Int Emerg Nurs,101472191,1.298
 Chemical engineering communications,Chem Eng Commun,9876940,1.297
 Applied ontology,Appl Ontol,101512824,1.296
 Nordic journal of music therapy,Nord J Music Ther,101151220,1.296
+"Bioscience, biotechnology, and biochemistry",Biosci Biotechnol Biochem,9205717,1.295
 Journal of eye movement research,J Eye Mov Res,101532119,1.295
 Quality engineering,Qual Eng,101550255,1.295
 Genetic resources and crop evolution,Genet Resour Crop Evol,100955222,1.294
@@ -3735,6 +4019,7 @@ Turkish journal of chemistry,Turk J Chem,101259104,1.292
 Journal of texture studies,J Texture Stud,0252052,1.29
 Traffic injury prevention,Traffic Inj Prev,101144385,1.29
 Indian journal of microbiology,Indian J Microbiol,0374703,1.29
+"Nonlinear dynamics, psychology, and life sciences",Nonlinear Dynamics Psychol Life Sci,9704130,1.289
 Journal of optimization theory and applications,J Optim Theory Appl,101540765,1.289
 Isis; an international review devoted to the history of science and its cultural influences,Isis,2985182R,1.288
 Pediatrics and neonatology,Pediatr Neonatol,101484755,1.287
@@ -3747,6 +4032,7 @@ Monatshefte fur chemie,Monatsh Chem,0254164,1.282
 Journal of minimal access surgery,J Minim Access Surg,101228183,1.282
 Journal of radioanalytical and nuclear chemistry,J Radioanal Nucl Chem,8406474,1.282
 Radiocarbon,Radiocarbon,100971450,1.28
+"Journal of experimental zoology. Part A, Ecological genetics and physiology",J Exp Zool A Ecol Genet Physiol,101297745,1.28
 Wildlife biology,Wildlife Biol,101605014,1.28
 Physica scripta,Phys Scr,1276005,1.28
 Environmental values,Environ Values,9885957,1.279
@@ -3788,9 +4074,13 @@ Experimental and therapeutic medicine,Exp Ther Med,101531947,1.261
 Cellular & molecular biology letters,Cell Mol Biol Lett,9607427,1.26
 European economic review,Eur Econ Rev,101085045,1.259
 Public health ethics,Public Health Ethics,101463048,1.259
+Molecular therapy oncolytics,Mol Ther Oncolytics,101666776,1.259
 Journal of career development,J Career Dev,101521277,1.258
+"Race, ethnicity and education",Race Ethn Educ,101648494,1.257
+JSLS : Journal of the Society of Laparoendoscopic Surgeons,JSLS,100884618,1.256
 Journal of aging & social policy,J Aging Soc Policy,8914669,1.256
 Cardiology journal,Cardiol J,101392712,1.256
+Canadian journal of occupational therapy. Revue canadienne d'ergotherapie,Can J Occup Ther,0406021,1.255
 Disasters,Disasters,7702072,1.255
 Phytopathologia mediterranea,Phytopathol Mediterr,100955461,1.255
 Cellular reprogramming,Cell Reprogram,101528176,1.255
@@ -3843,6 +4133,7 @@ Journal of applied social psychology,J Appl Soc Psychol,0321050,1.231
 Comparative education review,Comp Educ Rev,101084845,1.231
 Medicina intensiva,Med Intensiva,9207689,1.231
 Qualitative sociology,Qual Sociol,9887278,1.227
+Du Bois review : social science research on race,Du Bois Rev,101560184,1.227
 Children and youth services review,Child Youth Serv Rev,8110100,1.226
 Brazilian journal of physical therapy,Braz J Phys Ther,101615124,1.226
 Current problems in cancer,Curr Probl Cancer,7702986,1.225
@@ -3859,6 +4150,7 @@ Journal of ethnobiology,J Ethnobiol,9892383,1.217
 Human heredity,Hum Hered,0200525,1.216
 Topics in stroke rehabilitation,Top Stroke Rehabil,9439750,1.216
 Creativity research journal,Creat Res J,101279887,1.216
+Archives of disease in childhood. Education and practice edition,Arch Dis Child Educ Pract Ed,101220684,1.215
 Computational intelligence and neuroscience,Comput Intell Neurosci,101279357,1.215
 Journal of comparative pathology,J Comp Pathol,0102444,1.214
 Research on aging,Res Aging,7908221,1.214
@@ -3867,9 +4159,12 @@ Linguistics and philosophy,Linguist Philos,101278735,1.214
 British educational research journal,Br Educ Res J,9885133,1.214
 Cutaneous and ocular toxicology,Cutan Ocul Toxicol,101266892,1.213
 Asia Pacific viewpoint,Asia Pac Viewp,101091309,1.212
+"Journal of law, economics, & organization",J Law Econ Organ,101622802,1.212
 Social work research,Soc Work Res,9434315,1.211
 Population research and policy review,Popul Res Policy Rev,8309372,1.211
 Medical molecular morphology,Med Mol Morphol,101239023,1.21
+"Advances in anatomy, embryology, and cell biology",Adv Anat Embryol Cell Biol,0407712,1.209
+"Professional psychology, research and practice",Prof Psychol Res Pr,8309175,1.209
 Biology & philosophy,Biol Philos,8607458,1.209
 Journal of the American Academy of Audiology,J Am Acad Audiol,9114646,1.208
 International journal of environmental analytical chemistry,Int J Environ Anal Chem,0331757,1.208
@@ -3902,7 +4197,9 @@ Journal of drug delivery science and technology,J Drug Deliv Sci Technol,1012144
 Child indicators research,Child Indic Res,101465745,1.194
 Urban education,Urban Educ (Beverly Hills Calif),101616213,1.194
 Arquivos brasileiros de endocrinologia e metabologia,Arq Bras Endocrinol Metabol,0403437,1.193
+"Language, speech, and hearing services in schools",Lang Speech Hear Serv Sch,0323431,1.193
 European journal of ophthalmology,Eur J Ophthalmol,9110772,1.192
+"Nonlinear analysis, theory, methods & applications",Nonlinear Anal Theory Methods Appl,101491193,1.192
 Cliometrica,Cliometrica (Berl),101620367,1.192
 Advances in botanical research,Adv Bot Res,0000266,1.191
 Journal of disability policy studies,J Disabil Policy Stud,9102702,1.191
@@ -3916,6 +4213,8 @@ Rare metals,Rare Metals,101613978,1.189
 Journal of biosocial science,J Biosoc Sci,0177346,1.188
 Microgravity science and technology,Microgravity Sci Technol,100971602,1.188
 Graphical models,Graph Models,101137122,1.188
+"Journal of neuroscience, psychology, and economics",J Neurosci Psychol Econ,101520255,1.188
+"Journal of health, population, and nutrition",J Health Popul Nutr,100959228,1.187
 Arquivos brasileiros de cardiologia,Arq Bras Cardiol,0421031,1.186
 Journal of family therapy,J Fam Ther,7908149,1.186
 Seminars in ophthalmology,Semin Ophthalmol,8610759,1.185
@@ -3959,6 +4258,7 @@ Health policy and technology,Health Policy Technol,101597449,1.167
 Fire safety journal,Fire Saf J,101668947,1.165
 Journal of veterinary science,J Vet Sci,100964185,1.164
 International journal of antennas and propagation,Int J Antennas Propag,101525827,1.164
+Applied neuropsychology. Child,Appl Neuropsychol Child,101584990,1.164
 Socio-economic planning sciences,Socioecon Plann Sci,9877811,1.163
 Microelectronics journal,Microelectronics J,101094050,1.163
 Clinical and experimental hypertension,Clin Exp Hypertens,7803060,1.162
@@ -3977,6 +4277,7 @@ Urban geography,Urban Geogr,100970798,1.158
 Service science,Serv Sci,101610985,1.158
 Magnesium research,Magnes Res,8900948,1.156
 Third world quarterly,Third World Q,101084672,1.156
+"Medicina oral, patologia oral y cirugia bucal",Med Oral Patol Oral Cir Bucal,101231694,1.156
 International journal of parallel programming,Int J Parallel Program,9882464,1.156
 Electronics letters,Electron Lett,9882899,1.155
 Community mental health journal,Community Ment Health J,0005735,1.154
@@ -3987,6 +4288,7 @@ Comparative cytogenetics,Comp Cytogenet,101503807,1.151
 Journal of urban affairs,J Urban Aff,101558571,1.151
 Analytical letters,Anal Lett,0261510,1.15
 Seminars in interventional radiology,Semin Intervent Radiol,8510974,1.15
+Ostomy/wound management,Ostomy Wound Manage,8912029,1.149
 Mountain research and development,Mt Res Dev,101085265,1.149
 Indian journal of medical microbiology,Indian J Med Microbiol,8700903,1.149
 Clinical and experimental otorhinolaryngology,Clin Exp Otorhinolaryngol,101474010,1.149
@@ -3994,6 +4296,7 @@ Journal of medical biochemistry,J Med Biochem,101315490,1.148
 Microscopy research and technique,Microsc Res Tech,9203012,1.147
 Genetics and molecular biology,Genet Mol Biol,100883590,1.147
 Journal of economic theory,J Econ Theory,101086004,1.147
+"Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz,101181368,1.147
 Cognitive neuropsychology,Cogn Neuropsychol,8411889,1.146
 Annals of vascular surgery,Ann Vasc Surg,8703941,1.145
 Disability & society,Disabil Soc,9888363,1.145
@@ -4004,6 +4307,8 @@ Zeitschrift fur anorganische und allgemeine Chemie,Z Anorg Allg Chem,0033401,1.1
 Orthopedics,Orthopedics,7806107,1.143
 Nursing inquiry,Nurs Inq,9505881,1.143
 Journal of refugee studies,J Refug Stud,9425740,1.143
+"Water quality, exposure, and health",Water Qual Expo Health,101484022,1.143
+Journal of vascular surgery. Venous and lymphatic disorders,J Vasc Surg Venous Lymphat Disord,101607771,1.143
 Geriatric nursing,Geriatr Nurs (Minneap),0046433,1.142
 International journal of circumpolar health,Int J Circumpolar Health,9713056,1.141
 Journal of contemporary Asia,J Contemp Asia,100968651,1.141
@@ -4020,9 +4325,11 @@ Chemical & pharmaceutical bulletin,Chem Pharm Bull (Tokyo),0377775,1.133
 Cadernos de saude publica,Cad Saude Publica,8901573,1.133
 Journal of community & applied social psychology,J Community Appl Soc Psychol,9112936,1.133
 Environmental health and preventive medicine,Environ Health Prev Med,9609642,1.133
+Concurrency and computation : practice & experience,Concurr Comput,101526872,1.133
 International ophthalmology,Int Ophthalmol,7904294,1.132
 Journal of applied philosophy,J Appl Philos,100971946,1.132
 Leisure sciences,Leis Sci,101124846,1.132
+Annales francaises d'anesthesie et de reanimation,Ann Fr Anesth Reanim,8213275,1.131
 Journal of psychiatric and mental health nursing,J Psychiatr Ment Health Nurs,9439514,1.131
 Journal of feline medicine and surgery,J Feline Med Surg,100897329,1.131
 Perspectives in psychiatric care,Perspect Psychiatr Care,0401133,1.13
@@ -4056,6 +4363,8 @@ International journal of offender therapy and comparative criminology,Int J Offe
 System dynamics review,Syst Dyn Rev,101648484,1.111
 American journal of pharmaceutical education,Am J Pharm Educ,0372650,1.109
 Avian diseases,Avian Dis,0370617,1.109
+"Nuclear instruments & methods in physics research. Section B, Beam interactions with materials and atoms",Nucl Instrum Methods Phys Res B,9881766,1.109
+"European annals of otorhinolaryngology, head and neck diseases",Eur Ann Otorhinolaryngol Head Neck Dis,101531465,1.108
 Implant dentistry,Implant Dent,9206481,1.107
 Journal of aerospace engineering,J Aerosp Eng,100971605,1.107
 Journal of applied remote sensing,J Appl Remote Sens,101550230,1.107
@@ -4064,6 +4373,7 @@ British journal of social work,Br J Soc Work,1271641,1.103
 Journal of comparative economics,J Comp Econ,9878840,1.103
 Human fertility,Hum Fertil,17440180R,1.103
 New directions for child and adolescent development,New Dir Child Adolesc Dev,100886823,1.102
+"Signal, image and video processing",Signal Image Video Process,101646680,1.102
 Journal of cardiothoracic surgery,J Cardiothorac Surg,101265113,1.101
 Soft materials,Soft Mater,101471717,1.101
 Comptes rendus biologies,C R Biol,101140040,1.1
@@ -4084,11 +4394,13 @@ Folia neuropathologica,Folia Neuropathol,9437431,1.093
 Dermatologic therapy,Dermatol Ther,9700070,1.093
 International journal of immunogenetics,Int J Immunogenet,101232337,1.093
 Administration & society,Adm Soc,9878831,1.092
+"Journal of neurological surgery. Part B, Skull base",J Neurol Surg B Skull Base,101580780,1.092
 Surface innovations,Surf Innov,101677264,1.091
 Journal for the scientific study of religion,J Sci Study Relig,9886969,1.09
 Journal of seismology,J Seismol,101697605,1.089
 Advances in skin & wound care,Adv Skin Wound Care,100911021,1.088
 Health security,Health Secur,101654694,1.088
+Nuklearmedizin. Nuclear medicine,Nuklearmedizin,7609387,1.087
 Perception,Perception,0372307,1.087
 Journal of nematology,J Nematol,9884299,1.087
 Australian psychologist,Aust Psychol,0332637,1.086
@@ -4102,8 +4414,10 @@ Journal of science education and technology,J Sci Educ Technol,9885805,1.08
 Lymphology,Lymphology,0155112,1.079
 Numerical methods for partial differential equations,Numer Methods Partial Differ Equ,101513992,1.079
 Biorheology,Biorheology,0372526,1.078
+"International journal of mining, reclamation and environment",Int J Min Reclam Environ,101665038,1.078
 Journal of mathematical physics,J Math Phys,9890137,1.077
 International journal of polymer science,Int J Polym Sci,101543201,1.077
+Journal of pediatric hematology/oncology,J Pediatr Hematol Oncol,9505928,1.076
 American journal of audiology,Am J Audiol,9114917,1.076
 Journal of oleo science,J Oleo Sci,101175339,1.076
 Journal of engineering mathematics,J Eng Math,101511471,1.076
@@ -4121,6 +4435,7 @@ International journal of clinical and experimental medicine,Int J Clin Exp Med,1
 Journal of housing economics,J Hous Econ,101522119,1.069
 Pharmacognosy magazine,Pharmacogn Mag,101300403,1.069
 Materials research express,Mater Res Express,101691366,1.068
+"Medicine, health care, and philosophy",Med Health Care Philos,9815900,1.067
 Journal of employment counseling,J Employ Couns,101179619,1.067
 Journal of applied biomaterials & functional materials,J Appl Biomater Funct Mater,101586617,1.067
 Foundations of physics,Found Phys,101622055,1.067
@@ -4140,7 +4455,9 @@ Journal of ethology,J Ethol,9884581,1.061
 BMC medical imaging,BMC Med Imaging,100968553,1.06
 Queueing systems,Queueing Syst,101606447,1.06
 Review of international economics,Rev Int Econ,101634146,1.06
+"Biotechnology, biotechnological equipment",Biotechnol Biotechnol Equip,101128940,1.059
 High pressure research,High Press Res,101550174,1.059
+Canadian journal of experimental psychology = Revue canadienne de psychologie experimentale,Can J Exp Psychol,9315513,1.055
 Optical and quantum electronics,Opt Quantum Electron,101679619,1.055
 Survival,Survival (Lond),100970417,1.054
 Child & youth care forum,Child Youth Care Forum,9108961,1.054
@@ -4168,6 +4485,7 @@ Fiscal studies,Fisc Stud,101531940,1.044
 IET image processing,IET Image Process,101660828,1.044
 Journal of porphyrins and phthalocyanines,J Porphyr Phthalocyanines,9890997,1.043
 Atencion primaria,Aten Primaria,9111075,1.042
+Zeitschrift fur Kinder- und Jugendpsychiatrie und Psychotherapie,Z Kinder Jugendpsychiatr Psychother,9801717,1.042
 Journal of water and health,J Water Health,101185420,1.041
 Journal of intellectual & developmental disability,J Intellect Dev Disabil,9610837,1.041
 Der Anaesthesist,Anaesthesist,0370525,1.039
@@ -4194,6 +4512,8 @@ Nano,Nano,101279753,1.025
 American annals of the deaf,Am Ann Deaf,0414670,1.024
 Stochastic processes and their applications,Stoch Process Their Appl,101542179,1.024
 Optimization methods & software,Optim Methods Softw,101531251,1.023
+Canadian review of sociology = Revue canadienne de sociologie,Can Rev Sociol,101320224,1.022
+"Surgical laparoscopy, endoscopy & percutaneous techniques",Surg Laparosc Endosc Percutan Tech,100888751,1.02
 International journal of educational development,Int J Educ Dev,9880554,1.02
 Journal of psychology and theology,J Psychol Theol,7511221,1.019
 Research in human development,Res Hum Dev,101185265,1.019
@@ -4204,6 +4524,7 @@ Family & community health,Fam Community Health,7809641,1.017
 Applied psychophysiology and biofeedback,Appl Psychophysiol Biofeedback,9712383,1.017
 Mathematical methods in the applied sciences,Math Methods Appl Sci,9888551,1.017
 Jundishapur journal of microbiology,Jundishapur J Microbiol,101515122,1.017
+"Culture, medicine and psychiatry",Cult Med Psychiatry,7707467,1.016
 Central European journal of biology,Cent Eur J Biol,101314734,1.016
 Journal of mountain science,J Mt Sci,101660602,1.016
 Clinical imaging,Clin Imaging,8911831,1.015
@@ -4217,12 +4538,14 @@ Psychiatria polska,Psychiatr Pol,0103314,1.01
 Personalized medicine,Per Med,101238549,1.01
 Engineering computations,Eng Comput (Swansea),101637367,1.01
 British dental journal,Br Dent J,7513219,1.009
+"Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine",Proc Inst Mech Eng H,8908934,1.005
 American journal of veterinary research,Am J Vet Res,0375011,1.004
 Advances in chromatography,Adv Chromatogr,0121020,1
 Health & social work,Health Soc Work,7611528,1
 Journal of music therapy,J Music Ther,0014162,1
 Journal of food biochemistry,J Food Biochem,7706045,1
 History of psychology,Hist Psychol,9808650,1
+African development review = Revue africaine de developpement,Afr Dev Rev,101085138,1
 Journal of economic dynamics & control,J Econ Dyn Control,101085812,1
 Revista brasileira de reumatologia,Rev Bras Reumatol,0404256,1
 Language assessment quarterly,Lang Assess Q,101572466,1
@@ -4231,16 +4554,20 @@ European journal on criminal policy and research,Eur J Crim Pol Res,101617580,1
 Linguistic approaches to bilingualism,Linguist Approaches Biling,101622400,1
 Social influence,Soc Influ,101651773,1
 Formal methods in system design,Form Methods Syst Des,101670328,1
+"Concurrent engineering, research, and applications",Concurr Eng Res Appl,101678087,1
 Revista brasileira de reumatologia,Rev Bras Reumatol Engl Ed,101672232,1
+"New technology, work and employment",New Technol Work Employ,101690598,1
 Acta informatica,Acta Inform,9889990,1
 Journal of genetics,J Genet,2985113R,0.995
 Quintessence international,Quintessence Int (Berl),101281345,0.995
 Journal of biopharmaceutical statistics,J Biopharm Stat,9200436,0.994
 Ethnic and racial studies,Ethn Racial Stud,9891606,0.994
 International journal of pattern recognition and artificial intelligence,Intern J Pattern Recognit Artif Intell,101148923,0.994
+Discrete and continuous dynamical systems. Series B,Discrete Continuous Dyn Syst Ser B,101552619,0.994
 Ethnicity & disease,Ethn Dis,9109034,0.993
 Geochemical journal,Geochem J,100971351,0.991
 Pediatric dermatology,Pediatr Dermatol,8406799,0.99
+"Emotion, space and society",Emot Space Soc,101622328,0.99
 Communications in theoretical physics,Commun Theor Phys,101568775,0.989
 Journal of medical and biological engineering,J Med Biol Eng,101123071,0.989
 Neurocase,Neurocase,9511374,0.988
@@ -4267,7 +4594,9 @@ Journal of near infrared spectroscopy,J Near Infrared Spectrosc,101595978,0.977
 Journal of bryology,J Bryol,100971336,0.975
 Journal of time series analysis,J Time Ser Anal,101574749,0.975
 International journal of central banking,Int J Cent Bank,101591754,0.975
+Journal of the European Optical Society. Rapid publications,J Eur Opt Soc Rapid Publ,101671158,0.975
 Wiener klinische Wochenschrift,Wien Klin Wochenschr,21620870R,0.974
+"Biosecurity and bioterrorism : biodefense strategy, practice, and science",Biosecur Bioterror,101156085,0.974
 Cognitive processing,Cogn Process,101177984,0.974
 Critical sociology,Crit Sociol (Eugene),101092857,0.973
 Linear algebra and its applications,Linear Algebra Appl,101322199,0.973
@@ -4279,6 +4608,7 @@ International journal of computer mathematics,Int J Comput Math,101535681,0.971
 Revista clinica espanola,Rev Clin Esp (Barc),101632437,0.971
 Journal of insect behavior,J Insect Behav,9303873,0.97
 Feminist criminology,Fem Criminol,101514149,0.97
+Wounds : a compendium of clinical research and practice,Wounds,9010276,0.97
 Journal of policy and practice in intellectual disabilities,J Policy Pract Intellect Disabil,101201084,0.97
 Acta theriologica,Acta Theriol (Warsz),0314001,0.968
 Journal of food quality,J Food Qual,7800046,0.968
@@ -4307,8 +4637,10 @@ Bulletin of Latin American research,Bull Lat Am Res,100966947,0.958
 Future virology,Future Virol,101278124,0.958
 Interaction studies,Interact Stud,101512836,0.958
 Marine and freshwater behaviour and physiology,Mar Freshw Behav Physiol,101548682,0.958
+"Pediatric allergy, immunology, and pulmonology",Pediatr Allergy Immunol Pulmonol,101549629,0.958
 Comparative studies in society and history,Comp Stud Soc Hist,100967245,0.956
 Journal of computer science and technology,J Comput Sci Technol,101530317,0.956
+Science China. Mathematics,Sci China Math,101602766,0.956
 Advances in applied probability,Adv Appl Probab,101515457,0.955
 Social epistemology,Soc Epistemol,101688381,0.955
 Journal of plant biochemistry and biotechnology,J Plant Biochem Biotechnol,9600434,0.954
@@ -4322,6 +4654,7 @@ Mathematical modelling of natural phenomena,Math Model Nat Phenom,101512243,0.95
 Revista espanola de medicina nuclear e imagen molecular,Rev Esp Med Nucl Imagen Mol,101585329,0.951
 Wireless personal communications,Wirel Pers Commun,101670529,0.951
 Annals of Indian Academy of Neurology,Ann Indian Acad Neurol,101273955,0.95
+"PS, political science & politics",PS Polit Sci Polit,101570959,0.95
 Journal of visualization,J Vis (Tokyo),101207301,0.95
 Journal of social work practice,J Soc Work Pract,9112939,0.949
 Chimia,Chimia (Aarau),0373152,0.948
@@ -4338,6 +4671,7 @@ Journal of multilingual and multicultural development,J Multiling Multicult Dev,
 Music perception,Music Percept,101238758,0.942
 Daedalus,Daedalus,0037276,0.941
 Philosophical magazine letters,Philos Mag Lett,101518807,0.941
+MCN. The American journal of maternal child nursing,MCN Am J Matern Child Nurs,7605941,0.94
 Reproductive health matters,Reprod Health Matters,9420826,0.94
 Folia biologica,Folia Biol (Krakow),2984758R,0.939
 Folia biologica,Folia Biol (Praha),0234640,0.939
@@ -4346,6 +4680,7 @@ Archaeological prospection,Archaeol Prospect,101604288,0.938
 Journal of phase equilibria and diffusion,J Phase Equilibria Diffus,101683918,0.938
 Computational and mathematical methods in medicine,Comput Math Methods Med,101277751,0.937
 Journal of mechanics in medicine and biology,J Mech Med Biol,101134377,0.934
+"Aviation, space, and environmental medicine",Aviat Space Environ Med,7501714,0.933
 Frontiers in life science,Front Life Sci,101555676,0.933
 Southern medical journal,South Med J,0404522,0.932
 Environment and development economics,Environ Dev Econ,101629784,0.932
@@ -4362,6 +4697,7 @@ Medical law review,Med Law Rev,9308945,0.929
 Reviews in cardiovascular medicine,Rev Cardiovasc Med,100960007,0.929
 Acta reumatologica portuguesa,Acta Reumatol Port,0431702,0.929
 Theory into practice,Theory Pract,101567991,0.929
+"Journal de gynecologie, obstetrique et biologie de la reproduction",J Gynecol Obstet Biol Reprod (Paris),0322206,0.928
 HVAC&R research,HVAC&R Res,101670249,0.928
 Journal of dental education,J Dent Educ,8000150,0.927
 Journal of environmental health,J Environ Health,0405525,0.927
@@ -4432,14 +4768,18 @@ Revista brasileira de anestesiologia,Rev Bras Anestesiol,0401316,0.903
 Journal of linguistics,J Linguist,101574580,0.903
 Metaphor and symbol,Metaphor Symb,101526736,0.903
 Arquivos de neuro-psiquiatria,Arq Neuropsiquiatr,0125444,0.902
+Revue d'epidemiologie et de sante publique,Rev Epidemiol Sante Publique,7608039,0.902
 Ultrasound quarterly,Ultrasound Q,8809459,0.902
 Journal of multivariate analysis,J Multivar Anal,9890139,0.901
 International journal of analytical chemistry,Int J Anal Chem,101519424,0.901
 Journal of plastic surgery and hand surgery,J Plast Surg Hand Surg,101534130,0.901
+Journal of vestibular research : equilibrium & orientation,J Vestib Res,9104163,0.9
 Journal of clinical psychology in medical settings,J Clin Psychol Med Settings,9435680,0.9
+Annali dell'Istituto superiore di sanita,Ann Ist Super Sanita,7502520,0.899
 Statistica Sinica,Stat Sin,101473244,0.899
 Review of African political economy,Rev Afr Polit Econ,101085574,0.898
 Developing world bioethics,Dev World Bioeth,101120122,0.898
+In vitro cellular & developmental biology. Animal,In Vitro Cell Dev Biol Anim,9418515,0.897
 Yonago acta medica,Yonago Acta Med,0414002,0.896
 Texas Heart Institute journal,Tex Heart Inst J,8214622,0.895
 Journal of cutaneous medicine and surgery,J Cutan Med Surg,9614685,0.895
@@ -4448,12 +4788,14 @@ Journal of heterocyclic chemistry,J Heterocycl Chem,0014060,0.893
 Food technology and biotechnology,Food Technol Biotechnol,9703690,0.891
 Kyklos : Jahrbuch des Instituts fur Geschichte der Medizin an der Universitat Leipzig,Kyklos,9429578,0.891
 Oxford review of education,Oxf Rev Educ,101677315,0.89
+"Combustion, explosion, and shock waves",Combust Explos Shock Waves,101616999,0.889
 Contemporary economic policy,Contemp Econ Policy,100973390,0.887
 Bulletin of the Menninger Clinic,Bull Menninger Clin,7507032,0.886
 Zeitschrift fur Gerontologie und Geriatrie,Z Gerontol Geriatr,9506215,0.885
 Applied psychological measurement,Appl Psychol Meas,7905715,0.885
 International journal of nursing knowledge,Int J Nurs Knowl,101582422,0.885
 British poultry science,Br Poult Sci,15740290R,0.884
+"Cryptography and communications : discrete structures, Boolean functions and sequences",Cryptogr Commun,101686667,0.884
 Journal of equine veterinary science,J Equine Vet Sci,8216840,0.882
 Condensed matter physics,Condens Matter Phys,101512866,0.882
 Issues in science and technology,Issues Sci Technol,8502534,0.881
@@ -4462,10 +4804,12 @@ Northwestern University law review,Northwest Univ Law Rev,100972139,0.881
 Teacher education and special education,Teach Educ Spec Educ,101668572,0.881
 Journal of continuing education in nursing,J Contin Educ Nurs,0262321,0.88
 Acta histochemica et cytochemica,Acta Histochem Cytochem,0147110,0.879
+Cranio : the journal of craniomandibular practice,Cranio,8609491,0.877
 Canadian journal of physics,Can J Phys,0372711,0.877
 Journal of the Society for Information Display,J Soc Inf Disp,101265155,0.877
 Journal of oral science,J Oral Sci,9808942,0.876
 Health information and libraries journal,Health Info Libr J,100970070,0.875
+"Earth, moon, and planets",Earth Moon Planets,100971487,0.875
 International journal of injury control and safety promotion,Int J Inj Contr Saf Promot,101247254,0.875
 Economic development and cultural change,Econ Dev Cult Change,0255122,0.875
 SIGMOD record,SIGMOD Rec,9884798,0.875
@@ -4474,10 +4818,13 @@ Electronic journal of statistics,Electron J Stat,101480209,0.873
 Der Nervenarzt,Nervenarzt,0400773,0.872
 Journal of family violence,J Fam Violence,8704564,0.871
 Acupuncture & electro-therapeutics research,Acupunct Electrother Res,7610364,0.87
+"Psychotherapie, Psychosomatik, medizinische Psychologie",Psychother Psychosom Med Psychol,8002823,0.869
+"Nucleosides, nucleotides & nucleic acids",Nucleosides Nucleotides Nucleic Acids,100892832,0.868
 Heat transfer research,Heat Transf Res,101607270,0.868
 Issues in mental health nursing,Issues Ment Health Nurs,7907126,0.867
 Dreaming : journal of the Association for the Study of Dreams,Dreaming,9111382,0.867
 Connection science,Conn Sci,9012163,0.867
+Annales d'endocrinologie,Ann Endocrinol (Paris),0116744,0.866
 Forschende Komplementarmedizin,Forsch Komplementarmed,9440428,0.865
 Iranian Red Crescent medical journal,Iran Red Crescent Med J,101319850,0.865
 Chemistry of heterocyclic compounds,Chem Heterocycl Compd (N Y),0050006,0.865
@@ -4501,6 +4848,7 @@ Synthese,Synthese,100970604,0.855
 Bulletin du cancer,Bull Cancer,0072416,0.853
 Rural and remote health,Rural Remote Health,101174860,0.853
 Australian family physician,Aust Fam Physician,0326701,0.852
+"Journal of agricultural, biological, and environmental statistics",J Agric Biol Environ Stat,9890703,0.852
 Numerical functional analysis and optimization,Numer Funct Anal Optim,101688372,0.852
 Journal of leisure research,J Leis Res,9886827,0.851
 International journal of numerical analysis and modeling,Int J Numer Anal Model,101513038,0.85
@@ -4548,6 +4896,7 @@ Invertebrate reproduction & development,Invertebr Reprod Dev,9000927,0.824
 Urology journal,Urol J,101286676,0.824
 Pediatric annals,Pediatr Ann,0356657,0.823
 Lifetime data analysis,Lifetime Data Anal,9516348,0.823
+"Logopedics, phoniatrics, vocology",Logoped Phoniatr Vocol,9617311,0.822
 Brazilian journal of otorhinolaryngology,Braz J Otorhinolaryngol,101207337,0.822
 Theory & psychology,Theory Psychol,9425964,0.82
 Bulletin of the Chemical Society of Ethiopia,Bull Chem Soc Ethiop,101549991,0.818
@@ -4562,11 +4911,15 @@ Acta veterinaria Hungarica,Acta Vet Hung,8406376,0.814
 Journal of medical primatology,J Med Primatol,0320626,0.814
 European review of economic history,Eur Rev Econ Hist,101518520,0.814
 Zoo biology,Zoo Biol,8807837,0.813
+"Iranian journal of allergy, asthma, and immunology",Iran J Allergy Asthma Immunol,101146178,0.812
 Landscape research,Landsc Res,101616541,0.812
 AI magazine,AI Mag,9882204,0.812
 Asia-Pacific journal of public health,Asia Pac J Public Health,8708538,0.811
+"Geografiska annaler. Series B, Human geography",Geogr Ann Ser B,101086035,0.811
 Indian journal of psychiatry,Indian J Psychiatry,0013255,0.81
 Training and education in professional psychology,Train Educ Prof Psychol,101465137,0.81
+"Proceedings of the Institution of Mechanical Engineers. Part G, Journal of aerospace engineering",Proc Inst Mech Eng G J Aerosp Eng,100971609,0.809
+"Phosphorus, sulfur, and silicon and the related elements",Phosphorus Sulfur Silicon Relat Elem,101263240,0.809
 Journal of ambient intelligence and smart environments,J Ambient Intell Smart Environ,101516389,0.809
 Acta cardiologica,Acta Cardiol,0370570,0.808
 Statistics,Statistics (Ber),101533102,0.807
@@ -4585,11 +4938,13 @@ Journal of bioinformatics and computational biology,J Bioinform Comput Biol,1011
 Journal of cultural economy,J Cult Econ,101566121,0.8
 California agriculture,Calif Agric (Berkeley),9885368,0.8
 Molecular biology,Mol Biol,0131463,0.799
+"Acta crystallographica. Section F, Structural biology communications",Acta Crystallogr F Struct Biol Commun,101620319,0.799
 Color research and application,Color Res Appl,101148934,0.798
 Journal of human kinetics,J Hum Kinet,101513031,0.798
 Journal of law and society,J Law Soc,100968794,0.796
 Social justice research,Soc Justice Res,100972822,0.796
 Toxicological and environmental chemistry,Toxicol Environ Chem,8109171,0.795
+"OTJR : occupation, participation and health",OTJR (Thorofare N J),101144015,0.795
 International journal of industrial organization,Int J Ind Organ,101668400,0.795
 Language & communication,Lang Commun,9878651,0.793
 Clinical social work journal,Clin Soc Work J,0365260,0.793
@@ -4610,8 +4965,10 @@ Biodemography and social biology,Biodemography Soc Biol,101500303,0.781
 Occupational therapy international,Occup Ther Int,9433361,0.78
 Ciencia & saude coletiva,Cien Saude Colet,9713483,0.78
 Natural computing,Nat Comput,101220059,0.778
+Neues Jahrbuch fur Geologie und Palaontologie. Abhandlungen,Neues Jahrb Geol Palaontol Abh,101087243,0.777
 Herz,Herz,7801231,0.776
 "Cells, tissues, organs",Cells Tissues Organs,100883360,0.776
+Central-European journal of immunology,Cent Eur J Immunol,9702239,0.776
 Acta amazonica,Acta Amazon,9884055,0.775
 Journal of the American Psychiatric Nurses Association,J Am Psychiatr Nurses Assoc,9507418,0.773
 Natural product communications,Nat Prod Commun,101477873,0.773
@@ -4654,6 +5011,7 @@ Zoological science,Zoolog Sci,8702287,0.755
 Acta chromatographica,Acta Chromatogr,9816232,0.755
 Journal of electronic imaging,J Electron Imaging,9890371,0.754
 AORN journal,AORN J,0372403,0.753
+"Interdisciplinary sciences, computational life sciences",Interdiscip Sci,101515919,0.753
 Violence and victims,Violence Vict,8916436,0.75
 Animal biotechnology,Anim Biotechnol,9011409,0.75
 Australian systematic botany,Aust Syst Bot,100955225,0.75
@@ -4685,6 +5043,7 @@ Herzogia,Herzogia,101570492,0.74
 Personal Relationships,Pers Relatsh,9887828,0.739
 Language resources and evaluation,Lang Resour Eval,101262174,0.738
 Journal of the history of biology,J Hist Biol,0202503,0.737
+Canadian journal of veterinary research = Revue canadienne de recherche veterinaire,Can J Vet Res,8607793,0.735
 Algorithmica,Algorithmica,101595914,0.735
 Journal of spatial science,J Spat Sci,101697785,0.735
 Acoustical physics,Acoust Phys,9887141,0.734
@@ -4692,6 +5051,7 @@ Colombia medica,Colomb Med,16320250R,0.733
 Vascular,Vascular,101196722,0.733
 Nanoethics,Nanoethics,101311055,0.733
 American journal of law & medicine,Am J Law Med,7509572,0.732
+Laryngo- rhino- otologie,Laryngorhinootologie,8912371,0.732
 Focus on autism and other developmental disabilities,Focus Autism Other Dev Disabl,9890907,0.732
 Current computer-aided drug design,Curr Comput Aided Drug Des,101265750,0.732
 Journal of the Optical Society of Korea,J Opt Soc Korea,101531166,0.732
@@ -4701,23 +5061,27 @@ Microwave and optical technology letters,Microw Opt Technol Lett,101512102,0.731
 Letters in organic chemistry,Lett Org Chem,101207321,0.73
 Medical history,Med Hist,0401052,0.729
 Acta cirurgica brasileira,Acta Cir Bras,9103983,0.729
+Applied neuropsychology. Adult,Appl Neuropsychol Adult,101584082,0.728
 Annals of clinical and laboratory science,Ann Clin Lab Sci,0410247,0.727
 University of Illinois law review,Univ Ill Law Rev,100972221,0.727
 Biomedica : revista del Instituto Nacional de Salud,Biomedica,8205605,0.727
 Foundations of science,Found Sci,9713492,0.727
 Clinics in podiatric medicine and surgery,Clin Podiatr Med Surg,8604974,0.726
 Holistic nursing practice,Holist Nurs Pract,8702105,0.726
+"Journal of neurological surgery. Part A, Central European neurosurgery",J Neurol Surg A Cent Eur Neurosurg,101580767,0.726
 Bulletin of Indonesian economic studies,Bull Indones Econ Stud,101084402,0.725
 Discrete & computational geometry,Discrete Comput Geom,101533553,0.724
 Quality management in health care,Qual Manag Health Care,9306156,0.723
 HNO,HNO,2985099R,0.723
 Studies in history and philosophy of science,Stud Hist Philos Sci,1250602,0.723
 Micro & nano letters,Micro Nano Lett,101284724,0.723
+Journal - American Water Works Association,J Am Water Works Assoc,7505558,0.722
 Ekonomicky casopis,Ekon Cas,101085825,0.72
 Journal of East Asian linguistics,J East Asian Ling,101596714,0.72
 Tropical biomedicine,Trop Biomed,8507086,0.719
 European journal of inflammation,Eur J Inflamm,101184773,0.719
 Macroeconomic dynamics,Macroecon Dyn,101524768,0.718
+European journal of hospital pharmacy. Science and practice,Eur J Hosp Pharm Sci Pract,101578294,0.718
 Revista latinoamericana de psicologia,Rev Latinoam Psicol,1247533,0.717
 Research in gerontological nursing,Res Gerontol Nurs,101392499,0.717
 Zeitschrift fur Rheumatologie,Z Rheumatol,0414162,0.716
@@ -4756,12 +5120,14 @@ Israel journal of ecology & evolution,Isr J Ecol Evol,101306669,0.696
 Minerva cardioangiologica,Minerva Cardioangiol,0400725,0.695
 Ultrastructural pathology,Ultrastruct Pathol,8002867,0.694
 Wilderness & environmental medicine,Wilderness Environ Med,9505185,0.694
+Rendiconti Lincei. Scienze fisiche e naturali,Rend Lincei Sci Fis Nat,100955326,0.693
 European journal of gynaecological oncology,Eur J Gynaecol Oncol,8100357,0.692
 Journal of developmental and physical disabilities,J Dev Phys Disabil,9114160,0.692
 Postepy higieny i medycyny doswiadczalnej,Postepy Hig Med Dosw,0421052,0.69
 Revista espanola de salud publica,Rev Esp Salud Publica,9600212,0.69
 African journal of ecology,Afr J Ecol,9884517,0.69
 Journal of family studies,J Fam Stud,9511977,0.69
+"Medicine, science, and the law",Med Sci Law,0400721,0.689
 Melbourne University law review,Melb Univ Law Rev,100971981,0.689
 Contemporary Southeast Asia,Contemp Southeast Asia,101085916,0.688
 Australian journal of political science,Aust J Polit Sci,101171505,0.688
@@ -4769,9 +5135,11 @@ Environmental and ecological statistics,Environ Ecol Stat,101281613,0.688
 Journal of the Society for Social Work and Research,J Soc Social Work Res,101558405,0.688
 Fundamenta informaticae,Fundam Inform,101605592,0.687
 Community development journal,Community Dev J,100927562,0.685
+"Anatomia, histologia, embryologia",Anat Histol Embryol,7704218,0.683
 Journal of psychophysiology,J Psychophysiol,8806593,0.683
 Central European journal of public health,Cent Eur J Public Health,9417324,0.682
 Sociological inquiry,Sociol Inq,9876642,0.68
+Canadian public policy. Analyse de politiques,Can Public Policy,100972772,0.679
 Journal of veterinary medical education,J Vet Med Educ,7610519,0.679
 Australian & New Zealand journal of statistics,Aust N Z J Stat,101528540,0.679
 Ethnicities,Ethnicities,101604424,0.679
@@ -4798,7 +5166,9 @@ Bulletin of the history of medicine,Bull Hist Med,0141233,0.667
 Journal of the history of the behavioral sciences,J Hist Behav Sci,18020010R,0.667
 Seminars in roentgenology,Semin Roentgenol,0053252,0.667
 Singapore medical journal,Singapore Med J,0404516,0.667
+European review of applied psychology = Revue europeenne de psychologie appliquee,Eur Rev Appl Psychol,9425532,0.667
 Pacific affairs,Pac Aff,100969853,0.667
+"Crime, law, and social change",Crime Law Soc Change,101124082,0.667
 Topological methods in nonlinear analysis,Topol Methods Nonlinear Anal,101571915,0.667
 Laboratory phonology,Lab Phonol,101598362,0.667
 Expositiones mathematicae,Expo Math,101253570,0.667
@@ -4841,6 +5211,7 @@ Journal of nonlinear and convex analysis,J Nonlinear Convex Anal,101520394,0.642
 Human rights quarterly,Hum Rights Q,100972519,0.641
 International journal of manpower,Int J Manpow,101563051,0.641
 International journal of qualitative methods,Int J Qual Methods,101213922,0.641
+Norsk geografisk tidsskrift. Norwegian journal of geography,Nor Geogr Tidsskr,101085890,0.64
 International journal of pest management,Int J Pest Manag,9415083,0.64
 Gender and education,Gend Educ,9883964,0.639
 Discrete mathematics,Discrete Math,101537075,0.639
@@ -4853,6 +5224,7 @@ Journal of the South African Veterinary Association,J S Afr Vet Assoc,7503122,0.
 British journal for the history of science,Br J Hist Sci,0144554,0.635
 African health sciences,Afr Health Sci,101149451,0.635
 Revista latino-americana de enfermagem,Rev Lat Am Enfermagem,9420934,0.634
+Fortschritte der Neurologie-Psychiatrie,Fortschr Neurol Psychiatr,8103137,0.633
 Journal of the history of the neurosciences,J Hist Neurosci,9441330,0.633
 Canadian studies in population,Can Stud Popul,100973050,0.633
 Acta gastro-enterologica Belgica,Acta Gastroenterol Belg,0414075,0.632
@@ -4943,6 +5315,7 @@ Lingua. International review of general linguistics. Revue internationale de lin
 Acta orthopaedica Belgica,Acta Orthop Belg,2985165R,0.576
 Ginekologia polska,Ginekol Pol,0374641,0.576
 Revue des maladies respiratoires,Rev Mal Respir,8408032,0.576
+"International journal of disability, development, and education",Intl J Disabil Dev Educ,9012870,0.576
 Logic journal of the IGPL,Log J IGPL,101516540,0.575
 Journal of pension economics & finance,J Pension Econ Financ,101560254,0.575
 Journal of social service research,J Soc Serv Res,7804338,0.574
@@ -4955,8 +5328,10 @@ Platinum metals review,Platin Met Rev,101585623,0.571
 International review of law and economics,Int Rev Law Econ,101592115,0.57
 Communication disorders quarterly,Commun Disord Q,100958329,0.569
 Journal of Latin American studies,J Lat Am Stud,100968792,0.568
+Journal francais d'ophtalmologie,J Fr Ophtalmol,7804128,0.567
 Quimica nova,Quim Nova,100969383,0.567
 Journal of mental health research in intellectual disabilities,J Ment Health Res Intellect Disabil,101312516,0.567
+"Human service organizations, management, leadership & governance",Hum Serv Organ Manag Leadersh Gov,101634959,0.567
 Genes & genomics,Genes Genomics,101481027,0.566
 Monthly labor review,Mon Labor Rev,9108232,0.565
 Food biotechnology,Food Biotechnol,8802223,0.564
@@ -4981,7 +5356,10 @@ Journal of chemical crystallography,J Chem Crystallogr,9888369,0.549
 Neurocirugia,Neurocirugia,19020070R,0.548
 Social behavior and personality,Soc Behav Pers,0377430,0.548
 Critique of anthropology,Crit Anthropol,101092871,0.548
+Computational geometry : theory and applications,Comput Geom,101533532,0.548
 Journal of public economic theory,J Public Econ Theory,101659810,0.548
+"Journal of logic, language, and information",J Logic Lang Inf,9889027,0.548
+"Journal of aggression, maltreatment & trauma",J Aggress Maltreat Trauma,9802540,0.547
 Journal of testing and evaluation,J Test Eval,101550009,0.547
 Historical methods,Hist Methods,100967057,0.545
 Journal of labor research,J Labor Res,101087398,0.545
@@ -4995,6 +5373,7 @@ City & community,City Community,101619685,0.541
 Law library journal,Law Libr J,9886564,0.54
 Statistics & probability letters,Stat Probab Lett,101317307,0.54
 Clinical lipidology,Clin Lipidol,101502551,0.54
+Revista panamericana de salud publica = Pan American journal of public health,Rev Panam Salud Publica,9705400,0.539
 Gesundheitswesen (Bundesverband der Arzte des Offentlichen Gesundheitsdienstes (Germany)),Gesundheitswesen,9204210,0.538
 Acta ortopedica brasileira,Acta Ortop Bras,9804509,0.538
 Experimental mathematics,Exp Math,101667565,0.538
@@ -5010,6 +5389,7 @@ Materialwissenschaft und Werkstofftechnik,Materwiss Werksttech,101245926,0.524
 Topics in language disorders,Top Lang Disord,8201220,0.524
 Clinical case studies,Clin Case Stud,101128833,0.523
 Journal of Korean Academy of Nursing,J Korean Acad Nurs,101488689,0.521
+"Medizinische Klinik, Intensivmedizin und Notfallmedizin",Med Klin Intensivmed Notfmed,101575086,0.521
 Latin American economic review,Lat Am Econ Rev,101658922,0.52
 Revista medica de Chile,Rev Med Chil,0404312,0.519
 Zeitschrift fur Ethnologie,Z Ethnol,0261057,0.519
@@ -5018,10 +5398,12 @@ Education and training in autism and developmental disabilities,Educ Train Autis
 International review of research in developmental disabilities,Int Rev Res Dev Disabil,101603421,0.519
 Sociological research online,Sociol Res Online,9806551,0.519
 Journal of cardiac surgery,J Card Surg,8908809,0.518
+"Progress in community health partnerships : research, education, and action",Prog Community Health Partnersh,101273946,0.517
 Science & sports,Sci Sports,8707523,0.516
 Zeitschrift fur Wirtschaftsgeographie,Z Wirtschgeogr,101085601,0.516
 Acta botanica Croatica,Acta Bot Croat,101578095,0.516
 Journal of experimental psychopathology,J Exp Psychopathol,101577782,0.516
+"Food, culture, & society",Food Cult Soc,101631836,0.516
 Journal of the Canadian Dental Association,J Can Dent Assoc (Tor),7505590,0.514
 Minds and machines,Minds Mach (Dordr),101668779,0.514
 Journal of agromedicine,J Agromedicine,9421530,0.512
@@ -5037,20 +5419,24 @@ Journal of child & adolescent substance abuse,J Child Adolesc Subst Abuse,943951
 Natural language & linguistic theory,Nat Lang Linguist Theory,101574935,0.506
 Applied engineering in agriculture,Appl Eng Agric,101247936,0.505
 Society,Society,0317062,0.5
+Phyton; annales rei botanicae,Phyton,1263337,0.5
 Outlook on agriculture,Outlook Agric,101086677,0.5
 Journal of post Keynesian economics,J Post Keynes Econ,101087401,0.5
 Defence science journal,Def Sci J,101165239,0.5
 IEEE pulse,IEEE Pulse,101541727,0.5
 Journal of engineered fibers and fabrics,J Eng Fiber Fabr,101563165,0.5
 LC GC North America,LC GC N Am,100935935,0.5
+"Health promotion and chronic disease prevention in Canada : research, policy and practice",Health Promot Chronic Dis Prev Can,101648506,0.5
 Acta medica portuguesa,Acta Med Port,7906803,0.498
 Indian journal of cancer,Indian J Cancer,0112040,0.497
 Acta clinica Croatica,Acta Clin Croat,9425483,0.497
 Differential geometry and its applications,Differ Geom Appl,101670253,0.497
 Journal of convex analysis,J Convex Anal,101520287,0.496
 Revista de biologia tropical,Rev Biol Trop,0404267,0.495
+Klinik psikofarmakoloji bulteni = Bulletin of clinical psychopharmacology,Klinik Psikofarmakol Bulteni,9440289,0.495
 Acta chirurgica Belgica,Acta Chir Belg,0370571,0.494
 Investigacion clinica,Invest Clin,0421531,0.493
+EURE. Revista latinoamericana de estudios urbano regionales,EURE,101087370,0.493
 Pakistan journal of zoology,Pak J Zool,0420541,0.491
 Revista internacional de sociologia,Rev Int Sociol,101084400,0.491
 Nursing science quarterly,Nurs Sci Q,8805022,0.49
@@ -5061,6 +5447,7 @@ Journal of dental sciences,J Dent Sci,101293181,0.488
 Latin American perspectives,Lat Am Perspect,100968894,0.487
 Japan journal of industrial and applied mathematics,Jpn J Ind Appl Math,101512093,0.486
 Library resources & technical services,Libr Resour Tech Serv,57920670R,0.484
+Revstat statistical journal,Revstat Stat J,101564828,0.484
 Korean journal for food science of animal resources,Korean J Food Sci Anim Resour,101660566,0.484
 Australian economic history review,Aust Econ Hist Rev,100966385,0.481
 Teaching Sociology,Teach Sociol,9880435,0.48
@@ -5072,12 +5459,14 @@ Journal of constructivist psychology,J Constr Psychol,9431620,0.476
 Metroeconomica,Metroeconomica,101691502,0.475
 Development Southern Africa,Dev South Afr,101085257,0.474
 Journal of homeland security and emergency management,J Homel Secur Emerg Manag,101208144,0.474
+Doklady. Biochemistry and biophysics,Dokl Biochem Biophys,101126895,0.471
 Conservation genetics resources,Conserv Genet Resour,101505405,0.47
 Technology and culture,Technol Cult,21120500R,0.469
 Intervention in school and clinic,Interv Sch Clin,9425913,0.468
 Der Unfallchirurg,Unfallchirurg,8502736,0.467
 Hippokratia,Hippokratia,101296613,0.467
 Education and urban society,Educ Urban Soc,100967174,0.465
+"International journal of wavelets, multiresolution and information processing",Int J Wavelets Multiresolut Inf Process,101635165,0.463
 Psychoanalysis and history,Psychoanal Hist,100887289,0.462
 International journal of feminist approaches to bioethics,Int J Fem Approaches Bioeth,101475857,0.462
 Candollea,Candollea,101562934,0.462
@@ -5086,6 +5475,7 @@ Biomolecular NMR assignments,Biomol NMR Assign,101472371,0.459
 Phonetica,Phonetica,0376424,0.458
 Arctic anthropology,Arctic Anthropol,0107714,0.458
 The Nautilus,Nautilus (Philadelphia),9890221,0.457
+Communications in statistics: Simulation and computation,Commun Stat Simul Comput,101570578,0.457
 Bulletin of experimental biology and medicine,Bull Exp Biol Med,0372557,0.456
 New Zealand geographer,N Z Geog,100969251,0.455
 Asian-Pacific economic literature,Asia Pac Econ Lit,101085823,0.455
@@ -5099,6 +5489,7 @@ Cornell international law journal,Cornell Int Law J,100972339,0.45
 Open life sciences,Open Life Sci,101669614,0.448
 Zeitschrift fur Soziologie,Z Soziol,101085232,0.447
 American journal of economics and sociology,Am J Econ Sociol,14820160R,0.446
+"Acta mathematica Sinica, English series",Acta Math Sin Engl Ser,101480341,0.446
 Journal of the history of medicine and allied sciences,J Hist Med Allied Sci,0413415,0.444
 Statistics and its interface,Stat Interface,101471232,0.444
 Applied Computational Electromagnetics Society journal,Appl Comput Electromagn Soc J,101662155,0.444
@@ -5113,6 +5504,7 @@ Middle Eastern studies,Middle East Stud,100968805,0.433
 Research and theory for nursing practice,Res Theory Nurs Pract,101146940,0.432
 Northeastern naturalist,Northeast Nat (Steuben),101638126,0.431
 Clinical and experimental obstetrics & gynecology,Clin Exp Obstet Gynecol,7802110,0.429
+"Gynecologie, obstetrique & fertilite",Gynecol Obstet Fertil,100936305,0.429
 Zdravstveno varstvo,Zdr Varst,9412992,0.429
 Communications in algebra,Commun Algebra,101677340,0.429
 Natural resource modeling,Nat Resour Model,101570794,0.426
@@ -5121,6 +5513,7 @@ Business history review,Bus Hist Rev,9879431,0.425
 Contemporary psychoanalysis,Contemp Psychoanal,0042624,0.424
 Computer animation and virtual worlds,Comput Animat Virtual Worlds,101528823,0.424
 Journal of moral philosophy,J Moral Philos,101593777,0.424
+SERIEs : journal of the Spanish Economic Association,SERIEs (Berl),101688375,0.424
 Australian orthodontic journal,Aust Orthod J,1260462,0.423
 Mathematical social sciences,Math Soc Sci,101085418,0.423
 Journal of black studies,J Black Stud,9891938,0.421
@@ -5136,12 +5529,16 @@ Wisconsin law review,Wis L Rev,100971836,0.412
 International journal of developmental disabilities,Int J Dev Disabil,101591528,0.412
 Journal of official statistics,J Off Stat,101084640,0.411
 IEICE transactions on information and systems,IEICE Trans Inf Syst,101530198,0.411
+High temperatures - high pressures,High Temp High Press,101695278,0.408
+"International journal of law, crime and justice",Int J Law Crime Justice,101643514,0.407
 The Internist,Internist,1251744,0.406
+Canadian journal of political science. Revue canadienne de science politique,Can J Polit Sci,0136554,0.406
 Contemporary European history,Contemp Eur Hist,100973341,0.406
 Zentralblatt fur Chirurgie,Zentralbl Chir,0413645,0.405
 Der Radiologe,Radiologe,0401257,0.404
 Seminars in orthodontics,Semin Orthod,9511978,0.404
 Race & class,Race Cl,7708004,0.404
+Canadian journal of behavioural science. Revue canadienne des sciences du comportement,Can J Behav Sci,0172445,0.404
 Buffalo law review,Buffalo Law Rev,100972038,0.404
 Archivos argentinos de pediatria,Arch Argent Pediatr,0372460,0.403
 IAWA journal,IAWA J,101087244,0.403
@@ -5160,6 +5557,7 @@ Tierarztliche Praxis,Tierarztl Prax,7501042,0.389
 Laeknabladid,Laeknabladid,7901326,0.389
 Contributions to nephrology,Contrib Nephrol,7513582,0.388
 Radioprotection,Radioprotection,0110554,0.388
+"Concepts in magnetic resonance. Part B, Magnetic resonance engineering",Concepts Magn Reson Part B Magn Reson Eng,101177553,0.387
 Law and philosophy,Law Philos,100971924,0.383
 "Dynamis (Granada, Spain)",Dynamis,8610855,0.382
 Paedagogica historica,Paedagog Hist,100969876,0.381
@@ -5173,11 +5571,14 @@ International journal of tropical insect science,Int J Trop Insect Sci,101226299
 Social philosophy & policy,Soc Philos Policy,100972119,0.371
 ISPRS international journal of geo-information,ISPRS Int J Geoinf,101623074,0.371
 Continuity and change,Contin Chang,100967254,0.37
+International journal of health economics and management,Int J Health Econ Manag,101674352,0.368
 Vojnosanitetski pregled,Vojnosanit Pregl,21530700R,0.367
+"Journal of women, politics & policy",J Women Polit Policy,101633948,0.367
 International journal of diabetes in developing countries,Int J Diabetes Dev Ctries,101285656,0.366
 Zeitschrift fur klinische Psychologie und Psychotherapie,Z Klin Psychol Psychother,1302504,0.364
 Journal of social history,J Soc Hist,100968095,0.364
 Labor history,Labor Hist,100968810,0.364
+Revue francaise d'allergologie,Rev Fr Allergol,0426573,0.363
 Journal of knot theory and its ramifications,J Knot Theory Ramif,101659074,0.363
 Family law quarterly,Fam Law Q,9879777,0.362
 Journal of Southeast Asian studies,J Southeast Asian Stud,101085069,0.361
@@ -5192,9 +5593,11 @@ Acta Cardiologica Sinica,Acta Cardiol Sin,101687085,0.342
 Folia morphologica,Folia Morphol (Praha),0010076,0.341
 Folia morphologica,Folia Morphol (Warsz),0374620,0.341
 European history quarterly,Eur Hist Q,100967402,0.341
+Canadian journal of sociology = Cahiers canadiens de sociologie,Can J Sociol,101085158,0.341
 African studies,Afr Stud,101085610,0.34
 Econ journal watch,Econ J Watch,101512375,0.339
 Advances in difference equations,Adv Differ Equ,101670234,0.335
+Canadian public administration : Administration publique du Canada,Can Public Adm,9875219,0.333
 Journal of community health nursing,J Community Health Nurs,8411341,0.333
 Revue de pneumologie clinique,Rev Pneumol Clin,8406312,0.333
 History of education,Hist Educ,100967730,0.333
@@ -5206,6 +5609,7 @@ International journal of group psychotherapy,Int J Group Psychother,0374720,0.32
 "Scientist (Philadelphia, Pa.)",Scientist,8709295,0.325
 Journal of architectural and planning research,J Archit Plann Res,101087740,0.325
 DISP,DISP,101681423,0.325
+Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan,Yakugaku Zasshi,0413613,0.324
 Archivos espanoles de urologia,Arch Esp Urol,0064757,0.323
 "Sante publique (Vandoeuvre-les-Nancy, France)",Sante Publique,9216153,0.323
 Asian survey,Asian Surv,9878830,0.323
@@ -5217,12 +5621,14 @@ Nordic psychology,Nord Psychol,101276609,0.316
 Zhurnal obshchei biologii,Zh Obshch Biol,0424252,0.313
 Gaceta medica de Mexico,Gac Med Mex,0010333,0.312
 Journal of musculoskeletal pain,J Musculoskelet Pain,9302330,0.312
+Communications in statistics: theory and methods,Commun Stat Theory Methods,101511026,0.311
 European law review,Eur Law Rev,101092779,0.31
 Catholic University law review,Cathol Univers Law Rev,100972166,0.309
 British journal of hospital medicine,Br J Hosp Med,0171545,0.308
 Archive for history of exact sciences,Arch Hist Exact Sci,15140050R,0.308
 Voprosy psikhologii,Vopr Psikhol,0417403,0.308
 Current medical imaging reviews,Curr Med Imaging Rev,101272516,0.308
+International labor and working class history,Int Labor Work Class Hist,101518239,0.308
 International journal of heavy vehicle systems,Int J Heavy Veh Syst,101663066,0.308
 Language and linguistics,Lang Linguist (Taipei),101680798,0.308
 Aktuelle Urologie,Aktuelle Urol,0421406,0.306
@@ -5250,6 +5656,7 @@ Journal of hematopathology,J Hematop,101491976,0.277
 Cirugia y cirujanos,Cir Cir,0372736,0.276
 Revue de medecine veterinaire,Rev Med Vet (Toulouse),2984778R,0.276
 Social research,Soc Res (New York),20810180R,0.275
+"Revue de stomatologie, de chirurgie maxillo-faciale et de chirurgie orale",Rev Stomatol Chir Maxillofac Chir Orale,101592994,0.274
 "Sociologus; Zeitschrift fur empirische Soziologie, sozialpsychologische und ethnologische Forschung. A Journal for empirical sociology, social psychology, and ethnic research",Sociologus,0027176,0.273
 Environmental ethics,Environ Ethics,9885563,0.271
 French history,Fr Hist,101518525,0.271
@@ -5290,10 +5697,12 @@ Journal of cosmetic science,J Cosmet Sci,9814276,0.222
 Interciencia,Interciencia,7611154,0.221
 Ecology law quarterly,Ecol Law Q,100972181,0.22
 New perspectives on Turkey,New Perspect Turk,101085836,0.217
+"International journal of law, policy, and the family",Int J Law Policy Family,101270454,0.216
 Osteuropa,Osteuropa,100969727,0.215
 Journal of social philosophy,J Soc Philos,100971922,0.214
 Ambix,Ambix,14730560R,0.212
 American speech,Am Speech,100966585,0.211
+Revue d'economie politique,Rev Econ Polit,100969597,0.211
 Journal of comparative family studies,J Comp Fam Stud,7605028,0.208
 Neurophysiology,Neurophysiology,0367663,0.207
 The Futurist,Futurist,9878704,0.206
@@ -5317,6 +5726,7 @@ International review of social history,Int Rev Soc Hist,100968230,0.178
 Psikhologicheskii zhurnal,Psikholog Zh,8900824,0.178
 Terapevticheskii arkhiv,Ter Arkh,2984818R,0.177
 Military law review,Mil Law Rev,9879560,0.174
+"Rural history : economy, society, culture",Rural Hist,101504300,0.174
 Sciences sociales et sante,Sci Soc Sante,8709013,0.171
 Psychologia : an international journal of psychology in the Orient,Psychologia,1267627,0.171
 Journal of quantitative linguistics,J Quant Linguist,101522080,0.171
@@ -5363,6 +5773,7 @@ In practice,In Pract,8106445,0.05
 Zeitgeschichte,Zeitgesch,100970418,0.05
 European journal of English studies,Eur J Engl Stud,101629388,0.048
 Aerospace America,Aerosp Am,100971388,0.047
+Revue d'etudes comparatives est-ouest,Rev Etud Comp Est Ouest,100969630,0.041
 Drugs of the future,Drugs Future,7610442,0.035
 Policy review,Policy Rev,100971921,0
 AATCC review,AATCC Rev,101566310,0
