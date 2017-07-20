@@ -15,7 +15,7 @@ pmc <- read_csv('jlist.csv',
                                           '[0-9]+(?=/$)')) %>%
     select(`Journal title`, Publisher, `PmcId`)
 
-medline_IF <- read_csv('medline-Journal-IF.csv',
+medline_IF <- read_csv('journal-IF-medline.csv',
                        col_types = 'cccd')
 
 # ===== write data
