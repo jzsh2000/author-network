@@ -7,6 +7,7 @@ args = commandArgs(TRUE)
 database_file = args[1]
 medline_file = args[2]
 
+# write csv to stdout, can be piped to a file
 str_subset(read_lines(medline_file), '^JID') %>%
     str_sub(start = 7) %>%
     table() %>%
