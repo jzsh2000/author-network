@@ -16,5 +16,6 @@ str_subset(read_lines(medline_file), '^JID') %>%
                         col_types = 'cccd'), by = "NlmId") %>%
     arrange(desc(ImpactFactor)) %>%
     select(JournalTitle, ImpactFactor, value) %>%
+    rename(Count=value) %>%
     format_csv() %>%
     cat()
