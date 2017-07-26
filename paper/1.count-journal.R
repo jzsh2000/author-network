@@ -41,6 +41,7 @@ extract_single_line <- function(text_column, pattern) {
 medline %>%
     mutate(journal_title_abbr = extract_single_line(.$text, '^TA ')) %>%
     mutate(journal_title = extract_single_line(.$text, '^JT ')) %>%
+    mutate(journal_id = extract_single_line(.$text, '^JID ')) %>%
     mutate(entrez_date = extract_single_line(.$text, '^EDAT')) %>%
     mutate(entrez_date = ymd(str_extract(entrez_date, '^[^ ]*'))) %>%
     mutate(publication_type = map_chr(.$text, function(medline_text) {
