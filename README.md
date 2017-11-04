@@ -26,6 +26,12 @@
     of the first author of that article. If the last parameter is not set, the
     first author will be chosen.
 
+    If you are confident that there is no duplicate name for the specified
+    author in pubmed, the pubmed auticle id can be omitted. For example:
+    ```bash
+    python network.py "Yan, Xiyun"
+    ```
+
     After running this command, a folder called 'network' will be generated in
     the current directory. There should be three files in that folder,
     `network.sif`, `node.csv` and `edge.csv`, and they can be imported to
