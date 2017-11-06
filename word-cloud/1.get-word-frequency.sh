@@ -2,13 +2,14 @@
 set -ueo pipefail
 
 author=${1:-regev}
-abstract_file=${author}/${author}.abstract.txt
-abstract_tok_file=${author}/${author}.abstract.tok.txt
-abstract_true_file=${author}/${author}.abstract.true.txt
+medline_file=${author}/pubmed.txt
+abstract_file=${author}/pubmed.abstract.txt
+abstract_tok_file=${author}/pubmed.abstract.tok.txt
+abstract_true_file=${author}/pubmed.abstract.true.txt
 truecase_model=${author}/truecase-model
-word_file=${author}/${author}.word.txt
+word_file=${author}/pubmed.word.txt
 
-cat ${author}/${author}.txt \
+cat $medline_file \
     | sed -n '/^AB /,/^[^ ]/p' \
     | sed -e 's/^[^A ].*//' \
     | sed -e 's/^AB  -/     /' -e 's/^  *//' \

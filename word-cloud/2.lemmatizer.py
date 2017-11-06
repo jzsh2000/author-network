@@ -13,7 +13,7 @@ if len(sys.argv) == 1:
 else:
     author = sys.argv[1]
 
-word_file = os.path.join(author, author + '.word.txt')
+word_file = os.path.join(author, 'pubmed.word.txt')
 word_dict = {}
 for line in open(word_file).readlines():
     word, freq = line.split()
@@ -28,7 +28,7 @@ for line in open(word_file).readlines():
         word_dict[word] += freq
 
 
-out_file = os.path.join(author, author + '.word.clean.txt')
+out_file = os.path.join(author, 'pubmed.word.clean.txt')
 with open(out_file, 'w') as f:
     f.write('word\tfreq\n')
     for word, freq in word_dict.items():
