@@ -1,10 +1,17 @@
-# dependancies
+About
+=====
+This module is used to generate a word-cloud image for the abstracts of
+publications of an author.
+
+Dependancies
+============
 
 * entrez-direct <https://www.ncbi.nlm.nih.gov/news/02-06-2014-entrez-direct-released/>
 * `NLTK` module (in python)
 * `tidyverse` and `wordcloud` package (in R)
 
-# usage
+Usage
+=====
 
 Run the following command for test:
 ```bash
@@ -19,3 +26,8 @@ notice that the family name and the given name are sperated by a comma.
 > Warning: If the author name be used to run the script is too common, the
 > program may take a long time and not output desired results, especially when
 > the name is in the format of Chinese pinyin.
+
+Example
+=======
+
+![word cloud (Regev)](example/regev.png?raw=true "Word Cloud Image - Aviv Regev")
