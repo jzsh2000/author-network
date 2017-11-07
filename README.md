@@ -1,4 +1,8 @@
-# usage
+Author Network
+==============
+
+Usage
+-----
 
 1. set your email address in environment variable 'EMAIL'. This variable will
    be used when fetching data from NCBI.
@@ -56,3 +60,11 @@
     in your R environment.
 
     Here is a live example: <https://rawgit.com/jzsh2000/author-network/master/example/network.html>
+
+
+Toolkit
+-------
+
+* `paper` - generate a plot for an author's publications
+* `word-cloud` - generate a word-cloud image for the abstracts of an author's
+  publications
