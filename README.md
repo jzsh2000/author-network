@@ -67,6 +67,6 @@ Usage
 Toolkit
 -------
 
-* `paper` - generate a plot for an author's publications
-* `word-cloud` - generate a word-cloud image for the abstracts of an author's
+* [paper](https://github.com/jzsh2000/author-network/tree/master/paper) - generate a plot for an author's publications
+* [word-cloud](https://github.com/jzsh2000/author-network/tree/master/word-cloud) - generate a word-cloud image for the abstracts of an author's
   publications
